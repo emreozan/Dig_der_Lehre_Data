@@ -1,0 +1,827 @@
+<!DOCTYPE html>
+<!-- jsn_epic_pro 6.2.3 -->
+<html lang="*" dir="ltr">
+<head>
+	<base href="http://www.murrayhogg.co.uk/" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="Road transport, warehousing, murray hogg, murray hogg haulage, vehicle movements, car transportation, general haulage, north east haulier, road haulage association, newcastle haulage, secure storage" />
+	<meta name="description" content="Murray Hogg Ltd. is one the oldest and most experienced haulage company's in the North East, if not throughout the UK, established in 1928..." />
+	<meta name="generator" content="a GizaLook Solution" />
+	<title>Home - Murray Hogg Haulage</title>
+	<link href="/index.php?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+	<link href="/index.php?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+	<link href="/templates/jsn_epic_pro/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/media/plg_system_loginpopup/css/style.css" rel="stylesheet" type="text/css" />
+	<link href="/components/com_imageshow/assets/css/style.css" rel="stylesheet" type="text/css" />
+	<link href="/media/jui/css/bootstrap.min.css?835c4777462f39cbac790b7e35e197f1" rel="stylesheet" type="text/css" />
+	<link href="/media/jui/css/bootstrap-responsive.min.css?835c4777462f39cbac790b7e35e197f1" rel="stylesheet" type="text/css" />
+	<link href="/media/jui/css/bootstrap-extended.css?835c4777462f39cbac790b7e35e197f1" rel="stylesheet" type="text/css" />
+	<link href="/plugins/system/jsntplframework/assets/3rd-party/bootstrap/css/bootstrap-frontend.min.css" rel="stylesheet" type="text/css" />
+	<link href="/plugins/system/jsntplframework/assets/3rd-party/bootstrap/css/bootstrap-responsive-frontend.min.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/system/css/system.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/system/css/general.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/jsn_epic_pro/css/template.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/jsn_epic_pro/css/template_pro.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/jsn_epic_pro/css/colors/red.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/jsn_epic_pro/css/styles/business.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/jsn_epic_pro/css/layouts/jsn_wide.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/jsn_epic_pro/css/layouts/jsn_mobile.css" rel="stylesheet" type="text/css" />
+	<link href="//fonts.googleapis.com/css?family=Nobile:regular,bold" rel="stylesheet" type="text/css" />
+	<link href="/templates/jsn_epic_pro/css/font-icons/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/jsn_epic_pro/css/murray-hogg.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/jsn_epic_pro/css/custom.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/jsn_epic_pro/css/font-awsome.min.css" rel="stylesheet" type="text/css" />
+	<link href="/media/system/css/modal.css?835c4777462f39cbac790b7e35e197f1" rel="stylesheet" type="text/css" />
+	<link href="/plugins/system/pagebuilder/assets/3rd-party/bootstrap3/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+	<link href="/plugins/system/pagebuilder/assets/css/pagebuilder.css" rel="stylesheet" type="text/css" />
+	<link href="/plugins/system/pagebuilder/assets/css/jsn-gui-frontend.css" rel="stylesheet" type="text/css" />
+	<link href="/plugins/system/pagebuilder/assets/css/front_end.css" rel="stylesheet" type="text/css" />
+	<link href="/plugins/system/pagebuilder/assets/css/front_end_responsive.css" rel="stylesheet" type="text/css" />
+	<link href="/plugins/jsnimageshow/themegrid/assets/css/style.css" rel="stylesheet" type="text/css" />
+	<link href="/plugins/jsnimageshow/themegrid/assets/css/prettyPhoto.css" rel="stylesheet" type="text/css" />
+	<link href="/plugins/jsnimageshow/themeslider/assets/css/style.css" rel="stylesheet" type="text/css" />
+	<link href="/plugins/jsnimageshow/themeslider/assets/css/skitter/skitter.styles.css" rel="stylesheet" type="text/css" />
+	<style type="text/css">
+	div.jsn-modulecontainer ul.menu-mainmenu ul,
+	div.jsn-modulecontainer ul.menu-mainmenu ul li {
+		width: 200px;
+	}
+	div.jsn-modulecontainer ul.menu-mainmenu ul ul {
+		margin-left: 199px;
+	}
+	#jsn-pos-toolbar div.jsn-modulecontainer ul.menu-mainmenu ul ul {
+		margin-right: 199px;
+		margin-left : auto
+	}
+	div.jsn-modulecontainer ul.menu-sidemenu ul,
+	div.jsn-modulecontainer ul.menu-sidemenu ul li {
+		width: 200px;
+	}
+	div.jsn-modulecontainer ul.menu-sidemenu li ul {
+		right: -200px;
+	}
+	body.jsn-direction-rtl div.jsn-modulecontainer ul.menu-sidemenu li ul {
+		left: -200px;
+		right: auto;
+	}
+	div.jsn-modulecontainer ul.menu-sidemenu ul ul {
+		margin-left: 199px;
+	}.jsn-themeslider-skitter-j3Dkx .label_skitter {filter:alpha(opacity=75);opacity: 0.75;}.jsn-themeslider-skitter-j3Dkx .label_skitter p.jsn-themeslider-caption-title {font-family: Verdana;
+font-size: 1.3em;
+font-weight: bold;
+color: #fff;}.jsn-themeslider-skitter-j3Dkx .label_skitter p.jsn-themeslider-caption-description {font-family: Arial;
+font-size: 11px;
+font-weight: bold;
+color: #fff;}.jsn-themeslider-skitter-j3Dkx .label_skitter a.jsn-themeslider-caption-link {font-family: Verdana;
+font-size: 11px;
+font-weight: bold;
+text-align: right;
+color: #E06614;}.jsn-themeslider-skitter-j3Dkx .label_skitter {bottom: 0;}.jsn-themeslider-skitter-j3Dkx .info_slide {top: 15px;}.jsn-themeslider-skitter-j3Dkx .info_slide_dots {top: 15px;}
+	</style>
+	<!--[if lt IE 9]>
+	<script src="/media/system/js/polyfill.event.js?835c4777462f39cbac790b7e35e197f1" type="text/javascript"></script><![endif]-->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0" />
+
+	<!-- html5.js and respond.min.js for IE less than 9 -->
+	<!--[if lt IE 9]>
+	<![endif]--></head>
+<body id="jsn-master" class="jsn-textstyle-business jsn-color-red jsn-direction-ltr jsn-responsive jsn-mobile jsn-joomla-30 jsn-demo-page jsn-com-content jsn-view-featured jsn-itemid-435 jsn-homepage">
+	<a name="top" id="top"></a>
+		<div id="jsn-topbar">
+		<div id="jsn-pos-topbar">
+			<div class=" jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div class="jsn-modulecontent"><span id="jsn-menu-toggle-parent" class="jsn-menu-toggle"><i class="fa fa-navicon"></i></span>
+<ul class="menu-topmenu menu-iconmenu">
+	<li class="jsn-menu-mobile-control"><span class="close-menu"><i class="fa fa-times"></i></span></li> 
+	<li  class="first jsn-icon-info">	<a class="clearfix" href="/index.php/contact-us" >
+		<i class="jsn-icon-info "></i>		<span>
+		<span class="jsn-menutitle">Haulage & Storage - 0191 236 4211</span>		</span>
+	</a>
+	</li><li  class="last jsn-icon-info">	<a class="clearfix" href="/index.php/contact-us" >
+		<i class="jsn-icon-info "></i>		<span>
+		<span class="jsn-menutitle">Vehicle Movements - 0191 236 1101</span>		</span>
+	</a>
+	</li></ul><div class="clearbreak"></div></div></div></div>
+		</div>
+		<div class="clearbreak"></div>
+	</div>
+		<div id="jsn-page" class="container">
+		<div id="jsn-page-inner">
+					<div id="jsn-header">
+				<div id="jsn-logo" class="pull-left">
+				<a href="/index.php" title=""><img src="/images/logo/logomainSm.png" alt="" id="jsn-logo-mobile" /><img src="/images/logo/logomain.png" alt="" id="jsn-logo-desktop" /></a>				</div>
+				<div id="jsn-headerright" class="pull-right">
+									<div id="jsn-pos-top" class="pull-left">
+						<div class=" jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div class="jsn-modulecontent">
+<div  >
+	<p style="text-align: right;"><a class="link-button button-red" href="/index.php/contact-us">Get In Touch Today!</a></p></div><div class="clearbreak"></div></div></div></div>
+						<div class="clearbreak"></div>
+					</div>
+								</div>
+				<div class="clearbreak"></div>
+			</div>
+			<div id="jsn-body">
+							<div id="jsn-menu">
+									<div id="jsn-pos-mainmenu" >
+						<div class=" jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div class="jsn-modulecontent"><span id="jsn-menu-toggle-parent" class="jsn-menu-toggle"><i class="fa fa-navicon"></i></span>
+<ul class="menu-mainmenu menu-iconmenu">
+	<li class="jsn-menu-mobile-control"><span class="close-menu"><i class="fa fa-times"></i></span></li> 
+	<li  class="current active first"><a class="current clearfix" href="/index.php" >
+		<span>
+		<span class="jsn-menutitle">Home</span>	</span>
+</a></li><li  class="parent"><a class="clearfix" href="/index.php/our-services" >
+		<span>
+		<span class="jsn-menutitle">Our Services</span>	</span>
+</a><span class="jsn-menu-toggle"><i class="fa fa-navicon"></i></span><ul><li  class="first"><a class="clearfix" href="/index.php/our-services/general-haulage" >
+		<span>
+		<span class="jsn-menutitle">General Haulage</span>	</span>
+</a></li><li  class="parent"><a class="clearfix" href="/index.php/our-services/car-transportation" >
+		<span>
+		<span class="jsn-menutitle">Car Transportation</span>	</span>
+</a><span class="jsn-menu-toggle"><i class="fa fa-navicon"></i></span><ul><li  class="first last">	<a class="clearfix" href="/index.php/loading-a-vehicle" >
+				<span>
+		<span class="jsn-menutitle">Loading Car Transporter</span>		</span>
+	</a>
+	</li></ul></li><li  class="">	<a class="clearfix" href="/index.php/our-services/car-transportation" >
+				<span>
+		<span class="jsn-menutitle">Car Storage</span>		</span>
+	</a>
+	</li><li  class=""><a class="clearfix" href="/index.php/our-services/storage" >
+		<span>
+		<span class="jsn-menutitle">Secure Storage</span>	</span>
+</a></li><li  class="">	<a class="clearfix" href="/index.php/our-services/storage" >
+				<span>
+		<span class="jsn-menutitle">Container Loading/unloading</span>		</span>
+	</a>
+	</li><li  class=""><a class="clearfix" href="/index.php/our-services/pallet-network" >
+		<span>
+		<span class="jsn-menutitle">Pallet Network</span>	</span>
+</a></li><li  class="last">	<a class="clearfix" href="/index.php/driver-development" >
+				<span>
+		<span class="jsn-menutitle">Driver Development</span>		</span>
+	</a>
+	</li></ul></li><li  class=""><a class="clearfix" href="/index.php/job-vacancies" >
+		<span>
+		<span class="jsn-menutitle">Job Vacancies</span>	</span>
+</a></li><li  class=""><a class="clearfix" href="/index.php/carbon-footprint" >
+		<span>
+		<span class="jsn-menutitle">Carbon Footprint</span>	</span>
+</a></li><li  class=""><a class="clearfix" href="/index.php/vehicle-gallery" >
+		<span>
+		<span class="jsn-menutitle">Vehicle Gallery</span>	</span>
+</a></li><li  class="parent"><a class="clearfix" href="/index.php/about-us" >
+		<span>
+		<span class="jsn-menutitle">About Us</span>	</span>
+</a><span class="jsn-menu-toggle"><i class="fa fa-navicon"></i></span><ul><li  class="first"><a class="clearfix" href="/index.php/about-us/our-history" >
+		<span>
+		<span class="jsn-menutitle">Our History</span>	</span>
+</a></li><li  class="last"><a class="clearfix" href="/index.php/about-us/movies" >
+		<span>
+		<span class="jsn-menutitle">Movies</span>	</span>
+</a></li></ul></li><li  class=""><a class="clearfix" href="/index.php/contact-us" >
+		<span>
+		<span class="jsn-menutitle">Contact Us</span>	</span>
+</a></li><li  class="last">	<a class="clearfix" href="#login" >
+				<span>
+		<span class="jsn-menutitle">Staff Login</span>		</span>
+	</a>
+	</li></ul><div class="clearbreak"></div></div></div></div>
+											</div>
+													<span id="jsn-desktopswitch">
+						<a href="#" onclick="javascript: JSNUtils.setTemplateAttribute('jsn_epic_pro_','mobile','no'); return false;"></a>
+					</span>
+					<span id="jsn-mobileswitch">
+						<a href="#" onclick="javascript: JSNUtils.setTemplateAttribute('jsn_epic_pro_','mobile','yes'); return false;"></a>
+					</span>
+					            <div class="clearbreak"></div>
+				</div>
+							<div id="jsn-content-top" class="jsn-haspromoright ">
+					<div id="jsn-promo" class="row-fluid">
+					                    <div id="jsn-pos-promo" class="span9 order1 ">
+	                        <div class=" jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div><div><div class="jsn-modulecontent"><!-- JSN IMAGESHOW PRO UNLIMITED 5.0.13 - Theme Slider 1.2.9 --><div class="jsn-container"><div class="jsn-gallery"><div id="jsn-themeslider-skitter-j3Dkx"><div style="width: 100%; height: 430px;" class="box_skitter jsn-themeslider-gallery jsn-themeslider-skitter-j3Dkx">
+<ul><li>
+			   			<a href="javascript:void(0);" >
+			   				<img src="http://www.murrayhogg.co.uk/images/gallery/after-main.jpg" title="Murray Hogg Haulage" alt="Murray Hogg Haulage"/>
+			   			</a>
+			   			<div class="label_text"><p class="jsn-themeslider-caption-title">Murray Hogg Haulage</p><p class="jsn-themeslider-caption-description">Call Now 0191 236 4211  - For All Your Transport Needs</p></div>
+					 </li><li>
+			   			<a href="javascript:void(0);" >
+			   				<img src="http://www.murrayhogg.co.uk/images/gallery/g003-hp.jpg" title="Murray Hogg Haulage" alt="Murray Hogg Haulage"/>
+			   			</a>
+			   			<div class="label_text"><p class="jsn-themeslider-caption-title">Murray Hogg Haulage</p><p class="jsn-themeslider-caption-description">Call Now 0191 236 4211  - For All Your Transport Needs</p></div>
+					 </li><li>
+			   			<a href="javascript:void(0);" >
+			   				<img src="http://www.murrayhogg.co.uk/images/gallery/g11001.jpg" title="Murray Hogg Haulage" alt="Murray Hogg Haulage"/>
+			   			</a>
+			   			<div class="label_text"><p class="jsn-themeslider-caption-title">Murray Hogg Haulage</p><p class="jsn-themeslider-caption-description">Call Now 0191 236 4211  - For All Your Transport Needs</p></div>
+					 </li><li>
+			   			<a href="javascript:void(0);" >
+			   				<img src="http://www.murrayhogg.co.uk/images/gallery/g011-hp.jpg" title="Murray Hogg Haulage" alt="Murray Hogg Haulage"/>
+			   			</a>
+			   			<div class="label_text"><p class="jsn-themeslider-caption-title">Murray Hogg Haulage</p><p class="jsn-themeslider-caption-description">Call Now 0191 236 4211  - For All Your Transport Needs</p></div>
+					 </li><li>
+			   			<a href="javascript:void(0);" >
+			   				<img src="http://www.murrayhogg.co.uk/images/gallery/g002-hp.jpg" title="Murray Hogg Haulage" alt="Murray Hogg Haulage"/>
+			   			</a>
+			   			<div class="label_text"><p class="jsn-themeslider-caption-title">Murray Hogg Haulage</p><p class="jsn-themeslider-caption-description">Call Now 0191 236 4211  - For All Your Transport Needs</p></div>
+					 </li><li>
+			   			<a href="javascript:void(0);" >
+			   				<img src="http://www.murrayhogg.co.uk/images/gallery/g11003.jpg" title="Murray Hogg Haulage" alt="Murray Hogg Haulage"/>
+			   			</a>
+			   			<div class="label_text"><p class="jsn-themeslider-caption-title">Murray Hogg Haulage</p><p class="jsn-themeslider-caption-description">Call Now 0191 236 4211  - For All Your Transport Needs</p></div>
+					 </li><li>
+			   			<a href="javascript:void(0);" >
+			   				<img src="http://www.murrayhogg.co.uk/images/gallery/g0033-hp.jpg" title="Murray Hogg Haulage" alt="Murray Hogg Haulage"/>
+			   			</a>
+			   			<div class="label_text"><p class="jsn-themeslider-caption-title">Murray Hogg Haulage</p><p class="jsn-themeslider-caption-description">Call Now 0191 236 4211  - For All Your Transport Needs</p></div>
+					 </li><li>
+			   			<a href="javascript:void(0);" >
+			   				<img src="http://www.murrayhogg.co.uk/images/gallery/g006-hp.jpg" title="Murray Hogg Haulage" alt="Murray Hogg Haulage"/>
+			   			</a>
+			   			<div class="label_text"><p class="jsn-themeslider-caption-title">Murray Hogg Haulage</p><p class="jsn-themeslider-caption-description">Call Now 0191 236 4211  - For All Your Transport Needs</p></div>
+					 </li><li>
+			   			<a href="javascript:void(0);" >
+			   				<img src="http://www.murrayhogg.co.uk/images/gallery/g007-hp.jpg" title="Murray Hogg Haulage" alt="Murray Hogg Haulage"/>
+			   			</a>
+			   			<div class="label_text"><p class="jsn-themeslider-caption-title">Murray Hogg Haulage</p><p class="jsn-themeslider-caption-description">Call Now 0191 236 4211  - For All Your Transport Needs</p></div>
+					 </li><li>
+			   			<a href="javascript:void(0);" >
+			   				<img src="http://www.murrayhogg.co.uk/images/gallery/g11002.jpg" title="Murray Hogg Haulage" alt="Murray Hogg Haulage"/>
+			   			</a>
+			   			<div class="label_text"><p class="jsn-themeslider-caption-title">Murray Hogg Haulage</p><p class="jsn-themeslider-caption-description">Call Now 0191 236 4211  - For All Your Transport Needs</p></div>
+					 </li><li>
+			   			<a href="javascript:void(0);" >
+			   				<img src="http://www.murrayhogg.co.uk/images/gallery/gC001-hp1.jpg" title="Murray Hogg Haulage" alt="Murray Hogg Haulage"/>
+			   			</a>
+			   			<div class="label_text"><p class="jsn-themeslider-caption-title">Murray Hogg Haulage</p><p class="jsn-themeslider-caption-description">Call Now 0191 236 4211  - For All Your Transport Needs</p></div>
+					 </li><li>
+			   			<a href="javascript:void(0);" >
+			   				<img src="http://www.murrayhogg.co.uk/images/gallery/g004-hp.jpg" title="Murray Hogg Haulage" alt="Murray Hogg Haulage"/>
+			   			</a>
+			   			<div class="label_text"><p class="jsn-themeslider-caption-title">Murray Hogg Haulage</p><p class="jsn-themeslider-caption-description">Call Now 0191 236 4211  - For All Your Transport Needs</p></div>
+					 </li><li>
+			   			<a href="javascript:void(0);" >
+			   				<img src="http://www.murrayhogg.co.uk/images/gallery/g11004.jpg" title="Murray Hogg Haulage" alt="Murray Hogg Haulage"/>
+			   			</a>
+			   			<div class="label_text"><p class="jsn-themeslider-caption-title">Murray Hogg Haulage</p><p class="jsn-themeslider-caption-description">Call Now 0191 236 4211  - For All Your Transport Needs</p></div>
+					 </li></ul><input type="hidden" class="cache_skitter_index" value="" /></div>
+</div><div class="jsn-themeslider-seocontent">
+<div><p>Murray Hogg Haulage</p><p>Call Now 0191 236 4211  - For All Your Transport Needs</p><ul><li><p>Murray Hogg Haulage</p><p><p><br /></p></p></li><li><p>Murray Hogg Haulage</p></li><li><p>Murray Hogg Haulage</p></li><li><p>Murray Hogg Haulage</p></li><li><p>Murray Hogg Haulage</p></li><li><p>Murray Hogg Haulage</p></li><li><p>Murray Hogg Haulage</p></li><li><p>Murray Hogg Haulage</p></li><li><p>Murray Hogg Haulage</p></li><li><p>Murray Hogg Haulage</p></li><li><p>Murray Hogg Haulage</p></li><li><p>Murray Hogg Haulage</p></li><li><p>Murray Hogg Haulage</p></li></ul></div></div>
+</div></div><div class="clearbreak"></div></div></div></div></div></div>
+	                    </div>
+					                    <div id="jsn-pos-promo-right" class="span3 order2 ">
+							<div class="richbox-1 jsn-icon-star jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div><div><h3 class="jsn-moduletitle"><span class="jsn-moduleicon">Useful Links</span></h3><div class="jsn-modulecontent"><span id="jsn-menu-toggle-parent" class="jsn-menu-toggle"><i class="fa fa-navicon"></i></span>
+<ul class="menu-treemenu">
+	<li class="jsn-menu-mobile-control"><span class="close-menu"><i class="fa fa-times"></i></span></li> 
+	<li  class="first">	<a class="clearfix" href="/index.php/our-services/general-haulage" >
+				<span>
+		<span class="jsn-menutitle">General Haulage</span>		</span>
+	</a>
+	</li><li  class="">	<a class="clearfix" href="/index.php/our-services/car-transportation" >
+				<span>
+		<span class="jsn-menutitle">Car Transportation</span>		</span>
+	</a>
+	</li><li  class="">	<a class="clearfix" href="/index.php/our-services/storage" >
+				<span>
+		<span class="jsn-menutitle">Secure Storage</span>		</span>
+	</a>
+	</li><li  class="">	<a class="clearfix" href="/index.php/our-services/pallet-network" >
+				<span>
+		<span class="jsn-menutitle">Pallet Network</span>		</span>
+	</a>
+	</li><li  class="">	<a class="clearfix" href="/index.php/our-services/storage" >
+				<span>
+		<span class="jsn-menutitle">Container Loading/unloading</span>		</span>
+	</a>
+	</li><li  class="">	<a class="clearfix" href="/index.php/our-services/car-transportation" >
+				<span>
+		<span class="jsn-menutitle">Car Storage</span>		</span>
+	</a>
+	</li><li  class="">	<a class="clearfix" href="/index.php/vehicle-gallery" >
+				<span>
+		<span class="jsn-menutitle">Vehicle Gallery</span>		</span>
+	</a>
+	</li><li  class="">	<a class="clearfix" href="/index.php/job-vacancies" >
+				<span>
+		<span class="jsn-menutitle">Job Vacancies</span>		</span>
+	</a>
+	</li><li  class="">	<a class="clearfix" href="/index.php/carbon-footprint" >
+				<span>
+		<span class="jsn-menutitle">The Environment</span>		</span>
+	</a>
+	</li><li  class="">	<a class="clearfix" href="/index.php/about-us" >
+				<span>
+		<span class="jsn-menutitle">About Us</span>		</span>
+	</a>
+	</li><li  class="">	<a class="clearfix" href="/index.php/contact-us" >
+				<span>
+		<span class="jsn-menutitle">Contact Us</span>		</span>
+	</a>
+	</li><li  class="last">	<a class="clearfix" href="/index.php/driver-development" >
+				<span>
+		<span class="jsn-menutitle">Driver Development</span>		</span>
+	</a>
+	</li></ul><div class="clearbreak"></div></div></div></div></div></div>
+	                    </div>
+										<div class="clearbreak"></div>
+					</div>
+								</div>
+			
+				<div id="jsn-content" class="jsn-hasright ">
+					<div id="jsn-content_inner"><div id="jsn-content_inner1"><div id="jsn-content_inner2"><div id="jsn-content_inner3"><div id="jsn-content_inner4"><div id="jsn-content_inner5"><div id="jsn-content_inner6"><div id="jsn-content_inner7" class="row-fluid">
+								<div id="jsn-maincontent" class="span9 order1  row-fluid">
+						<div id="jsn-maincontent_inner"><div id="jsn-maincontent_inner1"><div id="jsn-maincontent_inner2"><div id="jsn-maincontent_inner3"><div id="jsn-maincontent_inner4">
+										<div id="jsn-centercol" class="span12 order1 "><div id="jsn-centercol_inner">
+											<div id="jsn-mainbody-content" class=" jsn-hasmainbody">
+													<div id="jsn-mainbody">
+											<div id="system-message-container">
+	</div>
+
+											<div class="blog-featuredjsn-demo-page" itemscope itemtype="http://schema.org/Blog">
+
+<div class="items-leading clearfix">
+			<div class="leading-0 clearfix" 
+			itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+			
+
+
+<div class="jsn-article-toolbar">
+				<dl class="article-info  muted">
+			<dt class="article-info-term">
+			Details			</dt>
+
+			
+			
+			
+			
+							
+				
+								
+					</dl>
+			<div class="clearbreak"></div>
+</div>
+
+ <p><style type="text/css">
+   .mainTitle{
+      font-size:14pt;
+      font-weight:600;
+}
+.mainText{
+      font-size:12pt;
+      font-weight:300;
+}
+   .mainLoadDescription{
+      font-size:14pt;
+      font-weight:600;
+      text-align:center;
+}
+.vmid{
+   color:#F31515;
+}
+.redTitle{
+    font-size:12pt;
+    font-weight: 600;
+   color: #c8171f;
+}
+.background-box{
+   background-color: #c0c0c0;
+   border-left: 8px #c0c0c0 solid ;
+   border-right: 8px #c0c0c0 solid ; 
+   border-top: 8px #c0c0c0 solid ;
+  border-bottom: 8px #c0c0c0 solid ;
+}
+.margin-left{
+   margin-left:7px;
+}
+ ul {
+  list-style: disc outside none;
+  list-style-type: disc;
+}
+</style></p>
+<p class="mainTitle margin-left">Welcome to Murray Hogg Haulage</p>
+<p class="mainText margin-left"><img style="float: right; margin-left: 7px;" src="/images/Home_Vehicle.png" alt="" />Murray Hogg Ltd. is one the oldest and most experienced haulage company's in the North East, if not throughout the UK.</p>
+<p class="mainText margin-left">Established in 1928 as a general haulage company we have grown from strength to strength ever since and is currently still being managed by the third generation of the Hogg family.</p>
+<p class="mainText margin-left">Presently we offer our clients not only general haulage but car transportation, warehousing, container loading/unloading and overnight pallet deliveries.</p>
+<p class="mainText margin-left">We currently have over 120 employees, this includes drivers, warehouse, office and support staff to help keep our business running smoothly.</p>
+<p class="mainText margin-left">Our vehicle fleet comprises of Artics, Rigids, Express Vans, Double Deck Curtainsiders, Tail Lifts, Crane Mounted Trucks, Car Transporters and Folk Lift Trucks.</p>
+<p class="mainText margin-left">Our warehouses and back office are configured with the latest technologies helping us track each vehicle, load and consignment 24 hours per day.</p>
+<p align="center"><a class="link-button button-red" href="/index.php/about-us">Read More</a> </p>
+<meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="/index.php/80-general/103-welcome" content=""/>
+
+
+
+		</div>
+			</div>
+
+
+
+</div>
+
+										</div>
+												</div>
+											<div id="jsn-usermodules2" class="jsn-modulescontainer jsn-modulescontainer2">
+										<div id="jsn-usermodules2_inner_grid2" class="row-fluid">
+															<div id="jsn-pos-user3" class="span6">
+												<div class=" jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div><div><h3 class="jsn-moduletitle"><span class="jsn-moduleicon">Who We Are</span></h3><div class="jsn-modulecontent">
+<div  >
+	<p><a href="/index.php/meet-the-team"><img src="/images/meet-the-team.jpg" alt="Murray Hogg" /></a></p>
+<p>Murray Hogg Haulage is run and manage by the third generation of the Hogg family. why not find out who they are.</p>
+<p><a class="link-action" href="/index.php/meet-the-team">Read more...</a></p></div><div class="clearbreak"></div></div></div></div></div></div>
+											</div>
+															<div id="jsn-pos-user4" class="span6">
+												<div class=" jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div><div><h3 class="jsn-moduletitle"><span class="jsn-moduleicon">The Environment</span></h3><div class="jsn-modulecontent">
+<div  >
+	<p><a href="/index.php/carbon-footprint"><img src="/images/carbon-footprintsm.png" alt="Murray Hogg" width="218" height="108" /></a></p>
+<p>Reducing our carbon footprint is important find out what we are doing and how we are doing this.</p>
+<p><a class="link-action" href="/index.php/carbon-footprint">Read more...</a></p></div><div class="clearbreak"></div></div></div></div></div></div>
+											</div>
+															<div class="clearbreak"></div>
+										</div>
+									</div>
+				        				</div></div> <!-- end centercol -->
+	        					</div></div></div></div></div></div> <!-- end jsn-maincontent -->
+									<div id="jsn-rightsidecontent" class="span3 order2 ">
+							<div id="jsn-rightsidecontent_inner">
+								<div id="jsn-pos-right">
+									<div class="box-blue jsn-icon-star jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div><div><h3 class="jsn-moduletitle"><span class="jsn-moduleicon">Murray Hogg Movies</span></h3><div class="jsn-modulecontent">
+<div  >
+	<p><style type="text/css">
+   .mainTitle{
+      font-size:14pt;
+      font-weight:600;
+}
+.mainText{
+      font-size:12pt;
+      font-weight:300;
+}
+   .mainLoadDescription{
+      font-size:14pt;
+      font-weight:600;
+      text-align:center;
+}
+.vmid{
+   color:#F31515;
+}
+.redTitle{
+    font-size:12pt;
+    font-weight: 600;
+   color: #c8171f;
+}
+.background-box{
+   background-color: #c0c0c0;
+   border-left: 8px #c0c0c0 solid ;
+   border-right: 8px #c0c0c0 solid ; 
+   border-top: 8px #c0c0c0 solid ;
+  border-bottom: 8px #c0c0c0 solid ;
+}
+.margin-left{
+   margin-left:7px;
+}
+ ul {
+  list-style: disc outside none;
+  list-style-type: disc;
+}
+</style></p>
+<p>Watch the Murray Hogg Movies here.</p>
+<p><a href="/index.php/movies"><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/movie-button.png" alt="" /></a></p></div><div class="clearbreak"></div></div></div></div></div></div><div class="box-green jsn-icon-info jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div><div><h3 class="jsn-moduletitle"><span class="jsn-moduleicon">Job Vacancies</span></h3><div class="jsn-modulecontent">
+<div  >
+	<p class="content-center">Here at Murray Hogg Haulage we are always looking for vibrant and experienced drivers in general haulage and car transporters.</p>
+<p style="text-align: center;"><a class="link-button button-light" href="/index.php/job-vacancies">Current Vacancies</a></p></div><div class="clearbreak"></div></div></div></div></div></div><div class="box-yellow jsn-icon-help jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div><div><h3 class="jsn-moduletitle"><span class="jsn-moduleicon">Our History</span></h3><div class="jsn-modulecontent">
+<div  >
+	<p>Murray Hogg Haulage has a long and rich history in all aspects of transport and haulage.</p>
+<p style="text-align: center;"><a class="link-button button-light" href="/index.php/about-us/our-history">Our History</a></p></div><div class="clearbreak"></div></div></div></div></div></div><div class="solid-1 jsn-icon-comment jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div><div><h3 class="jsn-moduletitle"><span class="jsn-moduleicon">Get In Touch</span></h3><div class="jsn-modulecontent">
+<div  >
+	<p><style type="text/css">
+   .mainTitle{
+      font-size:14pt;
+      font-weight:600;
+}
+.mainText{
+      font-size:12pt;
+      font-weight:300;
+}
+   .mainLoadDescription{
+      font-size:14pt;
+      font-weight:600;
+      text-align:center;
+}
+.vmid{
+   color:#F31515;
+}
+.redTitle{
+    font-size:12pt;
+    font-weight: 600;
+   color: #c8171f;
+}
+.background-box{
+   background-color: #c0c0c0;
+   border-left: 8px #c0c0c0 solid ;
+   border-right: 8px #c0c0c0 solid ; 
+   border-top: 8px #c0c0c0 solid ;
+  border-bottom: 8px #c0c0c0 solid ;
+}
+.margin-left{
+   margin-left:7px;
+}
+ ul {
+  list-style: disc outside none;
+  list-style-type: disc;
+}
+</style></p>
+<p><span class="redTitle">You Can Contact Either</span></p>
+<ul class="mainText">
+<li style="list-style: none;">Murray Hogg Haulage</li>
+<li style="list-style: none;">Vehicle Movements</li>
+</ul>
+<p style="text-align: center;"><a class="link-button button-light" href="/index.php/contact-us">Here</a></p></div><div class="clearbreak"></div></div></div></div></div></div>
+								</div>
+							</div>
+						</div>
+				                </div></div></div></div></div></div></div></div>
+	            </div>
+							<div id="jsn-content-bottom">
+					                <div id="jsn-pos-content-bottom" class="jsn-modulescontainer jsn-horizontallayout jsn-modulescontainer1 row-fluid">
+	                	<div class="solid-1 jsn-modulecontainer span12"><div class="jsn-modulecontainer_inner"><div><div><h3 class="jsn-moduletitle"><span class="jsn-moduleicon">Our North East Location</span></h3><div class="jsn-modulecontent">
+<div  >
+	<p>
+<iframe class='embedGoogleMap' width='100%' height='300' style='border: 0px solid #000000' src='https://www.google.com/maps?q=Murry+Hogg%2C+Sandy+Lane%2C+North+Gosforth%2C+Newcastle+Upon+Tyne%2C+NE3+5HE&z=13&t=m&output=embed'></iframe>
+<div><a href='https://www.google.com/maps/preview?q=Murry+Hogg%2C+Sandy+Lane%2C+North+Gosforth%2C+Newcastle+Upon+Tyne%2C+NE3+5HE&z=13&t=m' target='new'>View Large Map</a></div>
+</p></div><div class="clearbreak"></div></div></div></div></div></div>
+	                </div>
+									<div id="jsn-usermodules3" class="jsn-modulescontainer jsn-modulescontainer1 row-fluid">
+										<div id="jsn-pos-user6" class="span12 order1 ">
+							<div class=" jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div><div><h3 class="jsn-moduletitle"><span class="jsn-moduleicon">Associations</span></h3><div class="jsn-modulecontent"><!-- JSN IMAGESHOW PRO UNLIMITED 5.0.13 - Theme Grid 1.2.9 --><div class="jsn-container"><div class="jsn-gallery"><div style="max-width:100%; margin: 0 auto;"><div style="width: 100%; border:none;" class="jsn-themegrid-container jsn-themegrid-container-wL2YV"><div class="jsn-themegrid-items" style="margin:0 auto;overflow:hidden;display:inline-block;" ><div id="wL2YV_1" class="jsn-themegrid-box jsn-themegrid-image "><a href="http://www.murrayhogg.co.uk/images/associations/FS-21485.pdf" target="_blank"  rev="" title="Associations"><img id="img_wL2YV_1" src="http://www.murrayhogg.co.uk/images/jsn_is_thumbs/images/associations/bsi-logo.png" border="0" title="Associations" alt="Murray Hogg Haulage"/></a></div><div id="wL2YV_2" class="jsn-themegrid-box jsn-themegrid-image "><a href="http://www.murrayhogg.co.uk/" target="_blank"  rev="" title="Associations"><img id="img_wL2YV_2" src="http://www.murrayhogg.co.uk/images/jsn_is_thumbs/images/associations/rha-logo.png" border="0" title="Associations" alt="Murray Hogg Haulage"/></a></div><div id="wL2YV_3" class="jsn-themegrid-box jsn-themegrid-image "><a href="https://www.fors-online.org.uk/cms/" target="_blank"  rev="" title="Associations"><img id="img_wL2YV_3" src="http://www.murrayhogg.co.uk/images/jsn_is_thumbs/images/associations/bronze-fors.png" border="0" title="Associations" alt="Murray Hogg Haulage"/></a></div><div id="wL2YV_4" class="jsn-themegrid-box jsn-themegrid-image "><a href="http://www.murrayhogg.co.uk/" target="_blank"  rev="" title="Associations"><img id="img_wL2YV_4" src="http://www.murrayhogg.co.uk/images/jsn_is_thumbs/images/associations/ta-logo.jpg" border="0" title="Associations" alt="Murray Hogg Haulage"/></a></div><div id="wL2YV_5" class="jsn-themegrid-box jsn-themegrid-image "><a href="http://palletforce.com" target="_blank"  rev="" title="Associations"><img id="img_wL2YV_5" src="http://www.murrayhogg.co.uk/images/jsn_is_thumbs/images/associations/palletforce.jpg" border="0" title="Associations" alt="Murray Hogg Haulage"/></a></div></div></div></div><input type="hidden" id="data_allow_grid_wL2YV" value="{&quot;show_caption&quot;:&quot;no&quot;,&quot;caption_css&quot;:null,&quot;show_description&quot;:&quot;no&quot;,&quot;description_css&quot;:null,&quot;show_close&quot;:&quot;yes&quot;,&quot;show_thumbs&quot;:&quot;yes&quot;,&quot;autoplay_slideshow&quot;:true,&quot;slideshow&quot;:3000}"/><div class="jsn-themegrid-seocontent">
+<div><p>Associations</p><p></p><ul><li><p>Murray Hogg Haulage</p><p><a href="/images/associations/FS-21485.pdf">images/associations/FS-21485.pdf</a></p></li><li><p>Murray Hogg Haulage</p></li><li><p>Murray Hogg Haulage</p><p><a href="https://www.fors-online.org.uk/cms/">https://www.fors-online.org.uk/cms/</a></p></li><li><p>Murray Hogg Haulage</p></li><li><p>Murray Hogg Haulage</p><p><a href="http://palletforce.com">http://palletforce.com</a></p></li></ul></div></div>
+</div></div><div class="clearbreak"></div></div></div></div></div></div>
+						</div>
+														</div>
+					            </div>
+						</div>
+							<div id="jsn-footer">
+					<div id="jsn-footermodules" class="jsn-modulescontainer jsn-modulescontainer2 row-fluid">
+										<div id="jsn-pos-footer" class="span6">
+							<div class=" jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div class="jsn-modulecontent">
+<div  >
+	<p>The Murray Hogg name and all content within this site are copyright of Murray Hogg Haulage and GizaLook Solutions. For any queries relating to this contact <a href="http://www.GizalookSolutions.co.uk" target="_blank">www.GizalookSolutions.co.uk</a></p></div><div class="clearbreak"></div></div></div></div><div class=" jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div class="jsn-modulecontent"><span id="jsn-menu-toggle-parent" class="jsn-menu-toggle"><i class="fa fa-navicon"></i></span>
+<ul class="menu-divmenu">
+	<li class="jsn-menu-mobile-control"><span class="close-menu"><i class="fa fa-times"></i></span></li> 
+	<li  class="first">	<a class="clearfix" href="/index.php" >
+				<span>
+		<span class="jsn-menutitle">Home</span>		</span>
+	</a>
+	</li><li  class="">	<a class="clearfix" href="/index.php/our-services" >
+				<span>
+		<span class="jsn-menutitle">Our Services</span>		</span>
+	</a>
+	</li><li  class="">	<a class="clearfix" href="/index.php/about-us" >
+				<span>
+		<span class="jsn-menutitle">About Us</span>		</span>
+	</a>
+	</li><li  class="last">	<a class="clearfix" href="/index.php/contact-us" >
+				<span>
+		<span class="jsn-menutitle">Contact Us</span>		</span>
+	</a>
+	</li></ul><div class="clearbreak"></div></div></div></div>
+						</div>
+										<div id="jsn-pos-bottom" class="span6">
+							<div class=" jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div class="jsn-modulecontent">
+<div  >
+	<p>Copyright © 2016 Murray Hogg Haulage All rights reserved. All photos, text and logos are the property of Murray Hogg Haulage, GizaLook Solutions.</p></div><div class="clearbreak"></div></div></div></div>
+						</div>
+										<div class="clearbreak"></div>
+					</div>
+				</div>
+					</div>
+	</div>
+			<a id="jsn-gotoplink" href="http://www.murrayhogg.co.uk/#top">
+			<span>Go to top</span>
+		</a>
+	
+<noscript><strong>JavaScript is currently disabled.</strong>Please enable it for a better experience of <a href="http://2glux.com/projects/jumi">Jumi</a>.</noscript>
+<div id="lp-overlay"></div>
+<div id="lp-popup" class="lp-wrapper">
+	<div class="lp-register-intro">
+		Don't have an account yet?		<a href="/index.php/component/users/?view=registration">Register Now!</a>
+	</div>
+	<button class="lp-close" type="button" title="Close (Esc)">×</button>
+
+	<form action="/index.php" method="post" class="lp-form">
+		<h3>Sign in to your account</h3>
+		<div class="lp-field-wrapper">
+			<label for="lp-username">Username *</label>
+			<input type="text" id="lp-username" class="lp-input-text lp-input-username" name="username" placeholder="Username" required="true" />
+		</div>
+		<div class="lp-field-wrapper">
+			<label for="lp-password">Password *</label>
+			<input type="password" id="lp-password" class="lp-input-text lp-input-password" name="password" placeholder="Password" required="true" />
+		</div>
+
+		
+					<div class="lp-field-wrapper">
+				<input type="checkbox" id="lp-remember" class="lp-input-checkbox" name="remember" />
+				<label for="lp-remember">Remember me</label>
+			</div>
+		
+
+		<div class="lp-button-wrapper clearfix">
+			<div class="lp-left">
+				<button type="submit" class="lp-button">Log in</button>
+			</div>
+
+			<ul class="lp-right lp-link-wrapper">
+				<li>
+					<a href="/index.php/component/users/?view=remind">Forgot your username?</a>
+				</li>
+				<li><a href="/index.php/component/users/?view=reset">Forgot your password?</a></li>
+			</ul>
+		</div>
+
+		<input type="hidden" name="option" value="com_users" />
+		<input type="hidden" name="task" value="user.login" />
+		<input type="hidden" name="return" value="aW5kZXgucGhwP0l0ZW1pZD0zMDkx" />
+		<input type="hidden" name="d8e03ecd5a07544793c755696d669ef7" value="1" />	</form>
+</div><script type="text/javascript">{"csrf.token":"d8e03ecd5a07544793c755696d669ef7","system.paths":{"root":"","base":""},"system.keepalive":{"interval":840000,"uri":"\/index.php\/component\/ajax\/?format=json"}}</script>
+<script src="/media/system/js/core.js?835c4777462f39cbac790b7e35e197f1" type="text/javascript"></script>
+<script src="/media/system/js/keepalive.js?835c4777462f39cbac790b7e35e197f1" type="text/javascript"></script>
+<script src="/media/jui/js/jquery.min.js?835c4777462f39cbac790b7e35e197f1" type="text/javascript"></script>
+<script src="/media/jui/js/jquery-noconflict.js?835c4777462f39cbac790b7e35e197f1" type="text/javascript"></script>
+<script src="/media/jui/js/jquery-migrate.min.js?835c4777462f39cbac790b7e35e197f1" type="text/javascript"></script>
+<script src="/media/plg_system_loginpopup/js/script.js" type="text/javascript"></script>
+<script src="/media/system/js/caption.js?835c4777462f39cbac790b7e35e197f1" type="text/javascript"></script>
+<script src="/media/jui/js/bootstrap.min.js?835c4777462f39cbac790b7e35e197f1" type="text/javascript"></script>
+<script src="/media/system/js/mootools-core.js?835c4777462f39cbac790b7e35e197f1" type="text/javascript"></script>
+<script src="/media/system/js/mootools-more.js?835c4777462f39cbac790b7e35e197f1" type="text/javascript"></script>
+<script src="/plugins/system/jsntplframework/assets/joomlashine/js/noconflict.js" type="text/javascript"></script>
+<script src="/plugins/system/jsntplframework/assets/joomlashine/js/utils.js" type="text/javascript"></script>
+<script src="/templates/jsn_epic_pro/js/jsn_template.js" type="text/javascript"></script>
+<script src="/media/system/js/modal.js?835c4777462f39cbac790b7e35e197f1" type="text/javascript"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript"></script>
+<script src="/plugins/system/pagebuilder/assets/js/joomlashine.noconflict.js" type="text/javascript"></script>
+<script src="/plugins/system/pagebuilder/assets/3rd-party/bootstrap3/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="/components/com_imageshow/assets/js/jquery.min.js" type="text/javascript"></script>
+<script src="/plugins/jsnimageshow/themegrid/assets/js/jsn_is_conflict.js" type="text/javascript"></script>
+<script src="/plugins/jsnimageshow/themegrid/assets/js/jquery/jquery.kinetic.js" type="text/javascript"></script>
+<script src="/plugins/jsnimageshow/themegrid/assets/js/jquery/jquery.masonry.min.js" type="text/javascript"></script>
+<script src="/plugins/jsnimageshow/themegrid/assets/js/jquery/jquery.prettyPhoto.js" type="text/javascript"></script>
+<script src="/plugins/jsnimageshow/themegrid/assets/js/jsn_is_gridtheme.js" type="text/javascript"></script>
+<script src="/plugins/jsnimageshow/themegrid/assets/js/jsn_is_gridthemelightbox.js" type="text/javascript"></script>
+<script src="/plugins/jsnimageshow/themeslider/assets/js/jsn_is_conflict.js" type="text/javascript"></script>
+<script src="/plugins/jsnimageshow/themeslider/assets/js/skitter/jquery.easing.1.3.js" type="text/javascript"></script>
+<script src="/plugins/jsnimageshow/themeslider/assets/js/skitter/jquery.animate-colors-min.js" type="text/javascript"></script>
+<script src="/plugins/jsnimageshow/themeslider/assets/js/skitter/jquery.skitter.js" type="text/javascript"></script>
+<script type="text/javascript">
+jQuery(document).ready(function() {
+	ExtStore.LoginPopup.offset_top	= 50;
+	jQuery('a[href="#login"], a[href="#logout"]').click(function(event) {
+		ExtStore.LoginPopup.open();
+
+		event.stopPropagation();
+		event.preventDefault();
+	});
+
+	jQuery('#lp-overlay, .lp-close').click(function() {
+		ExtStore.LoginPopup.close();
+	});
+});jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});jQuery(function($){ $(".dropdown-toggle").dropdown(); });
+				JSNTemplate.initTemplate({
+					templatePrefix			: "jsn_epic_pro_",
+					templatePath			: "/templates/jsn_epic_pro",
+					enableRTL				: 0,
+					enableGotopLink			: 1,
+					enableMobile			: 1,
+					enableMobileMenuSticky	: 1,
+					enableDesktopMenuSticky	: 1,
+					responsiveLayout		: ["mobile","wide"],
+					mobileMenuEffect		: "slide-left"
+				});
+			
+		jQuery(function($) {
+			SqueezeBox.initialize({});
+			initSqueezeBox();
+			$(document).on('subform-row-add', initSqueezeBox);
+
+			function initSqueezeBox(event, container)
+			{
+				SqueezeBox.assign($(container || document).find('a.modal').get(), {
+					parse: 'rel'
+				});
+			}
+		});
+
+		window.jModalClose = function () {
+			SqueezeBox.close();
+		};
+
+		// Add extra modal close functionality for tinyMCE-based editors
+		document.onreadystatechange = function () {
+			if (document.readyState == 'interactive' && typeof tinyMCE != 'undefined' && tinyMCE)
+			{
+				if (typeof window.jModalClose_no_tinyMCE === 'undefined')
+				{
+					window.jModalClose_no_tinyMCE = typeof(jModalClose) == 'function'  ?  jModalClose  :  false;
+
+					jModalClose = function () {
+						if (window.jModalClose_no_tinyMCE) window.jModalClose_no_tinyMCE.apply(this, arguments);
+						tinyMCE.activeEditor.windowManager.close();
+					};
+				}
+
+				if (typeof window.SqueezeBoxClose_no_tinyMCE === 'undefined')
+				{
+					if (typeof(SqueezeBox) == 'undefined')  SqueezeBox = {};
+					window.SqueezeBoxClose_no_tinyMCE = typeof(SqueezeBox.close) == 'function'  ?  SqueezeBox.close  :  false;
+
+					SqueezeBox.close = function () {
+						if (window.SqueezeBoxClose_no_tinyMCE)  window.SqueezeBoxClose_no_tinyMCE.apply(this, arguments);
+						tinyMCE.activeEditor.windowManager.close();
+					};
+				}
+			}
+		};
+		window.cookieconsent_options = {
+			"message":"This website uses cookies to ensure you get the best experience on our website",
+			"dismiss":"Got It!",
+			"learnMore":"More Info",
+				"link":"http://murrayhogg.co.uk/index.php/cookie-privacy-policy",
+			"theme":"dark-bottom"
+		};
+	</script>
+<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<script src="/plugins/system/jsntplframework/assets/3rd-party/respond/respond.min.js"></script>
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-79562527-1', 'auto');
+  ga('send', 'pageview');
+
+;
+
+						jsnThemeSliderjQuery(function() {
+						jsnThemeSliderjQuery(document).ready(function(){
+							
+							var oldHTML = jsnThemeSliderjQuery('#jsn-themeslider-skitter-j3Dkx').html();
+							var options = {"animation":"random","navigation":true,"navShowOnMouseOver":true,"dots":false,"numbers":false,"caption_title_css":"font-family: Verdana;\r\nfont-size: 1.3em;\r\nfont-weight: bold;\r\ncolor: #fff;","caption_description_css":"font-family: Arial;\r\nfont-size: 11px;\r\nfont-weight: bold;\r\ncolor: #fff;","caption_link_css":"font-family: Verdana;\r\nfont-size: 11px;\r\nfont-weight: bold;\r\ntext-align: right;\r\ncolor: #E06614;","caption_position":"bottom","caption_caption_opacity":"filter:alpha(opacity=75);opacity: 0.75;","interval":6000,"controls":false,"stop_over":true,"auto_play":true,"caption_title_show":true,"caption_description_show":true,"caption_link_show":false,"label":true,"animateNumberActive":{"backgroundColor":"#CC3333","color":"#fff"},"click_action":"no_action","open_link_in":"current_browser","img_transparent_background":false,"velocity":"1","skitter_class_id":"jsn-themeslider-skitter-j3Dkx"};
+							options.base_height = 430;
+							jsnThemeSliderjQuery('.jsn-themeslider-skitter-j3Dkx').skitter(options);
+							jsnThemeSliderjQuery('.jsn-themeslider-skitter-j3Dkx .image_main').css("max-width", "");
+							var jsn_j3Dkx = jsnThemeSliderjQuery(window).width();
+							var cacheResize;
+							jsnThemeSliderjQuery(window).resize(function (e) {
+								if (jsn_j3Dkx != jsnThemeSliderjQuery(window).width())
+								{
+									clearTimeout(cacheResize);
+									cacheResize = "";
+									var oldCacheIndex = jsnThemeSliderjQuery('#jsn-themeslider-skitter-j3Dkx .cache_skitter_index').attr('value');
+									jsnThemeSliderjQuery('#jsn-themeslider-skitter-j3Dkx').html(oldHTML);
+									
+									jsnThemeSliderjQuery('#jsn-themeslider-skitter-j3Dkx .cache_skitter_index').attr('value', oldCacheIndex);
+									var options = {"animation":"random","navigation":true,"navShowOnMouseOver":true,"dots":false,"numbers":false,"caption_title_css":"font-family: Verdana;\r\nfont-size: 1.3em;\r\nfont-weight: bold;\r\ncolor: #fff;","caption_description_css":"font-family: Arial;\r\nfont-size: 11px;\r\nfont-weight: bold;\r\ncolor: #fff;","caption_link_css":"font-family: Verdana;\r\nfont-size: 11px;\r\nfont-weight: bold;\r\ntext-align: right;\r\ncolor: #E06614;","caption_position":"bottom","caption_caption_opacity":"filter:alpha(opacity=75);opacity: 0.75;","interval":6000,"controls":false,"stop_over":true,"auto_play":true,"caption_title_show":true,"caption_description_show":true,"caption_link_show":false,"label":true,"animateNumberActive":{"backgroundColor":"#CC3333","color":"#fff"},"click_action":"no_action","open_link_in":"current_browser","img_transparent_background":false,"velocity":"1","skitter_class_id":"jsn-themeslider-skitter-j3Dkx"};
+									options.base_height = 430;
+									cacheResize = setTimeout(function () {
+										jsnThemeSliderjQuery('.jsn-themeslider-skitter-j3Dkx').skitter(options);
+										jsnThemeSliderjQuery('.jsn-themeslider-skitter-j3Dkx .image_main').css("max-width", "");
+									}, 500);
+									jsn_j3Dkx = jsnThemeSliderjQuery(window).width();
+								}
+							});
+							jQuery("#jsn-themeslider-skitter-j3Dkx").parents("div.jsn-pagebuilder.pb-element-container.pb-element-tab").find("ul.nav-tabs li a").on("click", function (e) {
+								//if (jsn_j3Dkx != jsnThemeSliderjQuery(window).width())
+								//{
+									clearTimeout(cacheResize);
+									cacheResize = "";
+									var oldCacheIndex = jsnThemeSliderjQuery('#jsn-themeslider-skitter-j3Dkx .cache_skitter_index').attr('value');
+									jsnThemeSliderjQuery('#jsn-themeslider-skitter-j3Dkx').html(oldHTML);
+									
+									jsnThemeSliderjQuery('#jsn-themeslider-skitter-j3Dkx .cache_skitter_index').attr('value', oldCacheIndex);
+									var options = {"animation":"random","navigation":true,"navShowOnMouseOver":true,"dots":false,"numbers":false,"caption_title_css":"font-family: Verdana;\r\nfont-size: 1.3em;\r\nfont-weight: bold;\r\ncolor: #fff;","caption_description_css":"font-family: Arial;\r\nfont-size: 11px;\r\nfont-weight: bold;\r\ncolor: #fff;","caption_link_css":"font-family: Verdana;\r\nfont-size: 11px;\r\nfont-weight: bold;\r\ntext-align: right;\r\ncolor: #E06614;","caption_position":"bottom","caption_caption_opacity":"filter:alpha(opacity=75);opacity: 0.75;","interval":6000,"controls":false,"stop_over":true,"auto_play":true,"caption_title_show":true,"caption_description_show":true,"caption_link_show":false,"label":true,"animateNumberActive":{"backgroundColor":"#CC3333","color":"#fff"},"click_action":"no_action","open_link_in":"current_browser","img_transparent_background":false,"velocity":"1","skitter_class_id":"jsn-themeslider-skitter-j3Dkx"};
+									options.base_height = 430;
+									cacheResize = setTimeout(function () {
+										jsnThemeSliderjQuery('.jsn-themeslider-skitter-j3Dkx').skitter(options);
+										jsnThemeSliderjQuery('.jsn-themeslider-skitter-j3Dkx .image_main').css("max-width", "");
+									}, 500);
+									jsn_j3Dkx = jsnThemeSliderjQuery(window).width();
+								//}
+							});
+						})});
+				;
+
+						jsnThemeGridjQuery(function() {
+							jsnThemeGridjQuery(window).load(function(){
+								jsnThemeGridjQuery(".jsn-pagebuilder.pb-element-tab ul.nav-tabs li a").bind("click", function (e) {
+									jsnThemeGridjQuery(".jsn-themegrid-container-wL2YV").gridtheme({"key":"wL2YV","background_color":"#ffffff","layout":"fixed","thumbnail_width":"158","thumbnail_height":"99","thumbnail_space":"10","thumbnail_border":"3","image_source":"thumbnail","show_caption":"no","caption_css":null,"show_close":"yes","show_thumbs":"yes","click_action":"open_image_link","open_link_in":"new_browser","caption_show_description":"no","description_css":null,"thumbnail_rounded_corner":"3","thumbnail_border_color":"#ffffff","thumbnail_shadow":"1","container_height_type":"auto","container_transparent_background":false,"autoplay_slideshow":true,"slideshow":3000,"navigation_type":"show_all","item_per_page":"5","total_image":5,"allowedData":{"show_caption":"no","caption_css":null,"show_description":"no","description_css":null,"show_close":"yes","show_thumbs":"yes","autoplay_slideshow":true,"slideshow":3000}});
+								});
+                                jsnThemeGridjQuery(".jsn-themegrid-container-wL2YV").gridtheme.lightbox({modalID: "jsn-themegrid-modal-container-wL2YV", rand:"wL2YV", allowedData: {"show_caption":"no","caption_css":null,"show_description":"no","description_css":null,"show_close":"yes","show_thumbs":"yes","autoplay_slideshow":true,"slideshow":3000}});
+								jsnThemeGridjQuery(".jsn-themegrid-container-wL2YV").gridtheme({"key":"wL2YV","background_color":"#ffffff","layout":"fixed","thumbnail_width":"158","thumbnail_height":"99","thumbnail_space":"10","thumbnail_border":"3","image_source":"thumbnail","show_caption":"no","caption_css":null,"show_close":"yes","show_thumbs":"yes","click_action":"open_image_link","open_link_in":"new_browser","caption_show_description":"no","description_css":null,"thumbnail_rounded_corner":"3","thumbnail_border_color":"#ffffff","thumbnail_shadow":"1","container_height_type":"auto","container_transparent_background":false,"autoplay_slideshow":true,"slideshow":3000,"navigation_type":"show_all","item_per_page":"5","total_image":5,"allowedData":{"show_caption":"no","caption_css":null,"show_description":"no","description_css":null,"show_close":"yes","show_thumbs":"yes","autoplay_slideshow":true,"slideshow":3000}});
+
+							});
+
+	                        jsnThemeGridjQuery(window).resize(function(){
+                                jsnThemeGridjQuery(".jsn-themegrid-container-wL2YV").gridtheme({"key":"wL2YV","background_color":"#ffffff","layout":"fixed","thumbnail_width":"158","thumbnail_height":"99","thumbnail_space":"10","thumbnail_border":"3","image_source":"thumbnail","show_caption":"no","caption_css":null,"show_close":"yes","show_thumbs":"yes","click_action":"open_image_link","open_link_in":"new_browser","caption_show_description":"no","description_css":null,"thumbnail_rounded_corner":"3","thumbnail_border_color":"#ffffff","thumbnail_shadow":"1","container_height_type":"auto","container_transparent_background":false,"autoplay_slideshow":true,"slideshow":3000,"navigation_type":"show_all","item_per_page":"5","total_image":5,"allowedData":{"show_caption":"no","caption_css":null,"show_description":"no","description_css":null,"show_close":"yes","show_thumbs":"yes","autoplay_slideshow":true,"slideshow":3000}});
+    						});
+						});
+				</script></body>
+</html>

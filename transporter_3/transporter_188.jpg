@@ -1,0 +1,208 @@
+<!DOCTYPE HTML>
+
+<html id="inside">
+	<head>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-16636979-1"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'UA-16636979-1');
+		</script>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta  name='viewport' content='width=device-width; minimum-scale=1.0; initial-scale=1.0; maximum-scale=1.0; user-scalable=no;' />
+		<meta property="og:title" content="Grand Canyon Colorado River Outfitter | 1-800-637-4604 | Canyon REO | Raft Equipment Rental" />
+		<meta property="og:type" content="company" />
+		<meta property="og:url" content="https://canyonreo.com" />
+		<meta property="og:image" content="https://canyonreo.com/images/reo-logo-clean.png" />
+		<meta property="og:site_name" content="Canyon REO - River Equipment Outfitters - 1-800-637-4604" />
+		<meta name="robots" content="NOODP">
+		<meta name="googlebot" content="NOODP">
+		<meta name="keywords" content="Grand Canyon,Colorado River,Outfitter,Outfitting,Raft,Equipment,Rental" />
+		<meta name="description" content="Canyon REO Outfitter provides the best gear, food, shuttle, and customer service to make your private Grand Canyon Colorado River rafting adventure a success." />
+		<title>Grand Canyon Colorado River Outfitter | 1-800-637-4604 | Canyon REO | Raft Equipment Rental</title>
+		<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+		<link rel="icon" href="favicon.ico" type="image/x-icon">
+		<link href='https://fonts.googleapis.com/css?family=Karla:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+		<link href='https://fonts.googleapis.com/css?family=Special+Elite' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" href="css/style.css?v=4" type="text/css">
+		<script type="text/javascript" src="js/jquery-2.1.0.min.js"></script>
+		<script type="text/javascript" src="js/jquery.responsive.js?v=4"></script>
+		<script type="text/javascript" src="js/jquery.cookie.js?v=4"></script>
+		<script type="text/javascript" src="js/script.js?v=4"></script>
+	</head>
+	<body>
+		<div id="menutoggle" class="icon-list">MENU</div>
+		<div id="menuitems">
+			<ul class="top">
+				<li class="menuicon-home"><a href="home">HOME</a></li>
+				<li class="menuicon-alert"><a style="color:red" href="covid-19-faq.php">COVID-19 FAQ</a></li>
+				<li class="menuicon-gear"><a href="local_rentals.php">Kayaks & Paddle Boards</a></li>
+				<li class="menuicon-package more"><a href="#">PACKAGES</a>
+					<ul class="sub">
+						<li><a href="all_inclusive.php">Deluxe Package</a></li>
+						<li><a href="food_and_shuttle_service.php">Food & Shuttle Package</a></li>
+						<li><a href="raft_and_gear.php">Canyon Gear Package</a></li>
+						<li><a href="oar_raft_package.php">Oar Raft Package</a></li>
+					</ul>
+				</li>
+				<li class="menuicon-gear more"><a href="#">GEAR RENTAL</a>
+					<ul class="sub">
+						<li><a href="ala_carte.php">Long Term Rental</a></li>
+						<li><a href="short_term_rentals.php">Short Term Rental</a></li>
+					</ul>
+				</li>
+				<li class="menuicon-food"><a href="fabulous_meals.php">FOOD PACKS</a></li>
+				<li class="menuicon-shuttle"><a href="shuttle_service.php">SHUTTLES</a></li>
+				<li class="menuicon-contact more"><a href="#">CONTACT/QUOTES</a>
+					<p class="sub">
+						<span class="opencontact menu button" style="margin-left:0;text-align:center"><b>Email Us</b><br><em>Questions/Quotes</em></span>
+						<br>
+						info@canyonreo.com<br>
+						1-800-637-4604<br><br>
+						Canyon REO<br>
+						P.O. Box 3493<br>
+						Flagstaff, AZ 86003<br><br>
+						<b>Shipping Address</b><br>
+						Canyon REO<br>
+						1619 N. East Street<br>
+						Flagstaff, AZ<br>
+						86004
+					</p>
+				</li>
+				<li class="menuicon-reo more"><a href="#">REO INFO</a>
+					<ul class="sub">
+						<li><a href="about.php">About Us</a></li>
+						<li><a href="bios.php">Employee Bios</a></li>
+						<li><a href="testimonials.php">Testimonials</a></li>
+						<li><a href="directions_maps.php">Directions/Map</a></li>
+						<li><a href="prices_policies.php">Prices & Policies</a></li>
+					</ul>
+				</li>
+				<li class="menuicon-helpful more"><a href="#">HELPFUL INFO</a>
+					<ul class="sub">
+						<li><a href="helpful_links.php">Helpful Links</a></li>
+						<li><a href="faqs.php">FAQ's</a></li>
+						<li class="ext"><a href="https://www.youtube.com/user/canyonreo/videos" target="_blank">Video Tutorials</a></li>
+						<li><a href="permits.php">How to Get A Permit</a></li>
+						<li class="ext"><a href="http://www.nps.gov/grca/planyourvisit/upload/Noncommercial_River_Trip_Regulations.pdf" target="_blank">Park Service - River Regulations</a></li>
+					</ul>			
+				</li>
+				<li class="menuicon-permit"><a href="prices_policies.php">PRICES & POLICIES</a></li>
+				<li class="menuicon-ebay ext"><a href="http://stores.ebay.com/Canyon-River-Equipment-Outfitters" target="_blank">eBAY STORE</a></li>
+			</ul>
+		</div>
+		<div id="header"><div id="tagline"><a style="color:red;" href="covid-19-faq.php">COVID-19 Response/FAQ</a><br><img src="images/25-year-logo.jpg" /></div><div id="logo"><a href="home"><img src="images/reo-logo-clean.png" /></a></div><div id="topcontact"><a href="tel:+18006374604" title="Click to call us!"><img src="images/phone-badge.png" /><span id="contactdigits">1-800-637-4604</span></a></div></div>
+		<h1></h1><h2 style="text-align:center">Oops, that page was not found.</h2><h1></h1>			<div id="footer" class="section alt">
+				<div id="footer0" class="box">
+					<h3>Contact Canyon REO</h3>
+					<p>Canyon REO<br>
+					P.O. Box 3493<br>
+					Flagstaff, AZ 86003</p>
+					<p><b>Shipping Address:</b><br>
+					1619 N. East Street<br>
+					Flagstaff, AZ 86004</p>
+					<p>info@canyonreo.com</p>
+					<p><b>1-800-637-4604</b></p>
+					<p><a href="directions_maps.php" target="_blank">Map & Directions</a></p>
+				</div>				
+				<div id="footer1" class="box">
+					<h3>FAQ</h3>
+					<p>
+					<a href="faqs.php#general">General Questions</a><br /><a href="faqs.php#food">Food</a><br /><a href="faqs.php#boats">Boats</a><br /><a href="faqs.php#logistics">Logistics</a><br /><a href="faqs.php#health_safety">Health & Safety</a><br /><a href="faqs.php#personal_gear">Personal Gear</a><br /><a href="faqs.php#first_timers">First Time Down the Canyon</a><br />					</p>
+				</div>
+				<div id="footer2" class="box">
+					<h3>It's Never too Early to Plan!</h3>
+					<p>We get a lot of calls from folks asking: "Is it too early to start planning my trip?"
+<br><br>
+The answer is always it's never too early. In fact, we're so adamant about this that we offer an Early Signup Discount which becomes higher the further out from your launch you choose Canyon REO. Give us a call or fill out our contact form and we'll get the ball rolling today.
+<br><br>
+<b>1-800-637-4604</b></p>
+					<p style="text-align:left;padding-top:3%">
+						<a href="https://www.instagram.com/canyonreo/" target="_blank"><img title="Follow us on Instagram!" style="height:56px;width:auto;padding:0 10px 0 0;vertical-align: middle" src="images/instagram-256.png" /></a>
+						<a href="https://www.youtube.com/user/canyonreo/videos" target="_blank"><img title="Watch our YouTube Channel!" style="height:56px;width:auto;padding:0 10px;vertical-align: middle" src="images/youtube-256.png" /></a>
+						<a href="https://www.facebook.com/CanyonREO" target="_blank"><img title="Like us on Facebook!" style="height:56px;width:auto;padding:0 0 0 10px;vertical-align: middle" src="images/facebook-256.png" /></a>
+					</p>
+				</div>
+				<div id="copyright">The Fine Print: Canyon REO is an outfitting company, providing equipment and support to make sure you have a great trip. This assumes that you and your trip participants have some outdoor experience. Whitewater rafting carries inherent risks and the Grand Canyon is an extreme climate, offering a remote and challenging wilderness experience. If your group has no previous rafting experience, please consider a guided trip through Grand Canyon with professional guides through Arizona Raft Adventures or one of the other commercial outfitters listed on the National Park Service’s Grand Canyon website.<br /><br /><br /><br />&copy; 2017 - Canyon REO River Equipment Outfitters | Design by pathfinder</div>
+			</div>
+		</div><!-- This ends the content div started in page.php -->
+		<!-- Contact / Quote Form -->
+		<div class="opencontact" id="contacttoggle" title="Email/Get Quote"></div>
+		<div id="contactform">
+			<h4>Contact Us<br><small>Quotes/Questions</small></h4>
+			<div id="questions">
+				<span class="button" id="askquote">Get Started!</span>
+				<br>
+				<br>
+				info@canyonreo.com<br>
+				1-800-637-4604<br><br>
+				Canyon REO<br>
+				P.O. Box 3493<br>
+				Flagstaff, AZ 86003<br><br>
+				<b>Shipping Address</b><br>
+				Canyon REO<br>
+				1619 N. East Street<br>
+				Flagstaff, AZ<br>
+				86004
+			</div>
+			<div class="quotes">
+				<p style="text-align:center"><em>* Required Fields</em></p>
+				<label class="required" id="mailalert">Please fix errors marked in red</label>
+				<label>First Name *</label>
+				<input type="text" id="firstname" name="First" value="" />
+				<label class="required">Your first name is required.</label>
+				<label>Last Name *</label>
+				<input type="text" id="lastname" name="Last" value="" />
+				<label class="required">Your last name is required.</label>
+				<label>e-Mail *</label>
+				<input type="text" id="email" name="eMail" value="" />
+				<label class="required">Your email is required.</label>
+				<label>Phone *</label>
+				<input type="tel" id="phone" name="Phone" value="" />
+				<label class="required">Your phone is required.</label>
+				<label>City</label>
+				<input type="text" id="city" name="City" value="" />
+				<label>State</label>
+				<input type="text" id="state" name="State" value="" />
+				<label>Zip Code</label>
+				<input type="text" id="zip" name="Zip" value="" />
+				<label>Launch Date (MM-DD-YYYY)</label>
+				<input type="text" id="begindate" name="Begin" value="" />
+				<label>End Date (MM-DD-YYYY)</label>
+				<input type="text" id="enddate" name="End" value="" />
+				<label>Number of People</label>
+				<input type="number" min="0" id="people" name="People" value="" />
+				<select id="takeout" name="Takeout">
+					<option value="x">Choose Take-Out Location</option>
+					<option value="Pearce Ferry">Pearce Ferry</option>
+					<option value="Diamond Creek">Diamond Creek</option>
+					<option value="Other">Other</option>
+				</select>
+				<select id="service" name="Service">
+					<option value="x">Choose Service</option>
+					<option value="Deluxe Outfitting">Deluxe Outfitting</option>
+					<option value="Food & Shuttle Package">Food & Shuttle Package</option>
+					<option value="Canyon Gear Package">Canyon Gear Package</option>
+					<option value="Oar Raft Package">Oar Raft Package</option>
+					<option value="Food Packs">Food Packs</option>
+					<option value="Shuttle Services">Shuttle Service</option>
+					<option value="Long-Term Gear Rental">Long-Term Gear Rental</option>
+					<option value="Short-Term Gear Rental">Short-Term Gear Rental</option>
+					<option value="Paddle Board/Kayak Rental">Paddle Board/Kayak Rental</option>
+					<option value="Other">Other</option>
+				</select>
+				<label>Message *</label>
+				<textarea id="message" name="Message"></textarea>
+				<label class="required">Please give some details.</label>
+				<input id="token" name="token" type="hidden" value="Do Not Send" />
+				<p style="text-align:center"><span class="button" id="submitcontact">Send</span></p>
+			</div>
+		</div>
+		<!-- Back to top -->
+		<div id="totop" title="Back to top"></div>
+		<!-- Throbber -->
+		<div id="throbber"><div class="dot"></div><div class="pulse"></div></div>
+	</body>
+</html>
