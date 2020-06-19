@@ -1,0 +1,973 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang="en" data-gojit-account="False" data-dicom-account="False" data-area="freight" data-ismobile="False" data-user="" data-debug-mode="False">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# business: http://ogp.me/ns/business#">
+    <!-- Force latest IE rendering engine or ChromeFrame if installed -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <meta charset="utf-8" />
+    <!-- For Iphone, prevent iOS Zoom on Text Input Fields -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" />
+    <!-- For iPad with high-resolution Retina display running iOS ≥ 7: -->
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/Images/Ico/favicon-152.ico">
+    <!-- For iPad with high-resolution Retina display running iOS ≤ 6: -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/Images/Ico/favicon-144.ico">
+    <!-- For iPhone with high-resolution Retina display running iOS ≥ 7: -->
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="/Images/Ico/favicon-120.ico">
+    <!-- For iPhone with high-resolution Retina display running iOS ≤ 6: -->
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/Images/Ico/favicon-114.ico">
+    <!-- For first- and second-generation iPad: -->
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/Images/Ico/favicon-72.ico">
+    <!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: -->
+    <link rel="apple-touch-icon-precomposed" href="/Images/Ico/favicon-57.ico">
+
+    <!--IE 10 Metro tile icon (Metro equivalent of apple-touch-icon):-->
+    <meta name="msapplication-TileColor" content="#FFFFFF">
+    <meta name="msapplication-TileImage" content="/Images/Ico/favicon-144.ico">
+
+    <link href="/Images/Ico/icon/favicon-ios-32.ico" sizes="32x32" rel="shortcut icon" type="image/x-icon">
+
+    <title>track your heavy package | build shipments | order a pickup | Dicom Freight</title>
+    <meta name="description" content="Dicom Freight is a company offering LTL and TL services for your shipments over 300 lbs, to all cities and towns in Atlantic and Western Canada. Visit Dicom Freight website for more information." />
+        <meta name="keywords" content="Dicom Freight, LTL, heavy weight, logistics, package, shipping, pickup, 24h, transport, sorting, delivery, trucks">
+
+    <meta name="og:title" content="track your heavy package | build shipments | order a pickup | Dicom Freight" />
+    <meta name="og:description" content="Dicom Freight is a company offering LTL and TL services for your shipments over 300 lbs, to all cities and towns in Atlantic and Western Canada. Visit Dicom Freight website for more information." />
+    <meta property="og:url" content="https://www.dicom.com/en/freight">
+    <meta property="fb:admins" content="100000933183565">
+    <meta property="og:locale" content="en_CA">
+    <meta property="og:site_name" content="track your heavy package | build shipments | order a pickup | Dicom Freight">
+
+        <meta property="og:type" content="website" />
+
+        <meta property="og:image" content="/Images/Header/homePageThumbGoJiT.JPG">
+        <meta property="og:image:secure_url" content="/Images/Header/homePageThumbGoJiT.JPG">
+        <meta property="og:image:type" content="image/png">
+        <meta property="og:image:width" content="1876">
+        <meta property="og:image:height" content="836">
+
+
+    <meta property="business:contact_data:street_address" content="10315 Cote-de-Liesse Road">
+    <meta property="business:contact_data:locality" content="Dorval">
+    <meta property="business:contact_data:region" content="Québec">
+    <meta property="business:contact_data:postal_code" content="H9P1A6">
+    <meta property="business:contact_data:country_name" content="Canada">
+    <meta property="business:contact_data:email" content="sales@gojit.com">
+    <meta property="business:contact_data:phone_number" content="888-884-6548">
+    <meta property="business:contact_data:fax_number" content="866-761-0004">
+    <meta property="business:contact_data:website" content="https://www.dicom.com">
+    <meta property="place:location:latitude" content="45.46305" />
+    <meta property="place:location:longitude" content="-73.72230" />
+
+    
+
+    
+
+    <!--[if IE]>
+        <style>
+            .deliveLocContacts .deliveryField label .svgImage {
+                right:2px;
+            }
+            .gsc-search-box-tools .gsc-search-box .gsc-input {
+                margin-top:-2px !important;
+            }
+
+        </style>
+    <![endif]-->
+    <!--[if IE 9]>
+        <link href="/Content/ie9site.css" rel="stylesheet" />
+    <![endif]-->
+    <!--[if lt IE 9]>
+        <link href="/Content/ie8site.css" rel="stylesheet" />
+        <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css#iefix" rel="stylesheet">
+     <![endif]-->
+    <!--[if gte IE 9]>
+        <link async href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <![endif]-->
+    <!--[if gt IE 10]>
+          <link href="/Content/LoadingCss?v=e9E2JKDc0S-BbpSqAiZr3pDY7dbsKQyZUlTgyz3F4qg1" rel="stylesheet"/>
+
+    <![endif]-->
+    <!--[if (lte IE 10)]>
+        <style>
+            .oldBrowserBlock {
+                display:block !important;
+            }
+
+            .oldBrowserMessage {
+                 height: 44px;
+                 color: #ffffff;
+                 font-size: 18px;
+                 text-align: center;
+                 padding-top: 6px;
+                 position:fixed;
+                 width:100%;
+                 z-index:1000;
+            }
+
+            .outdatedMessage{
+                background-color:#ff6633;
+            }
+
+            .unsuportedMessage{
+                background: url(/Images/Layout/backBarIe8Red.jpg) repeat-x;
+            }
+
+            .oldBrowserMessage a {
+                font-size: 18px;
+                text-decoration:underline;
+            }
+
+            .oldBrowserMessage a:hover {
+                color:#ffffff;
+                text-decoration:underline;
+            }
+
+            .ie8Hide {
+                height: 50px;
+            }
+
+            .ie8Hide2 {
+                height:16px;
+            }
+        </style>
+    <![endif]-->
+    <!--[if lt IE 10]>
+         <link href="/Content/LoadingGifCss?v=Kjz4uhCExNMYm5L0z-KPV7Nla8bk_5CJvtxDw-2y5681" rel="stylesheet"/>
+
+    <![endif]-->
+    <!--[if !IE]> -->
+    
+    <link async href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    
+    <link href="/Content/LoadingCss?v=e9E2JKDc0S-BbpSqAiZr3pDY7dbsKQyZUlTgyz3F4qg1" rel="stylesheet"/>
+
+    <!--<![endif]-->
+    <link href="/Content/themes/JQueryUICss?v=fZPrCQl6C_TNtSz9CIffA6sSrUMdTiT4RuSXHuKcK9w1" rel="stylesheet"/>
+
+    <link href="/Content/CommonCss?v=Gnt6qyYx5Mq1pVS997KlOIYYPtjbw1qDvcUZHdcI40g1" rel="stylesheet"/>
+
+    <link href="/Content/GoJitCss?v=l-hsIPEEgdIrROducPrweO6onIgknIWkqo4RAJ4acYo1" rel="stylesheet"/>
+
+
+    <!--[if lte IE 8]>
+      <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <link href="/Content/jQueryTourPlugin/themeCss?v=xsLN48ziVvn-betptCrzMX_BZl5CbnvKxhcfeyiEaBY1" rel="stylesheet"/>
+
+      
+<link href="/Content/HomePageCss?v=VwQGtM64lQFxINYsV0ATajP4xdSUL2L8bNDgDEIuzIU1" rel="stylesheet"/>
+
+
+<style type="text/css">
+
+   .ui-widget-content { 
+        border: 0 solid #aaaaaa;
+        background: #ffffff url(images/ui-bg_flat_75_ffffff_40x100.png) 50%/ 50%/ repeat-x; 
+        color: #222222; 
+    }
+
+    .ui-state-active .ui-icon {
+        background-image: none;
+    }
+
+    .ui-state-default .ui-icon {
+        background-image: none;
+    }
+
+    /*for top banner on all pages*/
+        .topBanerInfo  {          
+            margin: 0 auto 20px auto !important;
+            float: none !important;
+        }
+
+</style>
+
+<!--[if !IE]> -->
+    <link href="/Content/mightysliderCommonCss?v=G4ApykdncxrfqZU16vHgWFZBN_vSqXyWxGhPSaed8r01" rel="stylesheet"/>
+
+<!--<![endif]-->
+<!--[if gte IE 9]>
+    <link href="/Content/mightysliderCommonCss?v=G4ApykdncxrfqZU16vHgWFZBN_vSqXyWxGhPSaed8r01" rel="stylesheet"/>
+
+<![endif]-->
+<!--[if lt IE 9 ]>
+    <link href="/Content/mightysliderIE8Css?v=DtCMiyD9IgpmatTEYlIuviSvdPy2tWTOcxbDwyXyW_E1" rel="stylesheet"/>
+
+<![endif]-->
+
+
+
+
+    <link href="/Content/MobileCss?v=V2Ssx8BMPYT1G61_mKcabY6BWQ2lUWSlkrqwFqMARU41" rel="stylesheet"/>
+
+
+    <style type="text/css">
+        .display-no-js {
+            display: none;
+        }
+    </style>
+
+    <noscript>
+        <style type="text/css">
+            .display-no-js, .display-no-js .field-validation-error {
+                display: block;
+            }
+
+            .hide-no-js {
+                display: none !important;
+            }
+        </style>
+    </noscript>
+
+    
+
+</head>
+
+<body id="bodyelem" role="document" itemscope itemtype="https://schema.org/WebPage">
+    <meta itemprop="name" name="name" content="track your heavy package | build shipments | order a pickup | Dicom Freight" />
+
+<nav id="menu" class="mobilMmenu">
+    <div class="mm-inner">
+        <div class="userLogName">
+            <div class="userRegister"></div>
+            <div class="userLogout"></div>
+        </div>
+        <div class="topBannerRed"></div>
+        <div class="userLogSect">
+            <div class="mmExpress"></div>
+            <div class="mmFreight"></div>            
+        </div>
+
+
+
+<div class="blockBox">
+
+        <div class="List quickLinks nav-quicklinks" role="navigation" itemprop="significantLink" itemscope itemtype="http://schema.org/URL">
+            
+            <div class="quickIconSticky">
+                <a id="ShipIcon" href="/en/freight/shipping/shipment">
+                    <div class="cubeIcon" title="create a shipment">
+                        <i class="fa fa-cube"></i>
+
+                    </div>
+                </a>
+                <a id="PickupIcon" href="/en/freight/shipping/pickup">
+                    <div class="cubeIcon" title="schedule a pickup">
+                        <i class="fa fa-truck"></i>
+                    </div>
+                </a>
+                <a id="RateIcon" href="/en/freight/shipping/rate-estimate">
+                    <div class="cubeIcon" title="rate estimate">
+                        <i class="fa fa-usd"></i>
+                    </div>
+                </a>
+                <a id="fuelIcon" href="/en/freight/shipping/rate-estimate/fuel-surcharge">
+                    <div class="cubeIcon" title="fuel surcharge">
+                        <i class="fa fa-tachometer"></i>
+                    </div>
+                </a>
+                <a id="transitIcon" href="/en/freight/shipping/transit-time-calculator">
+                    <div class="cubeIcon" title="transit time calculator">
+                        <i class="fa fa-clock-o"></i>
+                    </div>
+                </a>
+                <a id="terminalIcon" href="/en/freight/shipping/terminal">
+                    <div class="cubeIcon" title="terminal locations">
+                        <i class="fa fa-map-marker"></i>
+                    </div>
+                </a>
+                    <a id="addressIcon" href="/en/freight/profile/address-book">
+                        <div class="cubeIcon" title="address book">
+                            <i class="fa fa-book"></i>
+                        </div>
+                    </a>
+
+
+                <a id="faqIcon" href="/en/freight/support/FAQ">
+                    <div class="cubeIcon" title="faq">
+                        <i class="fa fa-question-circle"></i>
+                    </div>
+                </a>
+                <a id="contactIcon" href="/en/freight/support/contact-us">
+                    <div class="cubeIcon" title="contact us">
+                        <i class="fa fa-phone"></i>
+                    </div>
+                </a>
+            </div>
+        </div>
+
+</div>
+
+
+        <ul class="mm-opened" id="ul-menu" role="menubar"><li class="mainLink" role="menuitem"><a href="/en/freight/home">home</a></li><li class="mainLink" role="menuitem"><span class=" section" data-section="Account" > account </span><ul class="subLink" id="subAccount" role="menu"><li class="" role="menuitem"><a href="/en/freight/account/register/step1">create a profile</a></li><li class="" role="menuitem"><a href="/en/freight/profile/address-book">address book<i class="fa fa-lock"></i></a></li><li class="" role="menuitem"><a href="/en/freight/profile/shipment-history">shipment history<i class="fa fa-lock"></i></a></li><li class="" role="menuitem"><a href="/en/freight/profile/billing-information">billing history<i class="fa fa-lock"></i></a></li><li class="" role="menuitem"><a href="/en/freight/profile/EDI">EDI<i class="fa fa-lock"></i></a></li></ul></li><li class="mainLink" role="menuitem"><span class=" section" data-section="Shipment" > ship </span><ul class="subLink" id="subShipment" role="menu"><li class="" role="menuitem"><a href="/en/freight/shipping/rate-estimate">rate estimate<i class="fa fa-lock"></i></a></li><li class="" role="menuitem"><a href="/en/freight/shipping/rate-estimate/fuel-surcharge">fuel charge</a></li><li class="" role="menuitem"><a href="/en/freight/shipping/shipment">create/manage a shipment<i class="fa fa-lock"></i></a></li><li class="" role="menuitem"><a href="/en/freight/shipping/pickup">schedule/manage a pickup<i class="fa fa-lock"></i></a></li><li class="" role="menuitem"><a href="/en/freight/shipping/transit-time-calculator">transit time calculator</a></li><li class="" role="menuitem"><a href="/en/freight/shipping/terminal">terminal locations</a></li></ul></li><li class="mainLink" role="menuitem"><a href="/en/freight/tracking">track</a></li><li class="mainLink" role="menuitem"><a alt="desc of link" class="" data-required-login="False" href="/en/freight/support/faq" rel="help">support</a></li><li class="mainLink" role="menuitem"><a href="/en/freight/about-us/our-history-and-services">about us</a></li><li class="mainLink" role="menuitem"><a href='http://careers.dicom.com'>careers</a></li></ul>
+        <div class="userLang">
+        </div>
+    </div>
+</nav>    
+    <div id="content">
+        <header>
+            <div class="oldBrowserBlock">
+                <!--[if (lte IE 10) & (gt Ie 7)]>
+            <div class="oldBrowserMessage outdatedMessage">You are using an outdated browser. Please <a href="http://browsehappy.com/?locale=en" target="_blank">upgrade your browser</a> to improve your experience.</div>
+        <![endif]-->
+                <!--[if lte IE 7]>
+           <div class=" oldBrowserMessage unsuportedMessage">You are using an unsupported browser. Please <a href="http://browsehappy.com/?locale=en" target="_blank">upgrade your browser</a> in order  to use this web site.</div>
+        <![endif]-->
+                <div class="ie8Hide"></div>
+                <noscript>
+                    <div class="ie8Hide2"></div>
+                </noscript>
+            </div>
+
+            <div class="backTopMobil"></div>
+            <div id="header">
+                <a id="mmenuBtn" href="#menu"><i id="mmenuIcn" class="fa fa-bars fa-2x"></i></a>
+            </div>
+            <div class="topBannerRed"></div>
+            <div class="whiteGrayBanner">
+                <div id="registerContent" class="registerContent content-wrapper">
+                    <img id="arrowRollOrange" class="arrowRollOrange freightRoll_en" src="/Images/Header/rollArrowBlue.png" />
+                    <div class="blockCompanies">
+                        <ul>
+                            <li class="expressContainer notSelected"><a id="expressLogo" href="/en/express/home"><img src="/Images/Header/expressLogo_en.png" /></a></li>
+                            <li class="freightContainer"><a id="freightLogo" href="/en/freight/home"><img src="/Images/Header/freightLogo_en.png" /></a></li>
+                        </ul>
+                    </div>
+                    <div class="blockLogoDicom">
+                        <a href="/en/freight/home">
+                            <img src="/Images/Header/dicomTopLogo.png" />
+                        </a>
+                    </div>
+                    <div class="login">
+                        <ul class="arrowIcon">
+                            <li>
+    <a href="/en/freight/account/register/step1" id="registerLink" data_dialog_title="Registration"><i class='fa fa-sign-in'></i>register</a>
+    <a href="/en/freight/account/login" id="loginLink" data-dialog-title="Dicom" title="log in">
+        <i class="fa fa-user"></i>
+        <span class="iconResponsive loginTitle">&nbsp;log in</span>
+        
+    </a>
+</li>
+                            
+                            <li><a href="/en/dicom/corp/home"><i class="fa fa-users fa-1x"></i> <span>corporate</span></a></li>
+                            <li>
+<span id="currentLang" class="langResponsive-en">
+        <a href="/fr/freight/accueil" hreflang="fr_CA" id="translatedLink" rel="alternate"><span class="responsiveTexte">francais</span></a>
+</span></li>
+                        </ul>
+                        <div id="goDicom" class="phoneNumber" title="1-888-463-4266">
+                            <i class="fa fa-phone"></i>
+                            <span style="color: #005daa;">1 888</span> <span style="color: #ff6633;">GoDicom</span>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="mainHead content-wrapper">
+
+
+
+
+
+
+
+
+<div id="blockMenuId" class="blockMenu menuDivMenu" role="navigation">
+    <img id="arrowRoll" src="/Images/corp/layout/rollArrow.png" />
+    <ul class="nav" role="menubar"><li class="active top" data-section="Home" role="menuitem"><a href="/en/freight/home">home</a></li><li class=" top" data-section="Account" role="menuitem"><a href="/en/freight/account/register/step1">account</a><ul class="sub" role="menu"><li class="" role="menuitem"><a href="/en/freight/account/register/step1">create a profile</a></li><li class="" role="menuitem"><a href="/en/freight/profile/address-book">address book<i class="fa fa-lock"></i></a></li><li class="" role="menuitem"><a href="/en/freight/profile/shipment-history">shipment history<i class="fa fa-lock"></i></a></li><li class="" role="menuitem"><a href="/en/freight/profile/billing-information">billing history<i class="fa fa-lock"></i></a></li><li class="" role="menuitem"><a href="/en/freight/profile/EDI">EDI<i class="fa fa-lock"></i></a></li></ul></li><li class=" top" data-section="Shipment" role="menuitem"><a href="/en/freight/shipping/rate-estimate">ship</a><ul class="sub" role="menu"><li class="" role="menuitem"><a href="/en/freight/shipping/rate-estimate">rate estimate<i class="fa fa-lock"></i></a></li><li class="" role="menuitem"><a href="/en/freight/shipping/rate-estimate/fuel-surcharge">fuel charge</a></li><li class="" role="menuitem"><a href="/en/freight/shipping/shipment">create/manage a shipment<i class="fa fa-lock"></i></a></li><li class="" role="menuitem"><a href="/en/freight/shipping/pickup">schedule/manage a pickup<i class="fa fa-lock"></i></a></li><li class="" role="menuitem"><a href="/en/freight/shipping/transit-time-calculator">transit time calculator</a></li><li class="" role="menuitem"><a href="/en/freight/shipping/terminal">terminal locations</a></li></ul></li><li class=" top" data-section="Tracking" role="menuitem"><a href="/en/freight/tracking">track</a></li><li class=" top" data-section="Support" role="menuitem"><a alt="desc of link" class="" data-required-login="False" href="/en/freight/support/faq" rel="help">support</a></li><li class=" top" data-section="Aboutus" role="menuitem"><a href="/en/freight/about-us/our-history-and-services">about us</a></li><li class=" top" data-section="Careers" role="menuitem"><a href='http://careers.dicom.com'>careers</a></li></ul>
+</div>
+
+<div class="menuDivSearch">
+    <div class="googleSeach" id="googleSeach_id">
+        
+        <input type="text" placeholder="" style="display:none" id="googleSeach_box" />
+        <input type="image" src="https://www.google.com/uds/css/v2/search_box_icon.png" class="gsc-search-button gsc-search-button-v2" id="googleSeach_button" title="rechercher">
+    </div>
+</div>
+
+<div class="logoCompany freightLogoTop">
+    <img src="/Images/Header/freight_en.png" />
+</div>
+                </div>
+            </div>
+            <div class="shadowContainer shadowCenter">
+                <div class="shadowLeft"></div>
+                <div class="shadowRight"></div>
+            </div>
+            
+
+
+<style>
+        .linkPage a {
+            color: #000099;
+            font-size: 22px !important;
+            font-weight: normal;
+            font-family: Verdana, Geneva, Arial, Helvetica, Sans-serif;
+        }
+
+            .linkPage a:hover {
+                color: #ff6633;
+            }
+                    
+        .shadowLeft, .shadowRight {
+            background: none;
+        }
+    
+
+        .topBannerInfo {
+            background-color: #F26529;
+            color: #FFF;
+            padding: 1px 10px;
+            margin-top: -55px;
+            text-align: center;
+            margin-bottom: 10px;
+        }
+
+        @media only screen and (max-width: 1024px) {
+            .topBannerInfo {
+                margin-top: 0px;
+            }
+        }
+</style>
+
+<div class="topBannerInfo ">
+    <div style="max-width:95%;margin: auto;">
+        <p>Dicom is closely monitoring the COVID-19 pandemic. For further details, <a href='https://www.dicom.com/en/dicom/corp/news/covid-19' style='color:#0033a1'>click here</a>.</p>
+    </div>
+</div>
+
+        </header>
+        <div id="body">
+            
+            <div id="page" class="content-wrapper">
+                
+                 
+
+
+
+<section>    
+    <div class="contentFitTableMax">        
+
+        <div class="homeBoxRight" >
+            
+            
+<noscript>
+    
+    <a href="../dicom/corp/holidays-schedules" target="_self"><img src='/Images/Home/dicomCommunity_en.jpg' alt="shippers-choice image" /></a>
+</noscript>
+
+<!-- SLIDE SHOW -->
+<!-- PARENT -->
+<div id="carousel" class="mightyslider_modern_skin">
+    <!-- FRAME -->
+    <div class="frame" data-mightyslider="width: 960, height: 376">
+        <!-- SLIDEELEMENT -->
+        <div class="slide_element">
+            <!-- SLIDES -->
+            <div class="slide1" data-mightyslider="
+				cover : '/Images/Home/banner_gls_history_en.jpg' ,
+				skin : 'black',
+				link : {
+                    url: 'http://careers.dicom.com/our-story',
+                    target: '_blank'
+                 },
+				viewport : 'fit'
+				">
+              &nbsp;
+            </div>
+            <div class="slide2" data-mightyslider="
+				cover : '/Images/Home/banner_june2020_en.jpg' ,
+				skin : 'black',
+				viewport : 'fit'
+				">
+              &nbsp;
+            </div>
+            <div class="slide3" data-mightyslider="
+                 cover : '/Images/Home/banner_google_en.jpg' ,
+                 skin : 'black' ,
+                 link : {
+                    url: 'https://g.page/r/CXaUJY6FBPjZEAg/review',
+                    target: '_blank'
+                 },
+                 viewport : 'fit'
+                 ">
+            </div>
+			<div class="slide5" data-mightyslider="
+				cover : '/Images/Home/banner_cure_en.jpg' ,
+				skin : 'black',
+				link : {
+                    url: 'https://www.curefoundation.com/',
+                    target: '_blank'
+                 },
+				viewport : 'fit'
+				">
+              &nbsp;
+            </div>
+
+            
+
+            <!-- END OF SLIDES -->
+        </div>
+        <!-- END OF SLIDEELEMENT -->
+        <!-- ARROW BUTTONS -->
+    </div>
+    <!-- END OF FRAME -->
+</div>
+<!-- END OF PARENT -->
+
+
+
+        </div>
+        <div class="homeBoxLeft">
+            
+            <div class="homeBoxLeft2 quickLinksHome">
+                <h1>quick access</h1>
+                
+
+
+<div class="blockBox">
+
+        <div class="List quickLinks nav-quicklinks" role="navigation" itemprop="significantLink" itemscope itemtype="http://schema.org/URL">
+            
+            <div class="quickIconSticky">
+                <a id="ShipIcon" href="/en/freight/shipping/shipment">
+                    <div class="cubeIcon" title="create a shipment">
+                        <i class="fa fa-cube"></i>
+
+                    </div>
+                </a>
+                <a id="PickupIcon" href="/en/freight/shipping/pickup">
+                    <div class="cubeIcon" title="schedule a pickup">
+                        <i class="fa fa-truck"></i>
+                    </div>
+                </a>
+                <a id="RateIcon" href="/en/freight/shipping/rate-estimate">
+                    <div class="cubeIcon" title="rate estimate">
+                        <i class="fa fa-usd"></i>
+                    </div>
+                </a>
+                <a id="fuelIcon" href="/en/freight/shipping/rate-estimate/fuel-surcharge">
+                    <div class="cubeIcon" title="fuel surcharge">
+                        <i class="fa fa-tachometer"></i>
+                    </div>
+                </a>
+                <a id="transitIcon" href="/en/freight/shipping/transit-time-calculator">
+                    <div class="cubeIcon" title="transit time calculator">
+                        <i class="fa fa-clock-o"></i>
+                    </div>
+                </a>
+                <a id="terminalIcon" href="/en/freight/shipping/terminal">
+                    <div class="cubeIcon" title="terminal locations">
+                        <i class="fa fa-map-marker"></i>
+                    </div>
+                </a>
+                    <a id="addressIcon" href="/en/freight/profile/address-book">
+                        <div class="cubeIcon" title="address book">
+                            <i class="fa fa-book"></i>
+                        </div>
+                    </a>
+
+
+                <a id="faqIcon" href="/en/freight/support/FAQ">
+                    <div class="cubeIcon" title="faq">
+                        <i class="fa fa-question-circle"></i>
+                    </div>
+                </a>
+                <a id="contactIcon" href="/en/freight/support/contact-us">
+                    <div class="cubeIcon" title="contact us">
+                        <i class="fa fa-phone"></i>
+                    </div>
+                </a>
+            </div>
+        </div>
+
+</div>
+
+
+            </div>
+
+            <div class="homeBoxLeft1">
+                <div class="blockBox">
+                    <div class="trackShipment" > 
+                        <h1 itemprop="name">track shipment</h1>
+                        
+
+<form action="/en/freight/tracking/result" id="TrackingForm" method="post"><input name="__RequestVerificationToken" type="hidden" value="Ke8iPoLsEKIFhFRPS9ioPZyenWiCy9a5px2iZNaqDLoJ1Fhey-Vq49cSnuCN0JnuFfIxCMi6SglWyjoErB2thuBLdCA1" /><fieldset>
+    <legend itemprop="alternateName">Tracking</legend> 
+        <table>
+            <tr>
+                <td>
+                    <span class="field-validation-valid" data-valmsg-for="ReqTrackIds" data-valmsg-replace="true"></span>
+                </td>
+            </tr>
+            <tr>
+                <td>                    
+                    
+                    <textarea Value="" cols="50" data-val="true" data-val-required="the field &#39;tracking number&#39; is required" id="ReqTrackIds" name="ReqTrackIds" placeholder="Submit up to 99 probill numbers or personal reference number (bill of lading or purchase order) to locate your shipments." rows="4">
+</textarea>
+                </td>
+            </tr>
+            <tr>
+                <td class="trackOtherCta">
+                    <input type="submit" value="track" /> 
+                </td>
+            </tr>
+        </table>
+    </fieldset>
+</form>     
+
+
+
+            
+                    </div>
+                </div>
+            </div>    
+        </div>
+    </div>
+</section>
+
+<section itemprop="mainContentOfPage" itemtype="http://schema.org/WebPageElement">
+    <div class="contentFitTableMax2" itemscope itemtype="http://schema.org/Organization" itemref="logo organization">
+
+        
+<div class="homeBox2Left salesTeam">
+    <div class="columnAdressSections">
+        <h1>contact our sales team</h1>
+
+        <div class="contactSalesTeam">
+            
+            <div class="contactIco">
+                <i class="fa fa-mobile fa-4x"></i>
+            </div>
+            <div class="infoTeam">
+                <h1>by phone</h1>
+                <span class="phoneTooltip" title="1-888-463-4266">
+                    
+                    <span style="color: #005daa;">1 888 </span><span style="color: #ff6633;">&nbsp;GoDicom</span>&nbsp;
+                </span>
+            </div>
+        </div>
+        <div class="lineDivider">
+            <div></div>
+        </div>
+        <div class="contactSalesTeam">
+            
+            <div class="contactIco">
+                <i class="fa fa-print fa-3x"></i>
+            </div>
+            <div class="infoTeam">
+                <h1>by fax</h1>
+                <span itemprop="faxNumber">1 844 514 6789</span>
+            </div>
+        </div>
+        <div class="lineDivider">
+            <div></div>
+        </div>
+        <div class="contactSalesTeam">
+            
+            <div class="contactIco">
+                <i class="fa fa-globe fa-3x"></i>
+            </div>
+            <div class="infoTeam">
+                <h1>by email</h1>
+                <span><a target="_blank" rel="help" href="mailto:sales@dicom.com" itemprop="email">sales@dicom.com</a></span>
+            </div>
+        </div>
+        <div class="lineDivider">
+            <div></div>
+        </div>
+        <div class="contactSalesTeam">
+            
+            <div class="contactIco">
+                <i class="fa fa-envelope fa-3x"></i>
+            </div>
+            <div class="infoTeam" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                <h1>by mail</h1>
+                <span itemprop="streetAddress">10500 av Ryan</span><br />
+                <span itemprop="addressLocality"> Dorval, Québec </span>,<br />
+                <span itemprop="postalCode">
+                    H9P 2T7
+                </span>
+            </div>
+        </div>
+
+    </div>
+    <div class="columnDivider">
+        <div style="border-left: 1px solid #E0E0E0; margin-top:45px; height:196px;"></div>
+    </div>
+
+</div>
+
+<div class="homeBox2Middle">
+    <div class="columnAdressSections2">
+        <h1>help your company move forward</h1>
+
+        <img class="homeThumbnail" src="/Images/corp/home/DICOM-1688.jpg" alt="GoJit" title="GoJit" width="280" height="196" />
+
+        <p>
+            Dicom Parcel delivers shipments under 300 lbs. to destinations from coast to coast.
+                        <a  href="/en/express"><span style="color:#005daa">Go to the </span><span style="color:#ff6633">Dicom Parcel</span><span style="color:#005daa"> website</a> for more information.</span>
+        </p>
+    </div>
+    <div class="columnDivider">
+        <div style="border-left: 1px solid #E0E0E0; margin-top:45px; height:196px;"></div>
+    </div>
+</div>
+
+        <div class="homeBox2right newHomeSection">
+
+            <h1>news</h1>
+            <div id="accordion">
+                        <h3><span class="dotImgLabel">&#149;</span>COVID-19</h3>
+                        <div role="article" itemscope itemtype="http://schema.org/Article">
+                            <meta name="name" itemprop="name" content="COVID-19" />
+                            <meta name="dateCreated" itemprop="dateCreated" content="15/03/2020 9:14:41 PM" />
+                            <meta name="datePublished" itemprop="datePublished" content="13/05/2020 12:00:00 AM" />
+                            <meta itemprop="sourceOrganization" itemscope itemtype="http://schema.org/Organization" itemref="organization" />
+                            <p><span itemprop="description"></span> <div class="ctaButton13RightArrow"><a itemprop="url" style="float:right;" href="/en/freight/about-us/news/covid-19">see more</a></div></p>
+                        </div>
+                        <h3><span class="dotImgLabel">&#149;</span>Holiday Schedule</h3>
+                        <div role="article" itemscope itemtype="http://schema.org/Article">
+                            <meta name="name" itemprop="name" content="Holiday Schedule" />
+                            <meta name="dateCreated" itemprop="dateCreated" content="20/11/2019 9:47:16 AM" />
+                            <meta name="datePublished" itemprop="datePublished" content="20/11/2019 12:00:00 AM" />
+                            <meta itemprop="sourceOrganization" itemscope itemtype="http://schema.org/Organization" itemref="organization" />
+                            <p><span itemprop="description"></span> <div class="ctaButton13RightArrow"><a itemprop="url" style="float:right;" href="/en/freight/about-us/news/holiday-schedule-2019">see more</a></div></p>
+                        </div>
+                        <h3><span class="dotImgLabel">&#149;</span>General Rate Increase </h3>
+                        <div role="article" itemscope itemtype="http://schema.org/Article">
+                            <meta name="name" itemprop="name" content="General Rate Increase " />
+                            <meta name="dateCreated" itemprop="dateCreated" content="08/11/2019 12:36:38 PM" />
+                            <meta name="datePublished" itemprop="datePublished" content="14/11/2019 12:00:00 AM" />
+                            <meta itemprop="sourceOrganization" itemscope itemtype="http://schema.org/Organization" itemref="organization" />
+                            <p><span itemprop="description"></span> <div class="ctaButton13RightArrow"><a itemprop="url" style="float:right;" href="/en/freight/about-us/news/general-rate-increase-2020">see more</a></div></p>
+                        </div>
+                        <h3><span class="dotImgLabel">&#149;</span>GLS acquires Dicom</h3>
+                        <div role="article" itemscope itemtype="http://schema.org/Article">
+                            <meta name="name" itemprop="name" content="GLS acquires Dicom" />
+                            <meta name="dateCreated" itemprop="dateCreated" content="02/10/2018 3:22:19 PM" />
+                            <meta name="datePublished" itemprop="datePublished" content="02/10/2018 12:00:00 AM" />
+                            <meta itemprop="sourceOrganization" itemscope itemtype="http://schema.org/Organization" itemref="organization" />
+                            <p><span itemprop="description"></span> <div class="ctaButton13RightArrow"><a itemprop="url" style="float:right;" href="/en/freight/about-us/news/gls-acquisition">see more</a></div></p>
+                        </div>
+                        <h3><span class="dotImgLabel">&#149;</span>General Rate Increase </h3>
+                        <div role="article" itemscope itemtype="http://schema.org/Article">
+                            <meta name="name" itemprop="name" content="General Rate Increase " />
+                            <meta name="dateCreated" itemprop="dateCreated" content="30/11/2017 5:44:06 PM" />
+                            <meta name="datePublished" itemprop="datePublished" content="29/11/2017 12:00:00 AM" />
+                            <meta itemprop="sourceOrganization" itemscope itemtype="http://schema.org/Organization" itemref="organization" />
+                            <p><span itemprop="description"></span> <div class="ctaButton13RightArrow"><a itemprop="url" style="float:right;" href="/en/freight/about-us/news/general-rate-increase">see more</a></div></p>
+                        </div>
+            </div>
+            <div class="ctaButton13RightArrow seeAllNews"><a href="/en/freight/about-us/news">see all news</a></div>
+            
+        </div>
+    </div>
+</section>    
+
+
+                
+                <a id="bttComment" title="back to top" class="back-to-top hide-no-js" style="display: block;">
+                    
+                </a>
+            </div>
+        </div>
+        <footer>
+
+
+<div class="contentFooter">
+    <div class="footerShadowContainer footerShadowCenter">
+        <div class="footerShadowLeft"></div>
+        <div class="footerShadowRight"></div>
+    </div>
+    <div class="footerBack">
+        <div class="contentUp content-wrapper">
+            <div class="linksFooter">
+
+                <div class="footerSection footerMobile secnavFooter">
+                    <div class="footerTitleSection">
+<a href="/en/freight/home">Freight home</a>                    </div>
+                    
+                    <div class="footerTitleSectionMobile">
+<a href="/en/freight/home">Freight home</a>                        <i class="fa fa-plus"></i>
+                    </div>
+                    
+                    <ul class="expand">
+                        <li class="mobileLinkOnly">
+<a href="/en/freight/home">home</a>                        </li>
+                        <li><a href="/en/freight/tracking">track</a></li>
+                        <li><a href="/en/freight/shipping/shipment">create a shipment</a></li>
+                        <li><a href="/en/freight/shipping/pickup">schedule a pickup</a></li>
+                        <li><a href="/en/freight/shipping/rate-estimate">rate estimate</a></li>
+                        <li><a href="/en/freight/shipping/transit-time-calculator">transit time calculator</a></li>
+                    </ul>
+                </div>
+
+                <div class="footerSection footerMobile secnavFooter">
+                    <div class="footerTitleSection"><a href="/en/freight/support/FAQ">support</a></div>
+                    <div class="footerTitleSectionMobile">
+                        <a href="/en/freight/support/FAQ">support</a>
+                        <i class="fa fa-plus"></i>
+                    </div>
+                    <ul class="expand">
+                        
+                        <li class="mobileLinkOnly"><a href="/en/freight/support/FAQ">support</a></li>
+                        <li><a href="/en/freight/support/FAQ">FAQ</a></li>
+                        <li><a href="/en/freight/shipping/terminal">find a terminal</a></li>
+                        <li><a href="/en/freight/support/useful-documents">useful documents</a></li>
+                        <li><a href="/en/freight/support/contact-us">contact us</a></li>
+                    </ul>
+                </div>
+
+                <div class="footerSection footerMobile">
+                    <div class="footerTitleSection">
+                        <a href="/en/dicom/corp/home">corporate home</a>
+                    </div>
+                    <div class="footerTitleSectionMobile">
+                        <a href="/en/dicom/corp/home">corporate home</a>
+                        <i class="fa fa-plus"></i>
+                    </div>
+                    
+                    <ul class="expand">
+                        <li class="mobileLinkOnly"><a href="/en/freight/corp/HomePage">corporate home</a></li>
+                        <li><a href="/en/dicom/corp/about">about us</a></li>
+                        <li><a href="/en/dicom/corp/services">services</a></li>
+                        <li><a href="/en/dicom/corp/news">news</a></li>
+                        <li><a href="/en/dicom/corp/careers">find a job</a></li>                       
+                    </ul>
+                </div>
+
+            </div>
+            <div class="logoFooter">
+                <div class="footerLogoDicom"><a href="/en/dicom/corp/home"><img width="231" height="78" src="/Images/Footer/dicomGroup_en.png" /></a></div>
+                <div class="footerNewsLetter">
+                    
+
+<form action="/en/freight/marketing/Newsletter?returnUrl=https%3A%2F%2Fwww.dicom.com%2Fen%2Ffreight" id="newsletter-form" method="post"><span class="field-validation-valid" data-valmsg-for="newsletter.email" data-valmsg-replace="true"></span>                        <div class="newsletterContent">
+                            <input name="newsletter.email" id="newsletter_email" type="email" required placeholder="email@example.com" />
+                            <input id="btn-newsletter" type="submit" value="subscribe to our newsletter!" />
+                        </div>
+                        <div id="summary-newsletter" class="validation-summary-errors" data-valmsg-summary="false">
+                            
+                            <div class="newsLetterTool" title="" id="newsLetterToolType"></div>
+                        </div>
+</form>                </div>
+
+            </div>
+        </div>
+        <div class="contentDown content-wrapper">
+                <div class="smartWayLogo">
+                    <img src="/Images/Home/smartWayLogo.jpg" />
+                </div>
+            
+            <div class="blockCopyright">
+                <div class="copyright">
+                    &#169; <span>2001-</span><span itemprop="copyrightYear">2020</span>
+                    &nbsp;
+                    <span itemprop="copyrightHolder" itemscope itemtype="http://schema.org/Organization" itemref="organization">
+                        <meta itemprop="name" content="Dicom Parcel" />
+                        <meta itemprop="alternateName" content="Dicom" />
+                        <label itemprop="legalName">GLS Logistics Systems Canada Ltd.</label>
+                    </span>All rights reserved.
+                </div>
+                <div class="blockTermCondition">
+                    <ul>
+                        
+                        <li class="spacer"><a href="/en/freight/support/useful-documents/terms-conditions">terms &amp; conditions of use</a></li>
+                        <li class="spacer"><a href="/en/freight/support/useful-documents/privacy-policy">internet privacy policy</a></li>
+                        
+                        <li><a href="/en/freight/site-map">site map</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="mediaSociauxIco">
+                <div><a href="https://www.facebook.com/dicomtransport/" target="_blank"><img src="/Images/corp/layout/logo_facebook.jpg" /></a></div>
+                <div><a href="https://www.linkedin.com/company/dicomtransportationgroup" target="_blank"><img src="/Images/corp/layout/logo_linkIn.jpg" /></a></div>
+                <div style="display:none"><a href="#"><img src="/Images/corp/layout/logo_twitter.jpg" /></a></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+        </footer>
+    </div>
+
+            <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
+            <script type="text/javascript">
+                // Fallback to loading jQuery from a local path if the CDN is unavailable
+                (window.jQuery || document.write('<script src="/Scripts/Plugin/Jquery/jquery-1.9.1.min.js"><\/script>'));
+            </script>
+        <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js" type="text/javascript"></script>
+        <script type="text/javascript">
+            // Fallback to loading jQuery UI from a local path if the CDN is unavailable
+            (window.jQuery.ui || document.write('<script src="/Scripts/Plugin/Jquery/ui-1.9.2/minified/jquery-ui.min.js"><\/script>'));
+        </script>
+
+    <script src="/bundles/jQueryTourPlugin?v=9Sv2htAemPDhT7l60B97JfLDrJt8pdUNI9Ct3jyG1oU1"></script>
+
+    <script src="/bundles/jqueryval?v=yw11trdiDD5xMx_K1dCwpZtAfygWgoKtrdAcAt-Wb081"></script>
+
+    <script src="/bundles/Common?v=7C8pQENsmzQNIWD6g4M9chInyS3bLz00tkliayyxvmE1"></script>
+
+
+    
+    
+    <script src="/bundles/Common/LiveChatBundle?v=HQDA4mPT8y7nJIwjfwdq3jWaU0IoCn6WGuSEVLrE2m01"></script>
+
+        }
+
+    <script type="text/javascript">
+        if (__oIsynergy.GetInternetExplorerVersion() == 8.0) {
+
+            function fontAwesomeIEFix() {
+
+                var head = document.getElementsByTagName('head')[0],
+                style = document.createElement('style');
+                style.type = 'text/css';
+                style.styleSheet.cssText = ':before,:after{content:none !important';
+                head.appendChild(style);
+                setTimeout(function () {
+                    head.removeChild(style);
+                }, 0);
+
+            }
+            window.onload = fontAwesomeIEFix;
+        }
+    </script>
+
+<script src="/bundles/Cache/Login?v=12gXe-iqhFwtpz6Bonh0l9qLzIVTQ9YRO-lSNODBf5w1"></script>
+    <!--GOOGLE SEARCH-->
+    <script src="/bundles/GoogleSearch?v=drtt5UYrRWa169IQQqSaHwlFuxbmziv09PiK3njOYks1"></script>
+
+    <script src="/bundles/GoogleAnalyticsJS?v=DFWNCPBEJu_f9YwK2XJ9IMzAQC5LC0Eo4FBI__CEyFM1"></script>
+
+
+
+    
+
+            <script src="/bundles/mainsite?v=mSOeLElIfY-J6KCJo1SeEVaSwDgclA8lQYtuKpa7SIw1"></script>
+
+
+            <script type="text/javascript">
+                $(document).ready(function () {
+                    $(".phoneTooltip").tooltip({
+                        tooltipClass: "tooltipHint"
+                    });
+                });
+            </script>
+
+
+        
+        
+        
+
+    <script src="/bundles/Common/layoutInit?v=sksVJ1W-xMdzWceHiCGir6PNb3ZCnSouSPxAyCsR_rc1"></script>
+
+
+    
+        <div style="display:none;"></div>
+
+</body>
+</html>
+
