@@ -1,0 +1,3040 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+<title>Alternative Fuels Data Center: Case Studies</title>
+  <script>
+    window.tadaAnalyticsOptions = {"env":"production","ids":["UA-24103967-1","UA-25110724-1","UA-5743150-13"]};
+
+    (function(){function q(w,n){w[n]=w[n]||function(){(w[n].q=w[n].q||[]).push(arguments)}};
+    q(window,'tadaAnalyticsGa');q(window,'tadaAnalyticsGaAllTrackers')})();
+  </script>
+  <script async src="https://widgets.nrel.gov/tada/analytics/analytics.js"></script>
+
+  <script type="text/javascript">
+  setTimeout(function(){var a=document.createElement("script");
+  var b=document.getElementsByTagName("script")[0];
+  a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0020/4864.js?"+Math.floor(new Date().getTime()/3600000);
+  a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+  </script>
+
+<link rel="stylesheet" media="all" href="https://afdc.energy.gov/template/assets/application-64af2586d595599cedae58d8265c129bef3fc07a28419cda9f2e88cbb1cd26c9.css" />
+<link rel="stylesheet" media="print" href="https://afdc.energy.gov/template/assets/print-4ee77a69687037dab0f858673528baa5ff9c07c8c73b133bce8197eb47af9865.css" />
+<!--[if lte IE 7 ]><link rel="stylesheet" media="all" href="https://afdc.energy.gov/template/assets/ie_lte_7-0d557173c48349b4be3e8b5c19b1c5b2352f93a14cf81a93c5fc3eb19cc8371d.css" /><![endif]-->
+<!--[if lte IE 8 ]><link rel="stylesheet" media="all" href="https://afdc.energy.gov/template/assets/ie_lte_8-d226f2f70fdb3f457b9905d23dc0a41ccea92240950056069d8555d8868f8355.css" /><![endif]-->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="https://afdc.energy.gov/template/assets/application-c679a40df06016ba256c371c94d0c5f66a28cbbeb3f8e84f8d51394c14f00f16.js"></script>
+
+
+
+
+  </head>
+  <body class='afdc'>
+    <!--stopindex-->
+    <header>
+      <div id="eere_header" class="container-fluid hidden-print">
+  <div id="eere_header_content" class="row-fluid">
+    <div class="span14">
+      <div class="visuallyhidden"><a href="#maincontent">Skip to Content</a></div>
+      <img id="eere_logo" usemap="#eere_logo_map" src="https://afdc.energy.gov/template/assets/eere_header_logo-49a56e6a63ae166581f2f678d90fee699baba1f1edfb5bfb7706e907072b9e7a.gif" />
+      <map name="eere_logo_map" id="eere_logo_map">
+        <area shape="rect" coords="1,1,97,33" href="http://www.energy.gov/" alt="U.S. Department of Energy" />
+        <area shape="rect" coords="99,1,214,33" href="http://www.eere.energy.gov/" alt="Energy Efficiency and Renewable Energy" />
+      </map>
+    </div>
+
+    <div id="global_links" class="span10 hidden-phone">
+      <a href="http://www.eere.energy.gov/">EERE Home</a> | <a href="http://www.eere.energy.gov/site_administration/programs_offices.html">Programs &amp; Offices</a> | <a href="https://www.energy.gov/energysaver/energy-saver">Consumer Information</a>
+    </div>
+  </div>
+</div>
+
+      <div id="program_header" class="container-fluid hidden-print">
+  <div id="program_header_content" class="row-fluid">
+    <form accept-charset="UTF-8" action="https://search.usa.gov/search" id="searchbox" method="get" class="hidden-phone hidden-tablet">
+      <input name="utf8" type="hidden" value="&#x2713;" />
+      <input name="affiliate" type="hidden" value="afdc.energy.gov" id="affiliate" />
+      <label for="query">Search the AFDC</label>
+      <input name="query" type="text" id="query" maxlength="2000" />
+      <button class="btn btn-green">Search</button>
+    </form>
+    <div id="sitename"><a href="/">Alternative Fuels Data Center</a></div>
+
+    <nav id="nav">
+      <div id="primary_nav" class="nav-group">
+        <ul><li><a href="/fuels/">Fuels &amp; <span class="primary-nav-break">Vehicles</span></a><div class="mega-menu">
+  <div class="mega-menu-equal-height-column mega-menu-main">
+    <div class="mega-menu-column-content">
+      <ul>
+        <li><strong><a href="/fuels/biodiesel.html">Biodiesel</a></strong> | <a href="/vehicles/diesel.html">Diesel Vehicles</a></li>
+        <li><strong><a href="/fuels/electricity.html">Electricity</a></strong> | <a href="/vehicles/electric.html">Hybrid & Plug-In Electric Vehicles</a></li>
+        <li><strong><a href="/fuels/ethanol.html">Ethanol</a></strong> | <a href="/vehicles/flexible_fuel.html">Flex Fuel Vehicles</a></li>
+        <li><strong><a href="/fuels/hydrogen.html">Hydrogen</a></strong> | <a href="/vehicles/fuel_cell.html">Fuel Cell Vehicles</a></li>
+        <li><strong><a href="/fuels/natural_gas.html">Natural Gas</a></strong> | <a href="/vehicles/natural_gas.html">Natural Gas Vehicles</a></li>
+        <li><strong><a href="/fuels/propane.html">Propane</a></strong> | <a href="/vehicles/propane.html">Propane Vehicles</a></li>
+        <li><strong><a href="/fuels/emerging.html">Emerging Fuels</a></strong></li>
+        <li><strong><a href="/fuels/prices.html">Fuel Prices</a></strong></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="mega-menu-equal-height-column mega-menu-feature">
+    <div class="mega-menu-column-content">
+      <ul>
+        <li><a href="/vehicles/search/download.pdf"><span><i class="icon-eere-mega-menu-2018-atv"></i></span><span>Alternative Fuel and Advanced Technology Vehicles</span></a></li>
+        <li><a href="/calc/"><span><i class="icon-eere-calculator"></i></span><span>Vehicle Cost Calculator</span></a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+</li><li><a href="/conserve/">Conserve <span class="primary-nav-break">Fuel</span></a><div class="mega-menu">
+  <div class="mega-menu-equal-height-column mega-menu-main">
+    <div class="mega-menu-column-content">
+      <ul><li><a href="/conserve/idle_reduction_basics.html">Idle Reduction</a></li><li><a href="/conserve/equipment.html">Parts &amp; Equipment</a></li><li><a href="/conserve/vehicle_maintenance.html">Maintenance</a></li><li><a href="/conserve/driving_behavior.html">Driving Behavior</a></li><li><a href="/conserve/rightsizing.html">Fleet Rightsizing</a></li><li><a href="/conserve/system_efficiency.html">System Efficiency</a></li></ul>
+    </div>
+  </div>
+
+  <div class="mega-menu-equal-height-column mega-menu-feature">
+    <div class="mega-menu-column-content">
+      <ul>
+        <li><a href="http://www.anl.gov/energy-systems/downloads/vehicle-idle-reduction-savings-worksheet"><span><i class="icon-eere-mega-menu-feature-idle-reduction-worksheet"></i></span><span>Idle Reduction Savings Worksheet</span></a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+</li><li><a href="/stations/">Locate <span class="primary-nav-break">Stations</span></a><div class="mega-menu">
+  <div class="mega-menu-equal-height-column mega-menu-main">
+    <div class="mega-menu-column-content">
+      <ul>
+        <li><a href="/stations/#/find/nearest">Search by Location</a></li>
+        <li><a href="/stations/#/find/route">Map a Route</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="mega-menu-equal-height-column mega-menu-feature">
+    <div class="mega-menu-column-content">
+      <ul>
+        <li><a href="/stations/states"><span><i class="icon-eere-mega-menu-feature-station-by-state"></i></span><span>Station Data by State</span></a></li>
+        <li><a href="/data_download"><span><i class="icon-eere-download"></i></span><span>Download Station Data</span></a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+</li><li><a href="/laws">Laws &amp; <span class="primary-nav-break">Incentives</span></a><div class="mega-menu">
+  <div class="mega-menu-equal-height-column mega-menu-main">
+    <div class="mega-menu-column-content">
+      <ul>
+        <li><a href="/laws/search">Search All</a></li>
+        <li><a href="/laws/fed_summary">Federal</a></li>
+        <li><a href="/laws/state">State</a></li>
+        <li><a href="/laws/key_legislation">Key Legislation</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="mega-menu-equal-height-column mega-menu-feature">
+    <div class="mega-menu-column-content">
+      <ul>
+        <li><a href="/project_assistance.html"><span><i class="icon-eere-mega-menu-feature-project-assistance"></i></span><span>Project Assistance &amp; Funding Opportunities</span></a></li>
+        <li><a href="/laws/local_examples"><span><i class="icon-eere-mega-menu-feature-local-laws"></i></span><span>Examples of Local Laws &amp; Incentives</span></a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+</li><li class="visible-phone visible-tablet"><a href="#">More...</a><div class="mega-menu">
+  <div class="mega-menu-equal-height-column mega-menu-main">
+    <div class="mega-menu-column-content">
+      <ul>
+        <li><a href="/data">Maps &amp; Data</a></li>
+        <li><a href="/case">Case Studies</a></li>
+        <li><a href="/publications">Publications</a></li>
+        <li><a href="/tools">Tools</a></li>
+        <li><a href="/about.html">About</a></li>
+        <li><a href="/">Home</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+</li></ul>
+      </div>
+
+      <div id="secondary_pages_nav" class="nav-group hidden-phone hidden-tablet">
+        <ul><li><a href="/data/">Maps &amp; Data</a></li><li class="selected active-leaf"><a class="selected" href="/case">Case Studies</a></li><li><a href="/publications">Publications</a></li><li><a href="/tools">Tools</a></li><li><a href="/about.html">About</a></li><li><a href="/">Home</a></li></ul>
+      </div>
+    </nav>
+  </div>
+</div>
+
+
+      <div class="visible-print-preview" id="print_preview">
+  <h5>Print Preview</h5>
+
+  <div class="row-fluid">
+    <div class="span12">
+      <a href="#print" id="print_preview_print">
+        <i class="icon-eere-print"></i><br />
+        Print
+      </a>
+    </div>
+
+    <div class="span12">
+      <a href="#cancel" id="print_preview_cancel">
+        <i class="icon-eere-close"></i><br />
+        Close
+      </a>
+    </div>
+  </div>
+</div>
+
+      <div id="print_header" class="row-fluid visible-print">
+  <h3>U.S. Department of Energy - Energy Efficiency and Renewable Energy</h3>
+  <h4>Alternative Fuels Data Center</h4>
+</div>
+
+      <div class="container-fluid hidden-print">
+  <div id="utility_line" class="row-fluid">
+    <div id="breadcrumb" class="span18">
+      <div><a href="http://www.eere.energy.gov/">EERE</a> &raquo; <a href="/">AFDC</a> &raquo; <span>Case Studies</span></div>
+    </div>
+
+    <div class="span6 last">
+      <ul id="utilities">
+        <li id="print" class="hidden-phone hidden-tablet"><a href="#printable"><i class="icon-eere-utility-print"></i>Printable Version</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+    </header>
+    <div class="container-fluid">
+
+
+<div class="row-fluid">
+  <div class="span24" id="main_content">
+    <!--startindex-->
+
+  <h1>Case Studies</h1>
+
+
+
+<link rel="stylesheet" media="screen" href="/sp/assets/case_studies/case_studies-ab93f6f81a0d211e35069bec27525c318a082a765b89ef2ed835bf1a009c7fac.css" />
+<script src="/sp/assets/case_studies/case_studies-649520a2a72b9bf9e02c0882a867dd72210e55ddbce8c1d6eaff2f473b524474.js"></script>
+
+<div id="search-copy">Find case studies and success stories about alternative transportation technologies, including alternative fuels, advanced vehicles, and regulated fleets.</div>
+
+<div id="caseStudyCarousel" class="carousel slide">
+    <div class="carousel-inner">
+        <div class="item active">
+        <div class="span24">
+        <div class="featured">
+          <a href="/case/2671" class="carousel-img"><img src="/files/u/case_studies/2671/images/39374_Coalition_News_Central_OK_CC_cngstation-v2.jpg" /></a>
+          <div class="info">
+            <div class="info-text">
+              <h2><a class="title-link" href="/case/2671">Natural Gas Stations Abound on Oklahoma&#39;s Interstate Highway System</a></h2>
+              <p class="intro">Drivers of compressed natural gas (CNG) vehicles along Oklahoma's interstate highways don't need to worry about finding a place to fill up--the state now has public CNG stations located every 100 miles.</p>
+            </div>
+            <p class="info-link"><a href="/case/2671">Learn More</a></p>
+          </div>
+        </div>
+        </div>
+      </div>
+        <div class="item">
+        <div class="span24">
+        <div class="featured">
+          <a href="/case/2670" class="carousel-img"><img src="/files/u/case_studies/2670/images/cobb_cnty_fleet_39585_675.jpg" /></a>
+          <div class="info">
+            <div class="info-text">
+              <h2><a class="title-link" href="/case/2670">Municipality with a Mission: Georgia Fleet Commits to Alternative Fuels for the Long Haul</a></h2>
+              <p class="intro">When it came to adopting alternative fuels into its fleet, Georgia's Cobb County Government didn't stop at one or two types of fuel. Over the past 15 years, the County has made it its mission to utilize six different alternative fuels, based on mission needs, with the goal of saving money, reducing its environmental impact, and increasing employees' satisfaction.</p>
+            </div>
+            <p class="info-link"><a href="/case/2670">Learn More</a></p>
+          </div>
+        </div>
+        </div>
+      </div>
+        <div class="item">
+        <div class="span24">
+        <div class="featured">
+          <a href="/case/2543" class="carousel-img"><img src="/files/u/case_studies/2543/images/prison_propane_vans_39646_675.jpg" /></a>
+          <div class="info">
+            <div class="info-text">
+              <h2><a class="title-link" href="/case/2543">Alabama Prisons Adopt Propane, Establish Fuel Savings for Years to Come</a></h2>
+              <p class="intro">Ever since Alabama Clean Fuels Coalition (ACFC) hosted its annual Propane Road Show in 2012, officials from the state's Department of Corrections (ADOC) were inspired to see if the fuel could work in their own fleet. </p>
+            </div>
+            <p class="info-link"><a href="/case/2543">Learn More</a></p>
+          </div>
+        </div>
+        </div>
+      </div>
+</div>
+
+<ol class="carousel-indicators">
+  <li data-target="#caseStudyCarousel" data-slide-to="0" class="active"></li>
+  <li data-target="#caseStudyCarousel" data-slide-to="1"></li>
+  <li data-target="#caseStudyCarousel" data-slide-to="2"></li>
+</ol>
+
+</div>
+
+<div id="case-studies-search-row" class="row-fluid">
+
+  <div class="span11">
+    <div id="case-studies-large-search-form">
+  <ul class="nav nav-tabs">
+    <li id="categoryTab" class="active"><a href="/case">Category</a></li>
+    <li id="keywordTab"><a href="/case?keyword=">Keyword</a></li>
+  </ul>
+  <div class="tab-content">
+
+    <div id="categorySearch" class="tab-pane active">
+      <p>Choose one or more items from the following categories</p>
+      <form action="/case/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+      <div class="row-fluid">
+        <div class="span12">
+          <p class="heading">Fuel/Technology</p>
+          <div id="fuels_technology">
+            <label class="checkbox">
+              <input type="checkbox" name="all_fuels" id="allFuels" />
+              <i>All Fuels</i>
+            </label>
+            <label class="checkbox">
+              <input type="checkbox" name="fuels[]" id="fuels_" value="10457,10661" class="fuels" />
+              Biodiesel
+            </label>
+            <label class="checkbox">
+              <input type="checkbox" name="fuels[]" id="fuels_" value="10462,10480" class="fuels" />
+              Propane
+            </label>
+            <label class="checkbox">
+              <input type="checkbox" name="fuels[]" id="fuels_" value="10461,10464,10465,10466,10479" class="fuels" />
+              Natural Gas
+            </label>
+            <label class="checkbox">
+              <input type="checkbox" name="fuels[]" id="fuels_" value="10460,10478" class="fuels" />
+              Hydrogen
+            </label>
+            <label class="checkbox">
+              <input type="checkbox" name="fuels[]" id="fuels_" value="10459,10477" class="fuels" />
+              Ethanol
+            </label>
+            <label class="checkbox">
+              <input type="checkbox" name="fuels[]" id="fuels_" value="10474,10458" class="fuels" />
+              All Electric
+            </label>
+            <label class="checkbox">
+              <input type="checkbox" name="fuels[]" id="fuels_" value="10476" class="fuels" />
+              Hybrid Electric
+            </label>
+            <label class="checkbox">
+              <input type="checkbox" name="fuels[]" id="fuels_" value="10458,10475" class="fuels" />
+              Plug-In Hybrid Electric
+            </label>
+            <label class="checkbox">
+              <input type="checkbox" name="fuels[]" id="fuels_" value="10500,10503" class="fuels" />
+              Fuel Economy Improvements
+            </label>
+            <label class="checkbox">
+              <input type="checkbox" name="fuels[]" id="fuels_" value="10501" class="fuels" />
+              Idle Reduction
+            </label>
+          </div>
+        </div>
+        <div class="span12">
+          <p class="heading">Applications</p>
+          <div id="applications">
+            <label class="checkbox">
+              <input type="checkbox" name="all_applications" id="allApps" />
+              <i>All Applications</i>
+            </label>
+            <label class="checkbox">
+              <input type="checkbox" name="apps[]" id="apps_" value="10489" class="apps" />
+              Refuse Collection
+            </label>
+            <label class="checkbox">
+              <input type="checkbox" name="apps[]" id="apps_" value="10486" class="apps" />
+              Long-Haul Trucking
+            </label>
+            <label class="checkbox">
+              <input type="checkbox" name="apps[]" id="apps_" value="10490" class="apps" />
+              School Transportation
+            </label>
+            <label class="checkbox">
+              <input type="checkbox" name="apps[]" id="apps_" value="10488" class="apps" />
+              Public Transit
+            </label>
+            <label class="checkbox">
+              <input type="checkbox" name="apps[]" id="apps_" value="10487" class="apps" />
+              Park Services
+            </label>
+            <label class="checkbox">
+              <input type="checkbox" name="apps[]" id="apps_" value="10485" class="apps" />
+              Law Enforcement
+            </label>
+            <label class="checkbox">
+              <input type="checkbox" name="apps[]" id="apps_" value="10484" class="apps" />
+              Delivery Services
+            </label>
+            <label class="checkbox">
+              <input type="checkbox" name="apps[]" id="apps_" value="10483" class="apps" />
+              Airport
+            </label>
+            <label class="checkbox">
+              <input type="checkbox" name="apps[]" id="apps_" value="10492" class="apps" />
+              Taxi Services
+            </label>
+            <label class="checkbox">
+              <input type="checkbox" name="apps[]" id="apps_" value="10491" class="apps" />
+              Shuttle Services
+            </label>
+            <label class="checkbox">
+              <input type="checkbox" name="apps[]" id="apps_" value="10472" class="apps" />
+              Off Road
+            </label>
+          </div>
+        </div>
+      </div>
+
+      <div class="button-filter">
+        <label class="category-filter" for="catFilter">Type: </label>
+        <select name="catFilter" id="catFilter"><option value="All">All</option>
+<option value="Web Story">Web Story</option>
+<option value="Video">Video</option>
+<option value="Document">Document</option></select>
+      </div>
+      <div class="clear-submit-buttons">
+        <button type="submit" id="categorySubmit" class="btn btn-green">Search</button>
+        <a id="formClear" class="btn" href="/case">Clear</a>
+
+</form>      </div>
+
+    </div>
+
+    <div id="keywordSearch" class="tab-pane">
+      <div>
+        <form class="form-search" action="/case/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+          <input placeholder="enter keyword" type="text" name="keyword" id="keyword" />
+          <button type="submit" id="keywordSubmit" class="btn btn-green">Search</button>
+        <div class="key-filter">
+          <label class="keyword-filter" for="keyFilter">Type: </label>
+          <select name="keyFilter" id="keyFilter"><option value="All">All</option>
+<option value="Web Story">Web Story</option>
+<option value="Video">Video</option>
+<option value="Document">Document</option></select>
+        </div>
+      </div>
+
+</form>
+    </div>
+  </div>
+</div>
+
+  </div>
+  <div class="span13">
+    <div id="case-studies-search-results-table">
+
+  <div id="categoryCount" class="row-fluid">
+    <span class="table-title">Search Results | </span>
+    310 case studies
+  </div>
+
+  <div id="spinnerContainer"></div>
+
+  <table id="searchResultsTable" class="category table table-bordered resultsTable">
+    <thead>
+      <tr>
+        <th></th>
+        <th>Date</th>
+        <th>Title</th>
+        <th>Type</th>
+      </tr>
+    </thead>
+    <tbody>
+
+        <tr>
+          <td>20191122</td>
+          <td>Nov. 22, 2019</td>
+            <td><a href="/case/3091">Indiana Cleans up with Natural Gas Trucks</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20191115</td>
+          <td>Nov. 15, 2019</td>
+            <td><a href="/case/3090">Electric Vehicles Charge up the Police Force</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20191031</td>
+          <td>Oct. 31, 2019</td>
+            <td><a href="/case/3089">New Flyer Buses Go Electric</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20190919</td>
+          <td>Sept. 19, 2019</td>
+            <td><a href="/case/3087">Electric City, Utah</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20190827</td>
+          <td>Aug. 27, 2019</td>
+            <td><a href="/case/3086">SunLine Transit Demonstrates Excellence in Zero Emission Transit</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20190702</td>
+          <td>July 2, 2019</td>
+            <td><a href="/case/3084">Natural Gas Trains Make the Grade in Florida</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20190627</td>
+          <td>June 27, 2019</td>
+            <td><a href="/case/3085">EV Dollars and Sense</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20190603</td>
+          <td>June 3, 2019</td>
+            <td><a href="/case/3083">Colorado Energy Office: EV Fast Charging Corridors Grant Program</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20190521</td>
+          <td>May 21, 2019</td>
+            <td><a href="/case/3081">Multi-Unit Dwelling Procurement Case Study: Green Rock Apartments</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20190427</td>
+          <td>April 27, 2019</td>
+            <td><a href="/case/3082">Electric Vehicles Hit the Open Road</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20190418</td>
+          <td>April 18, 2019</td>
+            <td><a href="/case/3078">Compressed Natural Gas Fuels Houston’s Resiliency  </a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20190418</td>
+          <td>April 18, 2019</td>
+            <td><a href="/case/3079">Aviation Gateway to Tampa Bay Offers Sustainable View</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20190418</td>
+          <td>April 18, 2019</td>
+            <td><a href="/case/3080">Natural Gas Makes a Splash in Florida</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20190417</td>
+          <td>April 17, 2019</td>
+            <td><a href="/case/3077">Shared Hydrogen Fuel Cell Electric Vehicles Set to Hit the Streets in California</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20190417</td>
+          <td>April 17, 2019</td>
+            <td><a href="/case/3076">Idling Reduction Technology Saves Police Department Money, Reduces Emissions</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20190409</td>
+          <td>April 9, 2019</td>
+            <td><a href="/case/3075">Washington School District Cuts Costs and Improves Air Quality with Propane Buses</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20190101</td>
+          <td>Jan. 1, 2019</td>
+            <td><a href="/case/3088">Clean Cities 25th Anniversary Stakeholder Testimonials</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20181227</td>
+          <td>Dec. 27, 2018</td>
+            <td><a href="/case/3072">Gaseous Fuel Station Upgrades</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20181108</td>
+          <td>Nov. 8, 2018</td>
+            <td><a href="/case/3071">D.C. EV Buses</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20181011</td>
+          <td>Oct. 11, 2018</td>
+            <td><a href="/case/3070">Alternative Fuels Corridor</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20180813</td>
+          <td>Aug. 13, 2018</td>
+            <td><a href="/case/1425">Republic Services Reduces Waste with CNG Vehicles</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20180723</td>
+          <td>July 23, 2018</td>
+            <td><a href="/case/1565">Propane Mowers Help National Park Cut Emissions</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20180723</td>
+          <td>July 23, 2018</td>
+            <td><a href="/case/1047">Smithtown Selects CNG to Cut Refuse Collection Costs</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20180723</td>
+          <td>July 23, 2018</td>
+            <td><a href="/case/1427">Rolling Down the Arizona EV Highway</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20180712</td>
+          <td>July 12, 2018</td>
+            <td><a href="/case/1064">Santa Fe Metro Fleet Runs on Natural Gas</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20180711</td>
+          <td>July 11, 2018</td>
+            <td><a href="/case/1063">Ryder Opens Natural Gas Vehicle Maintenance Facility</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20180711</td>
+          <td>July 11, 2018</td>
+            <td><a href="/case/1424">Liquefied Natural Gas Allows for Cleaner Refuse Collection in Sacramento</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20180627</td>
+          <td>June 27, 2018</td>
+            <td><a href="/case/1428">Home Improvement Retailer Offers Propane Fueling</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20180529</td>
+          <td>May 29, 2018</td>
+            <td><a href="/case/3069">Electric Refrigeration Translates Fuel Burn into Savings for Nonprofit</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20180514</td>
+          <td>May 14, 2018</td>
+            <td><a href="/case/3049">Easter Seals: Supporting the Mission and Saving Money with Natural Gas</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20180228</td>
+          <td>Feb. 28, 2018</td>
+            <td><a href="/case/3029">Clean Cities Coalitions Enlighten Local Fleets on Landfill Gas as Fuel</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20171209</td>
+          <td>Dec. 9, 2017</td>
+            <td><a href="/case/3009">Electric Vehicles Charge up at State Parks in West Virginia</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20171118</td>
+          <td>Nov. 18, 2017</td>
+            <td><a href="/case/2989">Hydrogen Powers Fuel Cell Vehicles in California</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20171104</td>
+          <td>Nov. 4, 2017</td>
+            <td><a href="/case/2988">Smart Car Shopping</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20171028</td>
+          <td>Oct. 28, 2017</td>
+            <td><a href="/case/2968">Natural Gas Vehicles Make a Difference in Tennessee</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20171020</td>
+          <td>Oct. 20, 2017</td>
+            <td><a href="/case/1568">Michigan School Buses Get Rolling on Propane</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20171014</td>
+          <td>Oct. 14, 2017</td>
+            <td><a href="/case/2948">Emergency Alternatives</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20171007</td>
+          <td>Oct. 7, 2017</td>
+            <td><a href="/case/2928">North Carolina Commits to Clean Energy with EV Charging  </a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20170916</td>
+          <td>Sept. 16, 2017</td>
+            <td><a href="/case/2908">National Park Saves Natural Resources with Alternative Fuels</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20170826</td>
+          <td>Aug. 26, 2017</td>
+            <td><a href="/case/2463">Phoenix Utility Fleet Drives Smarter with Biodiesel</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20170804</td>
+          <td>Aug. 4, 2017</td>
+            <td><a href="/case/2888">Idaho Surges Ahead with Electric Vehicle Charging</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20170714</td>
+          <td>July 14, 2017</td>
+            <td><a href="/case/2868">Cooking Oil Powers Biodiesel Vehicles in Rhode Island</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20170623</td>
+          <td>June 23, 2017</td>
+            <td><a href="/case/2851">Idaho Transports Mail and Reduces Emissions with Natural Gas Trucks</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20170609</td>
+          <td>June 9, 2017</td>
+            <td><a href="/case/2484">America&#39;s Largest Home Runs on Biodiesel in North Carolina</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20170526</td>
+          <td>May 26, 2017</td>
+            <td><a href="/case/2850">New Hampshire Cleans up with Biodiesel Buses</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20170519</td>
+          <td>May 19, 2017</td>
+            <td><a href="/case/2849">Johnson Space Center Explores Alternative Fuel Vehicles</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20170511</td>
+          <td>May 11, 2017</td>
+            <td><a href="/case/2848">Electric Vehicle Charging Network Expands at National Parks</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20170428</td>
+          <td>April 28, 2017</td>
+            <td><a href="/case/2808">Electric Buses Hit the Streets in Kentucky</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20170425</td>
+          <td>April 25, 2017</td>
+            <td><a href="/case/2768">Going Beyond Gas: Nissan Brings Car Charging to Indianapolis Convenience Store Chain </a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20170421</td>
+          <td>April 21, 2017</td>
+            <td><a href="/case/2263">Indiana Beverage Company Invests in Alternative Fuels </a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20170414</td>
+          <td>April 14, 2017</td>
+            <td><a href="/case/1053">Seattle&#39;s Waste Haulers are Going Green </a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20170414</td>
+          <td>April 14, 2017</td>
+            <td><a href="/case/1048">Clean Cities Coalitions Bring LNG to the East Coast</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20170414</td>
+          <td>April 14, 2017</td>
+            <td><a href="/case/1065">Oregon Celebrates 1,400 Miles of Electric Highways</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20170414</td>
+          <td>April 14, 2017</td>
+            <td><a href="/case/1058">Coca-Cola Bottling Co. Brings Hybrids to New Orleans</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20170413</td>
+          <td>April 13, 2017</td>
+            <td><a href="/case/2788">EV Battery Recycling</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20170401</td>
+          <td>April 1, 2017</td>
+            <td><a href="/case/2749">Freedom CNG Reduces Emissions with Natural Gas in Texas</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20170322</td>
+          <td>March 22, 2017</td>
+            <td><a href="/case/2729">New Mexico Utility Sparks Change with Fleet Electrification</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20170317</td>
+          <td>March 17, 2017</td>
+            <td><a href="/case/2748">Kentucky Charges Forward with All-Electric Buses</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20170304</td>
+          <td>March 4, 2017</td>
+            <td><a href="/case/2728">Recycled Cooking Oil Powers Biodiesel Vehicles in Vermont</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20170218</td>
+          <td>Feb. 18, 2017</td>
+            <td><a href="/case/2672">Natural Gas Fuels School Buses and Refuse Trucks in Tulsa, Oklahoma</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20170204</td>
+          <td>Feb. 4, 2017</td>
+            <td><a href="/case/2708">St. Landry Parish Turns Garbage into Renewable Natural Gas</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20170127</td>
+          <td>Jan. 27, 2017</td>
+            <td><a href="/case/2671">Natural Gas Stations Abound on Oklahoma&#39;s Interstate Highway System</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20170127</td>
+          <td>Jan. 27, 2017</td>
+            <td><a href="/case/2670">Municipality with a Mission: Georgia Fleet Commits to Alternative Fuels for the Long Haul</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20170120</td>
+          <td>Jan. 20, 2017</td>
+            <td><a href="/case/2606">quasar energy group Turns Organic Waste into Renewable Energy in Ohio</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20170114</td>
+          <td>Jan. 14, 2017</td>
+            <td><a href="/case/2688">Greater Portland Transit District Looks Forward with Natural Gas</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20161223</td>
+          <td>Dec. 23, 2016</td>
+            <td><a href="/case/2648">Baton Rouge School District Adds Propane Buses to Its Fleet</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20161209</td>
+          <td>Dec. 9, 2016</td>
+            <td><a href="/case/2608">Lamoille Valley Ford Is #1 for Electric Vehicle Sales in Vermont</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20161201</td>
+          <td>Dec. 1, 2016</td>
+            <td><a href="/case/2607">Clean Fleet DRIVES</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20161125</td>
+          <td>Nov. 25, 2016</td>
+            <td><a href="/case/2587">Maine&#39;s Only Biodiesel Manufacturer Powers Fleets in the Region</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20161111</td>
+          <td>Nov. 11, 2016</td>
+            <td><a href="/case/2167">Delaware Transit Corporation Adds Propane Buses to Its Fleet</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20161028</td>
+          <td>Oct. 28, 2016</td>
+            <td><a href="/case/2583">Propane Powers School Buses in Tuscaloosa, Alabama</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20161022</td>
+          <td>Oct. 22, 2016</td>
+            <td><a href="/case/2586">Hydrogen Drive</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20161015</td>
+          <td>Oct. 15, 2016</td>
+            <td><a href="/case/2584">Worcester Regional Transit Authority Drives Electric</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20161013</td>
+          <td>Oct. 13, 2016</td>
+            <td><a href="/case/1082">Green Fueling Station Powers Fleets in Upstate New York</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20161013</td>
+          <td>Oct. 13, 2016</td>
+            <td><a href="/case/1208">CNG Powers Law Enforcement in Arkansas</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20161013</td>
+          <td>Oct. 13, 2016</td>
+            <td><a href="/case/1056">California Ramps Up Biofuels Infrastructure in 2016 </a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20161013</td>
+          <td>Oct. 13, 2016</td>
+            <td><a href="/case/1062">Airport Shuttles Run on Propane</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20161003</td>
+          <td>Oct. 3, 2016</td>
+            <td><a href="/case/2143">Sacramento Powers up with Electric Vehicles</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20160917</td>
+          <td>Sept. 17, 2016</td>
+            <td><a href="/case/2563">Virginia Transportation Corporation Runs Vehicle Haulers in Alabama on Natural Gas</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20160914</td>
+          <td>Sept. 14, 2016</td>
+            <td><a href="/case/2543">Alabama Prisons Adopt Propane, Establish Fuel Savings for Years to Come</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20160903</td>
+          <td>Sept. 3, 2016</td>
+            <td><a href="/case/2183">Cleveland Car Dealership Working Toward a More Sustainable Future</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20160820</td>
+          <td>Aug. 20, 2016</td>
+            <td><a href="/case/2523">Boston Public Schools Moves to Propane</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20160806</td>
+          <td>Aug. 6, 2016</td>
+            <td><a href="/case/2503">City of Hendersonville Converts Vehicles to Natural Gas in North Carolina</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20160723</td>
+          <td>July 23, 2016</td>
+            <td><a href="/case/2166">Lancaster Co., Pennsylvania, Converts Trash to Energy</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20160709</td>
+          <td>July 9, 2016</td>
+            <td><a href="/case/2483">Fair Oaks Farm Harnesses the Power of Natural Gas from Cow Manure</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20160630</td>
+          <td>June 30, 2016</td>
+            <td><a href="/case/2448">Michigan&#39;s National Lakeshore Reduces Vehicle Impact on the Environment</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20160630</td>
+          <td>June 30, 2016</td>
+            <td><a href="/case/2446">Alternative Fuels Help Ensure America&#39;s National Parks Stay Green for Another Century</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20160630</td>
+          <td>June 30, 2016</td>
+            <td><a href="/case/2445">ampCNG Puts Conventional Fuels Out to Pasture with Renewable Natural Gas</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20160630</td>
+          <td>June 30, 2016</td>
+            <td><a href="/case/2447">Coalition Leader Establishes Unique Initiatives to Effect Change and Protect Ecosystem</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20160630</td>
+          <td>June 30, 2016</td>
+            <td><a href="/case/2450">Louisiana State University: The State&#39;s First Workplace Charging Challenge Partner</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20160630</td>
+          <td>June 30, 2016</td>
+            <td><a href="/case/2449">Electric Vehicles Take Center Stage in North Texas</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20160618</td>
+          <td>June 18, 2016</td>
+            <td><a href="/case/2443">Krug Energy Opens Natural Gas Fueling Station in Arkansas</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20160525</td>
+          <td>May 25, 2016</td>
+            <td><a href="/case/2628">Driving Tips for MPG</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20160514</td>
+          <td>May 14, 2016</td>
+            <td><a href="/case/2424">South Florida Furnishing Retailer Relies on Natural Gas</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20160428</td>
+          <td>April 28, 2016</td>
+            <td><a href="/case/3073">National Park Electric Vehicle Chargers</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20160420</td>
+          <td>April 20, 2016</td>
+            <td><a href="/case/2383">Deploying Clean Buses in Texas through Supplemental Environmental Projects (SEPs)</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20160416</td>
+          <td>April 16, 2016</td>
+            <td><a href="/case/2423">Little Rock Gains Momentum with Natural Gas Buses</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20160402</td>
+          <td>April 2, 2016</td>
+            <td><a href="/case/2403">South Florida Fleet Fuels with Propane</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20160227</td>
+          <td>Feb. 27, 2016</td>
+            <td><a href="/case/2363">Phoenix Cleans Up with Natural Gas</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20160206</td>
+          <td>Feb. 6, 2016</td>
+            <td><a href="/case/2444">North Carolina&#39;s Henderson County Focuses on Natural Gas</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20160205</td>
+          <td>Feb. 5, 2016</td>
+            <td><a href="/case/1943">Missouri High School Students Get Hands-On Training with Biodiesel</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20160126</td>
+          <td>Jan. 26, 2016</td>
+            <td><a href="/case/2325">City of Cincinnati Turns Sustainable Fleet Plan into On-Road Reality</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20160126</td>
+          <td>Jan. 26, 2016</td>
+            <td><a href="/case/2326">Mesa Unified School District Reaps Economic and Environmental Benefits with Propane Buses</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20160126</td>
+          <td>Jan. 26, 2016</td>
+            <td><a href="/case/2327">Minnesota School District Finds Cost Savings, Cold-Weather Reliability with Propane Buses</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20160126</td>
+          <td>Jan. 26, 2016</td>
+            <td><a href="/case/2324">Massachusetts Sees Significant Growth in Electric Vehicles and Infrastructure</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20160126</td>
+          <td>Jan. 26, 2016</td>
+            <td><a href="/case/2328">Alternative Fuel Vehicles Beat the Heat, Fight the Freeze, and Conquer the Mountains</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20160126</td>
+          <td>Jan. 26, 2016</td>
+            <td><a href="/case/2323">Arkansas Launches Natural Gas-Powered Buses and Refueling Station</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20160126</td>
+          <td>Jan. 26, 2016</td>
+            <td><a href="/case/2329">Sea-Tac and Alaska Air Group Achieve Sky-High Results with Electric Ground Support Equipment</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20160101</td>
+          <td>Jan. 1, 2016</td>
+            <td><a href="/case/2831">Workplace Charging Success: MetLife</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20151229</td>
+          <td>Dec. 29, 2015</td>
+            <td><a href="/case/2283">Smoky Mountains Leads the Way in Implementing Alternative Fuels</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20151205</td>
+          <td>Dec. 5, 2015</td>
+            <td><a href="/case/1944">District of Columbia&#39;s Government Fleet Uses a Wide Variety of Alternative Fuels</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20151128</td>
+          <td>Nov. 28, 2015</td>
+            <td><a href="/case/2284">Indiana Sanitation Department Plans to Expand CNG Fleet</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20151114</td>
+          <td>Nov. 14, 2015</td>
+            <td><a href="/case/1923">AT&amp;T Fleet Reaches Milestone of 8,000 CNG Vehicles</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20151031</td>
+          <td>Oct. 31, 2015</td>
+            <td><a href="/case/2303">Coca-Cola Continues to Expand Its Heavy-Duty Hybrid Fleet in Atlanta</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20150926</td>
+          <td>Sept. 26, 2015</td>
+            <td><a href="/case/1863">Rhode Island EV Initiative Adds Chargers Across the State</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20150922</td>
+          <td>Sept. 22, 2015</td>
+            <td><a href="/case/2343">Kern County Schools Expands CNG Station for Bus Fleet and Public Use</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20150828</td>
+          <td>Aug. 28, 2015</td>
+            <td><a href="/case/2243">Alternative Fuel and Advanced Technology Vehicles Aid in Emergency Recovery Efforts</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20150822</td>
+          <td>Aug. 22, 2015</td>
+            <td><a href="/case/1883">Florida Schools First in State to Power up With Propane</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20150819</td>
+          <td>Aug. 19, 2015</td>
+            <td><a href="/case/2210">Kansas City Home to Nation&#39;s Largest Network of EV Charging Stations</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20150819</td>
+          <td>Aug. 19, 2015</td>
+            <td><a href="/case/2206">Silicon Valley-based Electric Vehicle Parade Breaks Guinness World Record</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20150819</td>
+          <td>Aug. 19, 2015</td>
+            <td><a href="/case/2209">New Hampshire Coalition Helps Devoted Alternative Fuel Advocate Leave Lasting Legacy</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20150819</td>
+          <td>Aug. 19, 2015</td>
+            <td><a href="/case/2208">Triangle Clean Cities Resource Gives CNG Installation a Boost</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20150819</td>
+          <td>Aug. 19, 2015</td>
+            <td><a href="/case/2207">Minneapolis Makes EV-Charging History Record</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20150818</td>
+          <td>Aug. 18, 2015</td>
+            <td><a href="/case/2203">Biodiesel Offers an Easy Alternative for Fleets</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20150818</td>
+          <td>Aug. 18, 2015</td>
+            <td><a href="/case/2204">Baltimore-Based Bakery Launches Fleet of Propane-Powered Delivery Trucks</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20150818</td>
+          <td>Aug. 18, 2015</td>
+            <td><a href="/case/2205">San Diego Dealers Plug-In to Electric Vehicle Progress</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20150727</td>
+          <td>July 27, 2015</td>
+            <td><a href="/case/2223">Clean Cities Helps National Parks Model Sustainable Transportation </a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20150715</td>
+          <td>July 15, 2015</td>
+            <td><a href="/case/1783">GE Showcases Innovation in Alternative Fuel Vehicles</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20150627</td>
+          <td>June 27, 2015</td>
+            <td><a href="/case/1763">New Hampshire Railway Makes Tracks With Biodiesel</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20150530</td>
+          <td>May 30, 2015</td>
+            <td><a href="/case/2164">Los Angeles Public Works Fleet Converts to Natural Gas </a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20150530</td>
+          <td>May 30, 2015</td>
+            <td><a href="/case/2163">Yellowstone Park Recycles Vehicle Batteries for Solar Power</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20150502</td>
+          <td>May 2, 2015</td>
+            <td><a href="/case/1725">Schwan&#39;s Home Service Delivers With Propane-Powered Trucks</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20150321</td>
+          <td>March 21, 2015</td>
+            <td><a href="/case/2103">Sacramento Adds Regional Heavy-Duty LNG Fueling Station</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20150317</td>
+          <td>March 17, 2015</td>
+            <td><a href="/case/2083">Partnerships Cement Long-Term Success for Northern Colorado Duo</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20150317</td>
+          <td>March 17, 2015</td>
+            <td><a href="/case/2085">New York Coalition Helps Local Alternative Fuel Station Boost Revenue</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20150317</td>
+          <td>March 17, 2015</td>
+            <td><a href="/case/2084">Blue Skies Initiative Clears the Air in North Carolina for More Than a Decade</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20150317</td>
+          <td>March 17, 2015</td>
+            <td><a href="/case/2086">Oregon Boosts EV Adoption Through Popular Electric Vehicle Events</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20150313</td>
+          <td>March 13, 2015</td>
+            <td><a href="/case/2065">Massachusetts Fleet Braun&#39;s Express Celebrates 10 Years of Petroleum Reduction Success</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20150307</td>
+          <td>March 7, 2015</td>
+            <td><a href="/case/1624">New Hampshire Fleet Revs up With Natural Gas</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20150306</td>
+          <td>March 6, 2015</td>
+            <td><a href="/case/2043">Propane Rolls on as Reliable Fleet Fuel </a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20150221</td>
+          <td>Feb. 21, 2015</td>
+            <td><a href="/case/2123">West Virginia CNG Corridor Now Open</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20150202</td>
+          <td>Feb. 2, 2015</td>
+            <td><a href="/case/2003">Deploying Alternative Fuel Vehicles and Infrastructure in Chicago, Illinois, Through the Congestion Mitigation and Air Quality Improvement Program</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20150117</td>
+          <td>Jan. 17, 2015</td>
+            <td><a href="/case/2064">Maryland County Fleet Uses Wide Variety of Alternative Fuels</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20150105</td>
+          <td>Jan. 5, 2015</td>
+            <td><a href="/case/1983">Deploying Alternative Fuel Vehicles in Rochester, New York, Through the Congestion Mitigation and Air Quality Improvement Program</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20150101</td>
+          <td>Jan. 1, 2015</td>
+            <td><a href="/case/2828">Local Businesses Get Creative to Offer Workplace Charging</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20150101</td>
+          <td>Jan. 1, 2015</td>
+            <td><a href="/case/2830">Workplace Charging Success: Zappos.com</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20150101</td>
+          <td>Jan. 1, 2015</td>
+            <td><a href="/case/2832">DC Fast Charging at the Workplace: SolarWorld</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20150101</td>
+          <td>Jan. 1, 2015</td>
+            <td><a href="/case/2809">Workplace Charging at Leased Facilities Charges Up Tenants and Property Managers</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20150101</td>
+          <td>Jan. 1, 2015</td>
+            <td><a href="/case/2829">Workplace Charging Success: lynda.com</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20150101</td>
+          <td>Jan. 1, 2015</td>
+            <td><a href="/case/2810">Using Solar Power to Supplement Workplace Charging</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20141220</td>
+          <td>Dec. 20, 2014</td>
+            <td><a href="/case/2023">California School District Creates First-of-Its-Kind Zero-Emissions Bus</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20141122</td>
+          <td>Nov. 22, 2014</td>
+            <td><a href="/case/2063">Kentucky Trucking Company Adds CNG Vehicles to Its Fleet</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20141025</td>
+          <td>Oct. 25, 2014</td>
+            <td><a href="/case/1963">Blue Ridge Parkway Incorporates Alternative Fuels in Its Fleet</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20141010</td>
+          <td>Oct. 10, 2014</td>
+            <td><a href="/case/1000">Oregon Leads the Charge for Plug-In Electric Vehicles and Infrastructure</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20141003</td>
+          <td>Oct. 3, 2014</td>
+            <td><a href="/case/1002">Los Angeles Sets the Stage for Plug-In Electric Vehicles</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20140930</td>
+          <td>Sept. 30, 2014</td>
+            <td><a href="/case/1003">Houston Energizes Deployment of Plug-In Electric Vehicles </a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20140927</td>
+          <td>Sept. 27, 2014</td>
+            <td><a href="/case/1945">North Carolina City Expands Alternative Fuel Fleet </a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20140924</td>
+          <td>Sept. 24, 2014</td>
+            <td><a href="/case/1001">Raleigh, North Carolina, Paves the Way for Plug-In Electric Vehicle Success</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20140913</td>
+          <td>Sept. 13, 2014</td>
+            <td><a href="/case/1403">Virginia Cleans up With Natural Gas Refuse Trucks</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20140816</td>
+          <td>Aug. 16, 2014</td>
+            <td><a href="/case/1343">Pennsylvania School Buses Run on Natural Gas</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20140802</td>
+          <td>Aug. 2, 2014</td>
+            <td><a href="/case/1903">College Students Engineer Efficient Vehicles in EcoCAR 2 Competition</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20140726</td>
+          <td>July 26, 2014</td>
+            <td><a href="/case/1363">UC Davis Pioneers Research for Plug-In Hybrid Electric Vehicles</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20140628</td>
+          <td>June 28, 2014</td>
+            <td><a href="/case/1283">Virginia Converts Vehicles to Propane in Spotsylvania County</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20140516</td>
+          <td>May 16, 2014</td>
+            <td><a href="/case/1843">Seattle Rideshare Fleet Adds EVs, Enjoys Success</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20140516</td>
+          <td>May 16, 2014</td>
+            <td><a href="/case/1844">City of Chicago Program Encourages Petroleum Displacement and Collaboration Between Departments</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20140516</td>
+          <td>May 16, 2014</td>
+            <td><a href="/case/1803">Idaho National Laboratory Dual-Fuel Buses Reduce Operating Costs and Emissions</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20140516</td>
+          <td>May 16, 2014</td>
+            <td><a href="/case/1823">Indianapolis CNG Fueling Station Attracts Local Fleets, Turns into Profit Center</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20140516</td>
+          <td>May 16, 2014</td>
+            <td><a href="/case/1824">Propane Vans Keep Kansas City Transportation Company Rolling</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20140401</td>
+          <td>April 1, 2014</td>
+            <td><a href="/case/1744">Voucher Incentive Programs: Lessons From the States</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20140329</td>
+          <td>March 29, 2014</td>
+            <td><a href="/case/1202">Atlanta Airport Converts Shuttles to CNG</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20140312</td>
+          <td>March 12, 2014</td>
+            <td><a href="/case/1726">Utah&#39;s Clean Fuels and Vehicle Technology Loan Program</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20140308</td>
+          <td>March 8, 2014</td>
+            <td><a href="/case/1223">Colorado Leads in Alternative Fuel Use and Public Transit Efficiency</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20140304</td>
+          <td>March 4, 2014</td>
+            <td><a href="/case/1743">Automakers Innovate With Clean Gas Technologies</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20140215</td>
+          <td>Feb. 15, 2014</td>
+            <td><a href="/case/1724">Rental Cars Go Electric in Florida</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20140201</td>
+          <td>Feb. 1, 2014</td>
+            <td><a href="/case/1143">Renzenberger Inc Saves Money With Propane Vans</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20140121</td>
+          <td>Jan. 21, 2014</td>
+            <td><a href="/case/1703">Companies Power up Through Workplace Charging Challenge</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20140104</td>
+          <td>Jan. 4, 2014</td>
+            <td><a href="/case/625">Michigan Transports Students in Hybrid Electric School Buses</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20131214</td>
+          <td>Dec. 14, 2013</td>
+            <td><a href="/case/383">Salt Lake City Fuels Vehicles With Natural Gas</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20131121</td>
+          <td>Nov. 21, 2013</td>
+            <td><a href="/case/1645">Cities Clean up With Biofuels</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20131121</td>
+          <td>Nov. 21, 2013</td>
+            <td><a href="/case/1664">Hybrid and Electric Vehicles Boom Coast to Coast</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20131121</td>
+          <td>Nov. 21, 2013</td>
+            <td><a href="/case/1665">Cities Make the Clean Switch to Natural Gas</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20131121</td>
+          <td>Nov. 21, 2013</td>
+            <td><a href="/case/1663">Corporate Fleets Set the Pace for a Green Driving Future</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20131109</td>
+          <td>Nov. 9, 2013</td>
+            <td><a href="/case/1666">Innovations Improve Electric Vehicle Charging Infrastructure</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20131102</td>
+          <td>Nov. 2, 2013</td>
+            <td><a href="/case/1623">Alpha Baking Company Augments Its Fleet With Propane Delivery Trucks</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20131101</td>
+          <td>Nov. 1, 2013</td>
+            <td><a href="/case/1644">Propane Powers Fleets Across the Nation</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20131026</td>
+          <td>Oct. 26, 2013</td>
+            <td><a href="/case/683">Natural Gas Delivery Vans Support McShan Florist</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20131023</td>
+          <td>Oct. 23, 2013</td>
+            <td><a href="/case/1566">Diversity of Fuels Supports Sustainability in Fort Collins</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20131023</td>
+          <td>Oct. 23, 2013</td>
+            <td><a href="/case/1570">Clean Cities Helps Green the National Mall</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20131023</td>
+          <td>Oct. 23, 2013</td>
+            <td><a href="/case/1567">DeKalb County Turns Trash to Gas</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20131023</td>
+          <td>Oct. 23, 2013</td>
+            <td><a href="/case/1569">Utah Paperbox Adds Workplace Charging to Boost Sustainability</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20131017</td>
+          <td>Oct. 17, 2013</td>
+            <td><a href="/case/1543">Smith Dairy Deploys Natural Gas Vehicles and Fueling Infrastructure in the Midwest</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20131003</td>
+          <td>Oct. 3, 2013</td>
+            <td><a href="/case/1603">Clean Cities Reflects on 20 Years of Alternative Fuels</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20130928</td>
+          <td>Sept. 28, 2013</td>
+            <td><a href="/case/1564">Ozinga Adds 14 Natural Gas Concrete Mixers to Its Fleet</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20130914</td>
+          <td>Sept. 14, 2013</td>
+            <td><a href="/case/1142">Electric Ice Resurfacers Improve Air Quality in Minnesota</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20130831</td>
+          <td>Aug. 31, 2013</td>
+            <td><a href="/case/1563">Texas Law Enforcement Vehicles Fill up With Propane</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20130817</td>
+          <td>Aug. 17, 2013</td>
+            <td><a href="/case/1122">Veolia Transportation Converts Taxi Fleet to Propane</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20130803</td>
+          <td>Aug. 3, 2013</td>
+            <td><a href="/case/1524">Golden Eagle Delivers Beer With Natural Gas Trucks</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20130720</td>
+          <td>July 20, 2013</td>
+            <td><a href="/case/663">Idaho County Employs FFVs and Idle Reduction</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20130629</td>
+          <td>June 29, 2013</td>
+            <td><a href="/case/1483">Propane Buses Help Minnesota Schools Carve out Greener Future</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20130624</td>
+          <td>June 24, 2013</td>
+            <td><a href="/case/1583">Clean Cities Helps the National Mall Cut Petroleum Use With Propane Mowers</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20130615</td>
+          <td>June 15, 2013</td>
+            <td><a href="/case/563">Happy Cab Fuels Taxi Fleet With CNG</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20130601</td>
+          <td>June 1, 2013</td>
+            <td><a href="/case/1463">CNG Shuttles Save Fuel Costs for R&amp;R Limousine and Bus</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20130525</td>
+          <td>May 25, 2013</td>
+            <td><a href="/case/1443">Landfills Convert Biogas Into Renewable Natural Gas</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20130524</td>
+          <td>May 24, 2013</td>
+            <td><a href="/case/1426">CNG Fleets Aid in Superstorm Recovery</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20130524</td>
+          <td>May 24, 2013</td>
+            <td><a href="/case/1429">The Heat Is on in St. Louis Buses</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20130518</td>
+          <td>May 18, 2013</td>
+            <td><a href="/case/603">New York Broadens Network for Electric Vehicle Charging</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20130427</td>
+          <td>April 27, 2013</td>
+            <td><a href="/case/623">Michigan Converts Vehicles to Propane, Reducing Emissions</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20130413</td>
+          <td>April 13, 2013</td>
+            <td><a href="/case/1383">Renewable Natural Gas From Landfill Powers Refuse Vehicles</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20130405</td>
+          <td>April 5, 2013</td>
+            <td><a href="/case/1503">San Diego Prepares for Electric Vehicles in Multi-Unit Dwelling Communities</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20130323</td>
+          <td>March 23, 2013</td>
+            <td><a href="/case/1323">Natural Gas Minibuses Help New Jersey Recover From Hurricane Sandy</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20130303</td>
+          <td>March 3, 2013</td>
+            <td><a href="/case/443">Rio Rico Fire District Turns Grease Into Biodiesel</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20130302</td>
+          <td>March 2, 2013</td>
+            <td><a href="/case/483">Foodliner Delivers Goods in Illinois With Natural Gas Tractors</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20130202</td>
+          <td>Feb. 2, 2013</td>
+            <td><a href="/case/543">Car2Go Launches Electric Carsharing Fleet in San Diego</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20130119</td>
+          <td>Jan. 19, 2013</td>
+            <td><a href="/case/1303">Seattle Bakery Delivers With Biodiesel Trucks</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20121201</td>
+          <td>Dec. 1, 2012</td>
+            <td><a href="/case/83">Mammoth Cave National Park Uses Only Alternative Fuel Vehicles</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20121124</td>
+          <td>Nov. 24, 2012</td>
+            <td><a href="/case/1263">Pittsburgh Livery Company Transports Customers in Alternative Fuel Vehicles</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20121013</td>
+          <td>Oct. 13, 2012</td>
+            <td><a href="/case/1523">Propane Buses Shuttle Visitors in Maine</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20120922</td>
+          <td>Sept. 22, 2012</td>
+            <td><a href="/case/404">Frito-Lay Delivers With Electric Truck Fleet</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20120914</td>
+          <td>Sept. 14, 2012</td>
+            <td><a href="/case/1205">Idle Reduction Programs at Tennessee Schools</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20120914</td>
+          <td>Sept. 14, 2012</td>
+            <td><a href="/case/1206">Plug-In Vehicles to Harness Renewable Energy in Hawaii</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20120914</td>
+          <td>Sept. 14, 2012</td>
+            <td><a href="/case/1204">Partnerships Spark Biodiesel Success for Essential Baking Company</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20120914</td>
+          <td>Sept. 14, 2012</td>
+            <td><a href="/case/1207">Maine Fleets Make Progress with Propane</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20120914</td>
+          <td>Sept. 14, 2012</td>
+            <td><a href="/case/1209">Saving Fuel in the Garden State with Truck Stop Electrification</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20120818</td>
+          <td>Aug. 18, 2012</td>
+            <td><a href="/case/1162">Coca-Cola Charges Forward With Hybrid Delivery Trucks</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20120721</td>
+          <td>July 21, 2012</td>
+            <td><a href="/case/143">Alabama City Leads With Biodiesel and Ethanol</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20120701</td>
+          <td>July 1, 2012</td>
+            <td><a href="/case/1203">Largest U.S. Port Complex Embraces LNG for Heavy-Duty Trucks</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20120608</td>
+          <td>June 8, 2012</td>
+            <td><a href="/case/64">Boulder Commits to Alternative Fuel Vehicles</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20120505</td>
+          <td>May 5, 2012</td>
+            <td><a href="/case/1009">Lee&#39;s Summit R-7 School District Delivers with Electric Trucks</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20120501</td>
+          <td>May 1, 2012</td>
+            <td><a href="/case/1004">Leadership Drives Alt Fuel Success at National Grid</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20120501</td>
+          <td>May 1, 2012</td>
+            <td><a href="/case/1102">Goss&#39; Garage Provides Tips for Using Ethanol in Classic Cars</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20120501</td>
+          <td>May 1, 2012</td>
+            <td><a href="/case/1071">Biodiesel Fuels Education in Alabama</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20120428</td>
+          <td>April 28, 2012</td>
+            <td><a href="/case/1182">Delaware Reduces Truck Idling With Electrified Parking Areas</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20120414</td>
+          <td>April 14, 2012</td>
+            <td><a href="/case/643">Students Power Remote-Controlled Cars With Biodiesel</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20120401</td>
+          <td>April 1, 2012</td>
+            <td><a href="/case/1066">Alternative Fuels Save Money in Indy</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20120331</td>
+          <td>March 31, 2012</td>
+            <td><a href="/case/17">Los Angeles Saves With Hybrid and Plug-In Electric Vehicles</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20120306</td>
+          <td>March 6, 2012</td>
+            <td><a href="/case/1006">Leadership in CNG Propels Paper Transport Inc.</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20120303</td>
+          <td>March 3, 2012</td>
+            <td><a href="/case/624">EV Charging Stations Spread Through Philly</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20111112</td>
+          <td>Nov. 12, 2011</td>
+            <td><a href="/case/564">Natural Gas School Buses Help Kansas City Save Money</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20111011</td>
+          <td>Oct. 11, 2011</td>
+            <td><a href="/case/1060">Choice Environmental Services Chooses Natural Gas</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20111001</td>
+          <td>Oct. 1, 2011</td>
+            <td><a href="/case/523">Metropolitan Utilities District Fuels Vehicles With Natural Gas</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20111001</td>
+          <td>Oct. 1, 2011</td>
+            <td><a href="/case/1054">School Buses Go Green in Virginia</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20111001</td>
+          <td>Oct. 1, 2011</td>
+            <td><a href="/case/1055">Hydraulic Hybrids: A Success in Ann Arbor</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20110928</td>
+          <td>Sept. 28, 2011</td>
+            <td><a href="/case/1067">Texas Puts a New Spin on Mowing</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20110919</td>
+          <td>Sept. 19, 2011</td>
+            <td><a href="/case/1059">Golden Eagle Distributors Inc. to Convert Entire Fleet to CNG</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20110917</td>
+          <td>Sept. 17, 2011</td>
+            <td><a href="/case/544">Electric Trucks Deliver at Kansas City Schools</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20110903</td>
+          <td>Sept. 3, 2011</td>
+            <td><a href="/case/504">San Diego Leads in Promoting EVs</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20110820</td>
+          <td>Aug. 20, 2011</td>
+            <td><a href="/case/503">Natural Gas Powers Milk Delivery Trucks in Indiana</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20110723</td>
+          <td>July 23, 2011</td>
+            <td><a href="/case/463">Reynolds Logistics Reduces Fuel Costs With EVs</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20110709</td>
+          <td>July 9, 2011</td>
+            <td><a href="/case/423">Yellow Cab Converts Taxis to Propane in Columbus, Ohio</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20110604</td>
+          <td>June 4, 2011</td>
+            <td><a href="/case/403">Liquefied Natural Gas Powers Trucks in Connecticut</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20110507</td>
+          <td>May 7, 2011</td>
+            <td><a href="/case/384">New Jersey Utility Saves With Alternative Fuel</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20110416</td>
+          <td>April 16, 2011</td>
+            <td><a href="/case/364">Semi Service Outfits Replica Batmobile to Run on Natural Gas</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20110407</td>
+          <td>April 7, 2011</td>
+            <td><a href="/case/1045">Hybrid Electric Horsepower for Kentucky Schools</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20110407</td>
+          <td>April 7, 2011</td>
+            <td><a href="/case/1046">County Fleet Goes Big on Idle Reduction, Ethanol Use, Fuel Efficiency</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20110402</td>
+          <td>April 2, 2011</td>
+            <td><a href="/case/363">James Madison University Teaches Alternative Transportation</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20110401</td>
+          <td>April 1, 2011</td>
+            <td><a href="/case/1072">Tucson Well on Its Way to Go Electric</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20110401</td>
+          <td>April 1, 2011</td>
+            <td><a href="/case/1068">Pennsylvania&#39;s Ethanol Corridor Project Surpasses 1 Million Gallons </a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20110319</td>
+          <td>March 19, 2011</td>
+            <td><a href="/case/385">New Orleans Provides Green Transportation</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20110305</td>
+          <td>March 5, 2011</td>
+            <td><a href="/case/343">Maryland Conserves Fuel With Hybrid Trucks</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20110219</td>
+          <td>Feb. 19, 2011</td>
+            <td><a href="/case/323">Propane Powers Airport Shuttles in New Orleans</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20110205</td>
+          <td>Feb. 5, 2011</td>
+            <td><a href="/case/283">Camp Discovery Helps Kids Build an Electric Dune Buggy</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20110122</td>
+          <td>Jan. 22, 2011</td>
+            <td><a href="/case/263">Knoxville Utilities Board Reduces Petroleum Use</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20110115</td>
+          <td>Jan. 15, 2011</td>
+            <td><a href="/case/303">Austin Lays Plans for Carbon-Neutral City Fleet</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20101225</td>
+          <td>Dec. 25, 2010</td>
+            <td><a href="/case/244">Great Smoky Mountains National Park Turns to Alternative Fuels</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20101211</td>
+          <td>Dec. 11, 2010</td>
+            <td><a href="/case/243">Tennessee Reduces Pollution With Propane Hybrid Trolleys</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20101113</td>
+          <td>Nov. 13, 2010</td>
+            <td><a href="/case/223">CNG Refuse Haulers Do Heavy Lifting in New York</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20101030</td>
+          <td>Oct. 30, 2010</td>
+            <td><a href="/case/203">Connecticut Utility Fleet Operates Vehicles on Alternative Fuels</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20101016</td>
+          <td>Oct. 16, 2010</td>
+            <td><a href="/case/172">Yellowstone National Park Commits to Alternative Fuels</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20101016</td>
+          <td>Oct. 16, 2010</td>
+            <td><a href="/case/167">V Garofalo Carting Cleans up New York With Natural Gas Trucks</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20101002</td>
+          <td>Oct. 2, 2010</td>
+            <td><a href="/case/163">Wisconsin Reduces Emissions With Natural Gas Trucks</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20100701</td>
+          <td>July 1, 2010</td>
+            <td><a href="/case/63">Colorado Airport Relies on Natural Gas Fueling Stations</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20100618</td>
+          <td>June 18, 2010</td>
+            <td><a href="/case/23">Hybrid Electric Shuttle Buses Offer Free Rides in Maryland</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20100603</td>
+          <td>June 3, 2010</td>
+            <td><a href="/case/43">Fisher Coachworks Develops Plug-In Electric Bus in Michigan</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20100506</td>
+          <td>May 6, 2010</td>
+            <td><a href="/case/18">Texas Taxis Go Hybrid</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20100422</td>
+          <td>April 22, 2010</td>
+            <td><a href="/case/19">Electric Trolley Boosts Business in Bakersfield, California</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20100408</td>
+          <td>April 8, 2010</td>
+            <td><a href="/case/3">Colonial Williamsburg Switches to Alternative Transportation</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20100325</td>
+          <td>March 25, 2010</td>
+            <td><a href="/case/2">Students Reduce Vehicle Idling in San Antonio, Texas</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20100311</td>
+          <td>March 11, 2010</td>
+            <td><a href="/case/1">Natural Gas Street Sweepers Improve Air Quality in New York</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20100304</td>
+          <td>March 4, 2010</td>
+            <td><a href="/case/1061">Hydraulic Hybrid Pressed into Service in Refuse Collection</a></td>
+          <td>Web Story</td>
+        </tr>
+
+
+        <tr>
+          <td>20100225</td>
+          <td>Feb. 25, 2010</td>
+            <td><a href="/case/0">Propane Buses Save Money for Virginia Schools</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20100211</td>
+          <td>Feb. 11, 2010</td>
+            <td><a href="/case/4">Michigan Fleet Reduces Gasoline and Diesel Use</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20100128</td>
+          <td>Jan. 28, 2010</td>
+            <td><a href="/case/5">MedCorp Fuels Emergency Vehicles With Propane in Ohio</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20100114</td>
+          <td>Jan. 14, 2010</td>
+            <td><a href="/case/6">Empire Coachworks Converts Limousines to Natural Gas</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20091231</td>
+          <td>Dec. 31, 2009</td>
+            <td><a href="/case/7">Biodiesel Truck Transports Capitol Christmas Tree</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20091211</td>
+          <td>Dec. 11, 2009</td>
+            <td><a href="/case/8">Alternative Fuel Vehicles Lower Emissions in Columbus, Ohio</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20091127</td>
+          <td>Nov. 27, 2009</td>
+            <td><a href="/case/9">Dallas Police Department Reduces Vehicle Idling</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20091030</td>
+          <td>Oct. 30, 2009</td>
+            <td><a href="/case/11">St. Louis Airport Relies on Biodiesel and Natural Gas Vehicles</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20091016</td>
+          <td>Oct. 16, 2009</td>
+            <td><a href="/case/12">New York City Cleans up With Alternative Fuel Vehicles</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20090918</td>
+          <td>Sept. 18, 2009</td>
+            <td><a href="/case/14">Kansas City Greens Its Fleet With Natural Gas and Biodiesel</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20090905</td>
+          <td>Sept. 5, 2009</td>
+            <td><a href="/case/15">Dallas Airport Operates With Alternative Fuels</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20090304</td>
+          <td>March 4, 2009</td>
+            <td><a href="/case/16">Clean Cities Celebrates 15th Anniversary</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20041231</td>
+          <td>Dec. 31, 2004</td>
+            <td><a href="/case/183">Glacier-Waterton Park Powers Buses With Propane</a></td>
+          <td>Video</td>
+        </tr>
+
+
+        <tr>
+          <td>20170801</td>
+          <td>Aug. 1, 2017</td>
+              <td><a href="/files/u/publication/waste_to_fuel.pdf">Waste-to-Fuel: A Case Study of Converting Food Waste to Renewable Natural Gas as a Transportation Fuel</a></td>
+          <td>Document</td>
+        </tr>
+
+
+        <tr>
+          <td>20170801</td>
+          <td>Aug. 1, 2017</td>
+              <td><a href="/files/u/publication/cow_power_case_study.pdf">Cow Power: A Case Study of Renewable Compressed Natural Gas as a Transportation Fuel</a></td>
+          <td>Document</td>
+        </tr>
+
+
+        <tr>
+          <td>20170701</td>
+          <td>July 1, 2017</td>
+              <td><a href="/files/u/publication/idling_reduction_emergency_vehicles_case_study.pdf">Idling Reduction for Emergency Vehicles - A Case Study</a></td>
+          <td>Document</td>
+        </tr>
+
+
+        <tr>
+          <td>20170419</td>
+          <td>April 19, 2017</td>
+              <td><a href="/files/u/publication/federal_wpc_case_study.pdf">Implementing Workplace Charging within Federal Agencies</a></td>
+          <td>Document</td>
+        </tr>
+
+
+        <tr>
+          <td>20161212</td>
+          <td>Dec. 12, 2016</td>
+              <td><a href="/files/u/publication/wpc_2016_progress_report.pdf">Workplace Charging Challenge - Progress Update 2016: A New Sustainable Commute</a></td>
+          <td>Document</td>
+        </tr>
+
+
+        <tr>
+          <td>20161010</td>
+          <td>Oct. 10, 2016</td>
+              <td><a href="/files/u/publication/pev_charging_healthcare.pdf">Protecting Public Health: Plug-In Electric Vehicle Charging and the Healthcare Industry</a></td>
+          <td>Document</td>
+        </tr>
+
+
+        <tr>
+          <td>20160801</td>
+          <td>Aug. 1, 2016</td>
+              <td><a href="/files/u/publication/ng_regional_transport_trucks.pdf">Case Study: Natural Gas Regional Transport Trucks</a></td>
+          <td>Document</td>
+        </tr>
+
+
+        <tr>
+          <td>20160401</td>
+          <td>April 1, 2016</td>
+              <td><a href="/files/u/publication/case_study_propane_bakery_delivery.pdf">Case Study - Propane Bakery Delivery Step Vans</a></td>
+          <td>Document</td>
+        </tr>
+
+
+        <tr>
+          <td>20160321</td>
+          <td>March 21, 2016</td>
+              <td><a href="https://avt.inl.gov/sites/default/files/pdf/evse/DriveElectricVermontCaseStudyMarch2016.pdf">Drive Electric Vermont Case Study</a></td>
+          <td>Document</td>
+        </tr>
+
+
+        <tr>
+          <td>20160304</td>
+          <td>March 4, 2016</td>
+              <td><a href="/files/u/publication/wpc_charging_university_campuses.pdf">Workplace Charging: Charging Up University Campuses</a></td>
+          <td>Document</td>
+        </tr>
+
+
+        <tr>
+          <td>20160112</td>
+          <td>Jan. 12, 2016</td>
+              <td><a href="/files/u/publication/school_districts_propane.pdf">School Districts Move to the Head of the Class with Propane</a></td>
+          <td>Document</td>
+        </tr>
+
+
+        <tr>
+          <td>20151104</td>
+          <td>Nov. 4, 2015</td>
+              <td><a href="/files/u/publication/ng_powered_bus_service.pdf">Developing a Natural Gas-Powered Bus Rapid Transit Service: A Case Study</a></td>
+          <td>Document</td>
+        </tr>
+
+
+        <tr>
+          <td>20150319</td>
+          <td>March 19, 2015</td>
+              <td><a href="/files/u/publication/business_case_cng_fleets.pdf">Building a Business Case for Compressed Natural Gas in Fleet Applications</a></td>
+          <td>Document</td>
+        </tr>
+
+
+        <tr>
+          <td>20140909</td>
+          <td>Sept. 9, 2014</td>
+              <td><a href="/files/u/publication/cng_infrastructure_costs.pdf">Costs Associated with Compressed Natural Gas Vehicle Fueling Infrastructure </a></td>
+          <td>Document</td>
+        </tr>
+
+
+        <tr>
+          <td>20140801</td>
+          <td>Aug. 1, 2014</td>
+              <td><a href="/files/u/publication/case-study-propane-school-bus-fleets.pdf">Case Study - Propane School Bus Fleets</a></td>
+          <td>Document</td>
+        </tr>
+
+
+        <tr>
+          <td>20140201</td>
+          <td>Feb. 1, 2014</td>
+              <td><a href="/files/u/publication/casestudy_cng_refuse_feb2014.pdf">Case Study - Compressed Natural Gas Refuse Fleets</a></td>
+          <td>Document</td>
+        </tr>
+
+
+        <tr>
+          <td>20130601</td>
+          <td>June 1, 2013</td>
+              <td><a href="/files/u/publication/lng_case_study_8_2013.pdf">Case Study - Liquefied Natural Gas</a></td>
+          <td>Document</td>
+        </tr>
+
+
+        <tr>
+          <td>20090601</td>
+          <td>June 1, 2009</td>
+              <td><a href="http://www.afdc.energy.gov/afdc/pdfs/45626.pdf">Biodiesel Clears the Air in Underground Mines</a></td>
+          <td>Document</td>
+        </tr>
+
+    </tbody>
+  </table>
+</div>
+
+  </div>
+
+</div>
+
+
+    <!--stopindex-->
+
+  </div>
+</div>
+
+      <footer>
+        <div id="footer_nav" class="row-fluid hidden-print">
+  <div class="span4">
+    <div class="footer-nav-list">
+      <h5><a href="/fuels/">Fuels & Vehicles</a></h5>
+      <ul><li><a href="/fuels/biodiesel.html">Biodiesel</a></li><li><a href="/fuels/electricity.html">Electricity</a></li><li><a href="/fuels/ethanol.html">Ethanol</a></li><li><a href="/fuels/hydrogen.html">Hydrogen</a></li><li><a href="/fuels/natural_gas.html">Natural Gas</a></li><li><a href="/fuels/propane.html">Propane</a></li><li><a href="/fuels/emerging.html">Emerging Fuels</a></li><li><a href="/fuels/prices.html">Fuel Prices</a></li></ul>
+    </div>
+  </div>
+  <div class="span4">
+    <div class="footer-nav-list">
+      <h5><a href="/conserve/">Conserve Fuel</a></h5>
+      <ul><li><a href="/conserve/idle_reduction_basics.html">Idle Reduction</a></li><li><a href="/conserve/equipment.html">Parts &amp; Equipment</a></li><li><a href="/conserve/vehicle_maintenance.html">Maintenance</a></li><li><a href="/conserve/driving_behavior.html">Driving Behavior</a></li><li><a href="/conserve/rightsizing.html">Fleet Rightsizing</a></li><li><a href="/conserve/system_efficiency.html">System Efficiency</a></li></ul>
+    </div>
+  </div>
+  <div class="span4">
+    <div class="footer-nav-list">
+      <h5><a href="/stations">Locate Stations</a></h5>
+      <ul>
+        <li><a href="/stations/#/find/nearest">Search by Location</a></li>
+        <li><a href="/stations/#/find/route">Map a Route</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="span4">
+    <div class="footer-nav-list">
+      <h5><a href="/laws">Laws & Incentives</a></h5>
+      <ul>
+        <li><a href="/laws/search">Search</a></li>
+        <li><a href="/laws/fed_summary">Federal</a></li>
+        <li><a href="/laws/state">State</a></li>
+        <li><a href="/laws/key_legislation">Key Legislation</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="span4">
+    <div class="footer-nav-list">
+      <h5><a href="/tools">Data & Tools</a></h5>
+      <ul>
+        <li><a href="/widgets/">Widgets</a></li>
+        <li><a href="/data_download/">Data Downloads</a></li>
+        <li><a href="https://developer.nrel.gov/docs/transportation">APIs</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="span4">
+    <div class="footer-nav-list">
+      <h5><a href="/about.html">About</a></h5>
+      <ul>
+        <li><a href="https://www.energy.gov/eere/vehicles/vehicle-technologies-office-newsletters">Newsletters</a></li>
+      </ul>
+      <ul><li><a href="/project_assistance.html">Project Assistance</a></li><li><a href="/contacts.html">Contacts</a></li></ul>
+    </div>
+  </div>
+</div>
+
+        <div id="footer_details" class="row-fluid">
+  <div class="span24">
+    <div class="row-fluid">
+      <div class="span7"></div>
+      <div class="span10 trs">
+        <a href="mailto:technicalresponse@icf.com"><img alt="TRS" class="pull-left trs" src="https://afdc.energy.gov/template/assets/trs-a1b686a94ee7de09b062aa8374ba6764c6492762848e51a0e2e823687595c349.png" /></a>
+        <strong>Need project assistance?</strong>
+        <br>
+        Email the <a href="mailto:technicalresponse@icf.com" class="underline">Technical Response Service</a> or call <a href="tel:800-254-6735" itemprop="telephone" class="underline">800-254-6735</a>
+      </div>
+    </div>
+    <br><br>
+    The AFDC is a resource of the U.S. Department of Energy's Office of Energy Efficiency and Renewable Energy's <a href="https://energy.gov/eere/vehicles/technology-integration" class="underline">Vehicle Technologies Office</a>.
+    <br><br>
+    <a href="/contacts.html">Contacts</a> | <a href="https://energy.gov/about-us/web-policies">Web Site Policies</a> | <a href="https://energy.gov">U.S. Department of Energy</a> | <a href="https://www.usa.gov">USA.gov</a>
+  </div>
+</div>
+
+
+      </footer>
+    </div>
+    <div id="modal_gallery_enlarge" class="modal modal-gallery modal-gallery-enlarge hide">
+    <div class="modal-header">
+        <a class="close" data-dismiss="modal">&times;</a>
+        <h2 class="modal-title"></h2>
+    </div>
+    <div class="modal-body"><div class="modal-image"></div></div>
+    <div class="modal-footer">
+      <div class="modal-description"></div>
+    </div>
+</div>
+
+  </body>
+</html>
+
+
