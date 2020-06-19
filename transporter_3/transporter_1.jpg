@@ -1,0 +1,941 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html  lang="en">
+
+
+
+ 
+
+
+
+
+
+
+
+
+<head>
+    <title>Rally Team USA | Subaru Motorsports</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
+    <meta name="keywords" content="Subaru, 2014 Forester, 2014 Outback, 2014 Legacy, 2014 Impreza, 2014 Impreza WRX, 2014 Impreza WRX STI, 2014 XV Crosstrek, 2014 XV Crosstrek Hybrid, all wheel drive, 4 wheel drive, Subaru, Subaru rally, performance, Parts, Subaru performance tuning, spt, hybrid, SUVs, sedans, turbo" />
+    <meta name="referrer" content="always" />
+    <meta name="description" content="Visit Subaru of America for reviews, pricing and photos of Subaru Cars, Sedans, SUVs. Find a Subaru Retailer Information." />
+    
+
+
+
+ 
+
+
+         
+
+
+
+
+
+
+
+
+<meta class="swiftype" name="published_at" data-type="date" content="Mon Jun 18 12:11:37 EDT 2018" />
+<meta class="swiftype" name="info" data-type="string" content="Visit Subaru of America for reviews, pricing and photos of Subaru Cars, Sedans, SUVs. Find a Subaru Retailer Information." />
+<meta property="og:image" content="http://www.subaru.com/content/dam/subaru/global/mobile/header/subaru-mobile-logo.png">
+<meta name="twitter:image:alt" content="http://www.subaru.com/content/dam/subaru/global/mobile/header/subaru-mobile-logo.png">
+<meta property="og:title" content="Subaru Cars, Sedans, SUVs | Subaru of America">
+<meta property="og:description" content="Visit Subaru of America for reviews, pricing and photos of Subaru Cars, Sedans, SUVs. Find a Subaru Retailer Information.">
+
+<meta property="og:url" content="http://www.subaru.com/enthusiasts/rally.html">
+<meta name="twitter:card" content="http://www.subaru.com/content/dam/subaru/global/mobile/header/subaru-mobile-logo.png">
+<meta property="og:site_name" content="Subaru of America, Inc.">
+<meta name="twitter:site" content="@subaru_usa">
+
+
+<title>Rally Team USA | Subaru Motorsports</title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
+<meta name="keywords" content="Subaru, 2014 Forester, 2014 Outback, 2014 Legacy, 2014 Impreza, 2014 Impreza WRX, 2014 Impreza WRX STI, 2014 XV Crosstrek, 2014 XV Crosstrek Hybrid, all wheel drive, 4 wheel drive, Subaru, Subaru rally, performance, Parts, Subaru performance tuning, spt, hybrid, SUVs, sedans, turbo" />
+<meta name="referrer" content="always" />
+<meta name="description" content="Visit Subaru of America for reviews, pricing and photos of Subaru Cars, Sedans, SUVs. Find a Subaru Retailer Information." />      
+
+    
+    <script type="text/javascript" src="/etc/designs/subaru/js/soa-utils/js/soa-utils.js"></script>
+
+    <link rel="stylesheet" href="/etc/designs/subaru/css/jquery-ui-1.9.2.min.css" type="text/css"/>
+<link rel="stylesheet" href="/etc/designs/subaru/motorsports/css/clientlib.min.css" type="text/css"/>
+
+
+
+    <!--[if IE 8]>
+        <link rel="stylesheet" href="/etc/designs/subaru/motorsports/css/clientlib-ie8.min.css" type="text/css"/>
+
+    <![endif]-->
+  
+    
+
+
+<!--
+       add sitemap properties to sidekick
+       note that this is done by adding a new action to the Sidekick default set of page actions
+       even though the Sidekick is launched above in a init.jsp javascript snippet, the launch is asynchronous
+       with a 32ms delay, so by the time the Sidekick launches, this code has already executed. Should we
+       run into timing issues, than the init.jsp would have to be overridden in the base page component.
+    -->
+
+
+    
+
+
+
+
+
+            <script src="//assets.adobedtm.com/dc6dc92918e9992d9b1f3980715fadace41ea9dc/satelliteLib-68036c44f9dd7bdff48ed88ab7fe508eadce200f.js"></script>
+        
+
+
+
+
+
+<script type="text/javascript">
+    var SubaruDigitalData = SubaruDigitalData || {};
+
+    SubaruDigitalData = {
+        'specVersion':'1.6',
+        'environment': 'prod',
+        'events': [],
+        'pageData': {
+            'pageName':             _satellite.getVar('page_name'),
+            'pageURL':              _satellite.getVar('url'),
+            'pageRef':              _satellite.getVar('referrer'),
+            'pageSiteSection':      _satellite.getVar('site_section')
+        },
+        'siteData': {
+            'siteDomain':           _satellite.getVar('hostname'),
+            'siteLanguage':         _satellite.getVar('browser_language'),
+            'siteFormat':           _satellite.getVar('site_type')
+        },
+        'userData': {
+            'userAgent':            _satellite.getVar('user_agent'),
+            'userIP':               _satellite.getVar('user_ip'),
+            'userID':               _satellite.getVar('user_id'),
+            'userZipCode':          _satellite.getVar('user_zipcode'),
+            'userRetailerName':     _satellite.getVar('user_retailer')
+        }
+    };
+
+</script>
+
+    <script type="text/javascript" src="/etc/designs/subaru/js/jquery-1-11-2.min.js"></script>
+
+    <script type="text/javascript" src="/etc/designs/subaru/js/jquery-migrate-1.4.1.min.js"></script>
+
+    <script type="text/javascript" src="/etc/designs/subaru/granite-utils.min.js"></script>
+
+
+</head>
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+<body>
+    <div class="emergency_alert_modal">
+
+<link rel="stylesheet" href="/etc/designs/subaru/emergency_alert/css/clientlib.min.css" type="text/css"/>
+
+<div class="emergency_alert_wrapper">
+    <div id="emergency-overlay"></div>
+    <div id="emergency-container">  
+        <a class="modalCloseImg simplemodal-close" title="Close"></a>
+        <div id="emergency-wrap">
+            <div id="emergency-alert">
+                <p id="emergency-alert-message"></p>
+            </div>
+        </div>
+    </div>
+</div>
+
+	<script type="text/javascript" src="/etc/designs/subaru/js/soa-utils.min.js"></script>
+<script type="text/javascript" src="/etc/designs/subaru/emergency_alert/js/clientlib.min.js"></script>
+
+
+</div>
+
+	<div class="raq_modal raq-modal-loader">
+
+
+<link rel="stylesheet" href="/etc/designs/subaru/retailers/find_a_retailer/css/clientlib.min.css" type="text/css"/>
+<link rel="stylesheet" href="/etc/designs/subaru/css/jqueryplugins-mCustomScrollbar.min.css" type="text/css"/>
+<link rel="stylesheet" href="/etc/designs/subaru-designs/en/raq-modal/css/main.min.css" type="text/css"/>
+
+<div class="raq-modal-contaner"></div>
+<div class="raq-quotey-container">
+    
+
+    
+
+    
+<div class="raq-quotey-background"> </div>
+<div class="raq-quotey-content">
+    <div class="raq-quotey-box">
+        <span class="raq-quotey-close-icon"></span>
+        <h2 aria-hidden="true" class="raq-quotey-title"></h2>
+        <div class="raq-quotey-options">
+            <span class="raq-quotey-close"></span>
+            <span class="raq-quotey-open"></span>
+        </div>
+    </div>
+    <div class="raq-quotey-spacer"></div>
+</div>  
+</div>
+<script type="text/javascript" src="/etc/designs/subaru/js/jqueryplugins-mCustomScrollbar.min.js"></script>
+<script type="text/javascript" src="/etc/designs/subaru/retailers/change_retailer_modal/js/clientlib.min.js"></script>
+<script type="text/javascript" src="/etc/designs/subaru/js/soa-dealers.min.js"></script>
+<script type="text/javascript" src="/etc/designs/subaru/raq-modal/js/main.min.js"></script>
+
+</div>
+ 
+
+   
+    
+
+
+<div id="mSport-mobile-landscape"></div>
+<div id="mSportHeader-section">
+    <div id="mSportHeader-content">
+        <div class="logo parbase">
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="http://www.subaru.com/index.html" target="_self" title="Subaru Logo" class="mSportLogos-subaruLogo trk-motorSports-subaruLogo"></a>
+<ul id="mSportLogos-content" data-root-url="/enthusiasts/rally.html">
+    <li class="mSportLogos-mainTitle">
+        <a href="/enthusiasts/rally.html" title="Subaru Motorsports Homepage" class="trk-motorSports-mainTittle"></a>
+    </li>
+    <li class="mSportLogos-mobileHidden">
+        <a href="/enthusiasts/rally.html" title="Subaru Rally Team USA" class="trk-motorSports-mainLogo"></a>
+    </li>
+</ul>
+</div>
+
+        <div class="list-menu">
+
+		<div id="menu_holder">
+                <ul id="mSportMainMenu-Section">
+                    <li class="menuStart">
+                        <a id="mSportBtn-menuTop" href="#" class="trk-mSportBtn-menuTop" title="Menu">Menu</a>
+                    </li>
+                    <li id="menuItems">
+                        <ul>
+                            <li class="search menuItem">
+                                <a class="mSportBtn-search noHeight trk-list-menu" href="#">Search</a>
+                                <div class="mobileSearch">
+                                    <input type="text" placeholder="Search"/>
+                                    <span class="divider"></span>
+                                    <a class="closeBtn">Close</a>
+                                </div>
+                            </li>
+                            <li class="menuItem"><a class="mSportBtn-events" href="#">Events</a></li>
+                            <li class="menuItem"><a class="mSportBtn-cars" href="#">Cars</a></li>
+                            <li class="menuItem"><a class="mSportBtn-drivers" href="#">Drivers</a></li>
+                            <li class="menuItem"><a class="mSportBtn-sponsors" href="#">Sponsors</a></li>
+                            <li class="menuItem"><a class="mSportBtn-about noHeight" href="#">About</a></li>
+                        </ul>
+                    </li>
+                </ul>
+		</div></div>
+
+    </div>
+</div>
+
+<div id="mSportNextEvent-section">
+    <div class="ticker parbase">
+
+
+
+    <div id="mSportNextEvent-content" class="ticker-element">
+        <h4>Next Event</h4>
+        <div class="mSportGradient-left"></div>
+        <div class='ticker-marquee ticker-preload' id='ticker-next-event-text'>
+        
+                    <a href="/content/subaru/en/motorsports/events/rally-2020-southern-ohio-forest-rally.html" title="Race Type" class="mSportBtn-image mSportSerie mSportBtn-Rally">Rally</a><p><a href="/content/subaru/en/motorsports/events/rally-2020-southern-ohio-forest-rally.html">July 18 <strong>Southern Ohio Forest Rally</strong> Chillicothe, Ohio<span class="mSportBullet-Content">&#149;</span></a></p>
+        
+                    <a href="/content/subaru/en/motorsports/events/rally-2020-ojibwe-forests-rally.html" title="Race Type" class="mSportBtn-image mSportSerie mSportBtn-Rally">Rally</a><p><a href="/content/subaru/en/motorsports/events/rally-2020-ojibwe-forests-rally.html">Aug 28 - 30  <strong>Ojibwe Forests Rally</strong> Detroit Lakes, Minnesota<span class="mSportBullet-Content">&#149;</span></a></p>
+        
+        </div>
+	</div>
+	<div id="mSportLiveEventTwitter-content" class="ticker-element ">
+        <h4>Live Event</h4>
+        <div class="mSportGradient-left"></div>
+        <div class='ticker-marquee ticker-preload' id='ticker-twitter-text'>
+            <a href="#" title="" class="mSportBtn-image mSportSerie mSportBtn-Rally">Rally</a>
+            <p>Stay tuned for live tweets from today's event.</p>
+        </div>
+	</div>
+    
+    <div class="mSportGradient-right"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           
+</div>
+
+</div>
+
+<div id="mSportMainMenu-Content">
+
+</div>
+
+    
+        
+
+
+
+
+<div id="mSportWrapper-section">
+	<div class="wall">
+
+
+
+
+
+
+
+<div id="mSportWall-section" data-ismobile="0">
+
+    <div class="mSportScrollableWall-Content">
+        <div id="mSportActions-Content">
+            <ul id="filter-Content">
+                <li><a class="all-media active trk-wall-media" href="#" title="All Media">All Media</a></li>
+                <li><a class="videos trk-wall-videos" href="#" title="Videos">Videos</a></li>
+				<li><a class="control last trk-wall-control" href="#" title="Launch Control Videos">Launch Control Videos</a></li>
+            </ul>
+            <ul id="tags-Content">
+                <li><a href="#" title="Impreza">Impreza</a></li>
+            </ul>
+        </div>
+
+        <ul id="articles-Content">
+            
+                        <li class="articlesContent-FirstElments" data-link="/content/subaru/en/motorsports/articles/subaru-motorsports-usa-driver-travis-pastrana-will-star-in-the-2.html" data-isvideo="0" data-hasvideosonly="0" style="">
+                            <img src="//secure-akns.subaru.com/content/media/mp_hero_880/TravisGymkhana2020_1_w.jpg" alt="Subaru Motorsports USA Driver Travis Pastrana Will Star in the 2020 Installment of the Gymkhana Video Series with Subaru to Provide the Hero Vehicle"/>
+                            <div class="article-gradient"> </div>
+                            
+                            <a href="/content/subaru/en/motorsports/articles/subaru-motorsports-usa-driver-travis-pastrana-will-star-in-the-2.html" class="trk-wall-iconSerie wallIcon--"><span class="iconText">-</span></a>
+                            
+                            <ul class="mediaIcon-Content">
+                                
+                                    
+                                <li><a href="#" class="trk-wall-iconPicture wallIcon-picture"></a></li>
+                                    
+                            </ul>
+                            
+                            <div class="articlesContent-Description">
+                                <h3>Thu May 28 10:39:43 EDT 2020 </h3>
+                                <h2>Subaru Motorsports USA Driver Travis Pastrana Will Star in the 2020 Installment of the Gymkhana Video Series with Subaru to Provide the Hero Vehicle</h2>
+                            </div>
+                        </li>
+                        
+                        <li class="" data-link="/content/subaru/en/motorsports/articles/subaru-partners-with-iracing-and-star-drivers-for-irx-invitation.html" data-isvideo="0" data-hasvideosonly="0" style="">
+                            <img src="//secure-akns.subaru.com/content/media/mp_hero_880/Pastrana_Speed_1_w.jpg" alt="Subaru Partners with iRacing and Star Drivers for IRX Invitational Rallycross Series"/>
+                            <div class="article-gradient"> </div>
+                            
+                            <a href="/content/subaru/en/motorsports/articles/subaru-partners-with-iracing-and-star-drivers-for-irx-invitation.html" class="trk-wall-iconSerie wallIcon-RallyCross"><span class="iconText">RallyCross</span></a>
+                            
+                            <ul class="mediaIcon-Content">
+                                
+                                    
+                                <li><a href="#" class="trk-wall-iconPicture wallIcon-pictures"></a></li>
+                                    
+                            </ul>
+                            
+                            <div class="articlesContent-Description">
+                                <h3>Tue Apr 07 10:39:43 EDT 2020 </h3>
+                                <h2>Subaru Partners with iRacing and Star Drivers for IRX Invitational Rallycross Series</h2>
+                            </div>
+                        </li>
+                        
+                        <li class="" data-link="/content/subaru/en/motorsports/articles/travis-pastrana-returns-to-subaru-for-2020-rally-season--joined-.html" data-isvideo="0" data-hasvideosonly="0" style="">
+                            <img src="//secure-akns.subaru.com/content/media/mp_hero_880/LOU_1314_w.jpg" alt="Travis Pastrana Returns to Subaru for 2020 Rally Season; Joined by Teammate Brandon Semenuk"/>
+                            <div class="article-gradient"> </div>
+                            
+                            <a href="/content/subaru/en/motorsports/articles/travis-pastrana-returns-to-subaru-for-2020-rally-season--joined-.html" class="trk-wall-iconSerie wallIcon-Rally"><span class="iconText">Rally</span></a>
+                            
+                            <ul class="mediaIcon-Content">
+                                
+                                    
+                                <li><a href="#" class="trk-wall-iconPicture wallIcon-pictures"></a></li>
+                                    
+                            </ul>
+                            
+                            <div class="articlesContent-Description">
+                                <h3>Thu Mar 12 10:39:43 EDT 2020 </h3>
+                                <h2>Travis Pastrana Returns to Subaru for 2020 Rally Season; Joined by Teammate Brandon Semenuk</h2>
+                            </div>
+                        </li>
+                        
+                        <li class="" data-link="/content/subaru/en/motorsports/articles/subaru-driver-david-higgins-secures-tenth-u-s--rally-championshi.html" data-isvideo="0" data-hasvideosonly="0" style="">
+                            <img src="//secure-akns.subaru.com/content/media/mp_hero_880/MSX29862_w.jpg" alt="Subaru Driver David Higgins Secures Tenth U.S. Rally Championship"/>
+                            <div class="article-gradient"> </div>
+                            
+                            <a href="/content/subaru/en/motorsports/articles/subaru-driver-david-higgins-secures-tenth-u-s--rally-championshi.html" class="trk-wall-iconSerie wallIcon-Rally"><span class="iconText">Rally</span></a>
+                            
+                            <ul class="mediaIcon-Content">
+                                
+                                    
+                                <li><a href="#" class="trk-wall-iconPicture wallIcon-pictures"></a></li>
+                                    
+                            </ul>
+                            
+                            <div class="articlesContent-Description">
+                                <h3>Mon Oct 21 10:39:43 EDT 2019 </h3>
+                                <h2>Subaru Driver David Higgins Secures Tenth U.S. Rally Championship</h2>
+                            </div>
+                        </li>
+                        
+                        <li class="" data-link="/content/subaru/en/motorsports/articles/subaru-wins-first-ever-rallycross-championship-with-victory-at-a.html" data-isvideo="0" data-hasvideosonly="0" style="">
+                            <img src="//secure-akns.subaru.com/content/media/mp_hero_880/0LG_7708_w.jpg" alt="Subaru Wins First-Ever Rallycross Championship with Victory at ARX of Mid-Ohio"/>
+                            <div class="article-gradient"> </div>
+                            
+                            <a href="/content/subaru/en/motorsports/articles/subaru-wins-first-ever-rallycross-championship-with-victory-at-a.html" class="trk-wall-iconSerie wallIcon-RallyCross"><span class="iconText">RallyCross</span></a>
+                            
+                            <ul class="mediaIcon-Content">
+                                
+                                    
+                                <li><a href="#" class="trk-wall-iconPicture wallIcon-pictures"></a></li>
+                                    
+                            </ul>
+                            
+                            <div class="articlesContent-Description">
+                                <h3>Mon Oct 07 10:39:43 EDT 2019 </h3>
+                                <h2>Subaru Wins First-Ever Rallycross Championship with Victory at ARX of Mid-Ohio</h2>
+                            </div>
+                        </li>
+                        
+                        <li class="" data-link="/content/subaru/en/motorsports/articles/subaru-motorsports-usa-earns-seventh-arx-season-podium-at-circui.html" data-isvideo="0" data-hasvideosonly="0" style="">
+                            <img src="//secure-akns.subaru.com/content/media/mp_hero_880/MSX23873_w.jpg" alt="Subaru Motorsports USA Earns Seventh ARX Season Podium at Circuit of The Americas "/>
+                            <div class="article-gradient"> </div>
+                            
+                            <a href="/content/subaru/en/motorsports/articles/subaru-motorsports-usa-earns-seventh-arx-season-podium-at-circui.html" class="trk-wall-iconSerie wallIcon-RallyCross"><span class="iconText">RallyCross</span></a>
+                            
+                            <ul class="mediaIcon-Content">
+                                
+                                    
+                                <li><a href="#" class="trk-wall-iconPicture wallIcon-pictures"></a></li>
+                                    
+                            </ul>
+                            
+                            <div class="articlesContent-Description">
+                                <h3>Mon Sep 30 10:39:43 EDT 2019 </h3>
+                                <h2>Subaru Motorsports USA Earns Seventh ARX Season Podium at Circuit of The Americas </h2>
+                            </div>
+                        </li>
+                        
+                        <li class="" data-link="/content/subaru/en/motorsports/articles/subaru-motorsports-usa-expands-to-four-driver-lineup-for-remaind.html" data-isvideo="0" data-hasvideosonly="0" style="">
+                            <img src="//secure-akns.subaru.com/content/media/mp_hero_880/0LG_1600_w.jpg" alt="Subaru Motorsports USA Expands to Four-Driver Lineup for Remainder of 2019 Americas Rallycross Season"/>
+                            <div class="article-gradient"> </div>
+                            
+                            <a href="/content/subaru/en/motorsports/articles/subaru-motorsports-usa-expands-to-four-driver-lineup-for-remaind.html" class="trk-wall-iconSerie wallIcon-RallyCross"><span class="iconText">RallyCross</span></a>
+                            
+                            <ul class="mediaIcon-Content">
+                                
+                                    
+                                <li><a href="#" class="trk-wall-iconPicture wallIcon-pictures"></a></li>
+                                    
+                            </ul>
+                            
+                            <div class="articlesContent-Description">
+                                <h3>Wed Sep 25 10:39:43 EDT 2019 </h3>
+                                <h2>Subaru Motorsports USA Expands to Four-Driver Lineup for Remainder of 2019 Americas Rallycross Season</h2>
+                            </div>
+                        </li>
+                        
+                        <li class="" data-link="/content/subaru/en/motorsports/articles/seventeen-year-old-subaru-driver-oliver-solberg-secures-second-u.html" data-isvideo="0" data-hasvideosonly="0" style="">
+                            <img src="//secure-akns.subaru.com/content/media/mp_hero_880/MSX28282-2_w.jpg" alt="Seventeen-Year-Old Subaru Driver Oliver Solberg Secures Second U.S. Win at Susquehannnock Trail Rally"/>
+                            <div class="article-gradient"> </div>
+                            
+                            <a href="/content/subaru/en/motorsports/articles/seventeen-year-old-subaru-driver-oliver-solberg-secures-second-u.html" class="trk-wall-iconSerie wallIcon-Rally"><span class="iconText">Rally</span></a>
+                            
+                            <ul class="mediaIcon-Content">
+                                
+                                    
+                                <li><a href="#" class="trk-wall-iconPicture wallIcon-pictures"></a></li>
+                                    
+                            </ul>
+                            
+                            <div class="articlesContent-Description">
+                                <h3>Mon Sep 16 10:39:43 EDT 2019 </h3>
+                                <h2>Seventeen-Year-Old Subaru Driver Oliver Solberg Secures Second U.S. Win at Susquehannnock Trail Rally</h2>
+                            </div>
+                        </li>
+                        
+                        <li class="" data-link="/content/subaru/en/motorsports/articles/subaru-launch-control-season-7-available-now-on-amazon-prime-vid.html" data-isvideo="2" data-hasvideosonly="1" style="">
+                            <img src="//secure-akns.subaru.com/content/media/mp_hero_880/LC_S07_KeyArt-1920x1080.jpg" alt="Subaru Launch Control Season 7 Available Now on Amazon Prime Video and YouTube"/>
+                            <div class="article-gradient"> </div>
+                            
+                            <a href="/content/subaru/en/motorsports/articles/subaru-launch-control-season-7-available-now-on-amazon-prime-vid.html" class="trk-wall-iconSerie wallIcon-Rally"><span class="iconText">Rally</span></a>
+                            
+                            <ul class="mediaIcon-Content">
+                                
+                                <li><a href="#" class="trk-wall-iconVideo wallIcon-video"></a></li>
+                                    
+                                    
+                            </ul>
+                            
+                            <div class="articlesContent-Description">
+                                <h3>Wed Aug 28 10:39:43 EDT 2019 </h3>
+                                <h2>Subaru Launch Control Season 7 Available Now on Amazon Prime Video and YouTube</h2>
+                            </div>
+                        </li>
+                        
+                        <li class="" data-link="/content/subaru/en/motorsports/articles/subaru-takes-double-podium-at-ojibwe-rally-as-david-higgins-exte.html" data-isvideo="0" data-hasvideosonly="0" style="">
+                            <img src="//secure-akns.subaru.com/content/media/mp_hero_880/MSX25953_w.jpg" alt="Subaru Takes Double Podium at Ojibwe Rally as David Higgins Extends Championship Lead"/>
+                            <div class="article-gradient"> </div>
+                            
+                            <a href="/content/subaru/en/motorsports/articles/subaru-takes-double-podium-at-ojibwe-rally-as-david-higgins-exte.html" class="trk-wall-iconSerie wallIcon-Rally"><span class="iconText">Rally</span></a>
+                            
+                            <ul class="mediaIcon-Content">
+                                
+                                    
+                                <li><a href="#" class="trk-wall-iconPicture wallIcon-pictures"></a></li>
+                                    
+                            </ul>
+                            
+                            <div class="articlesContent-Description">
+                                <h3>Mon Aug 26 10:39:43 EDT 2019 </h3>
+                                <h2>Subaru Takes Double Podium at Ojibwe Rally as David Higgins Extends Championship Lead</h2>
+                            </div>
+                        </li>
+                        
+                        <li class="" data-link="/content/subaru/en/motorsports/articles/despite-scott-speed-injury--subaru-perseveres-at-nitro-world-gam.html" data-isvideo="0" data-hasvideosonly="0" style="">
+                            <img src="//secure-akns.subaru.com/content/media/mp_hero_880/0LG_4873_w.jpg" alt="Despite Scott Speed Injury, Subaru Perseveres at Nitro World Games"/>
+                            <div class="article-gradient"> </div>
+                            
+                            <a href="/content/subaru/en/motorsports/articles/despite-scott-speed-injury--subaru-perseveres-at-nitro-world-gam.html" class="trk-wall-iconSerie wallIcon-RallyCross"><span class="iconText">RallyCross</span></a>
+                            
+                            <ul class="mediaIcon-Content">
+                                
+                                    
+                                <li><a href="#" class="trk-wall-iconPicture wallIcon-pictures"></a></li>
+                                    
+                            </ul>
+                            
+                            <div class="articlesContent-Description">
+                                <h3>Wed Aug 21 10:39:43 EDT 2019 </h3>
+                                <h2>Despite Scott Speed Injury, Subaru Perseveres at Nitro World Games</h2>
+                            </div>
+                        </li>
+                        
+                        <li class="" data-link="/content/subaru/en/motorsports/articles/subaru-launch-control-comes-to-amazon-prime-video-for-seventh-se.html" data-isvideo="2" data-hasvideosonly="0" style="">
+                            <img src="//secure-akns.subaru.com/content/media/mp_hero_880/LCS7_rallyslide.jpg" alt="Subaru Launch Control Comes to Amazon Prime Video for Seventh Season"/>
+                            <div class="article-gradient"> </div>
+                            
+                            <a href="/content/subaru/en/motorsports/articles/subaru-launch-control-comes-to-amazon-prime-video-for-seventh-se.html" class="trk-wall-iconSerie wallIcon-Rally"><span class="iconText">Rally</span></a>
+                            
+                            <ul class="mediaIcon-Content">
+                                
+                                <li><a href="#" class="trk-wall-iconVideo wallIcon-video"></a></li>
+                                    
+                                    
+                                <li><a href="#" class="trk-wall-iconPicture wallIcon-pictures"></a></li>
+                                    
+                            </ul>
+                            
+                            <div class="articlesContent-Description">
+                                <h3>Wed Aug 14 10:39:43 EDT 2019 </h3>
+                                <h2>Subaru Launch Control Comes to Amazon Prime Video for Seventh Season</h2>
+                            </div>
+                        </li>
+                        
+                        <li class="" data-link="/content/subaru/en/motorsports/articles/subaru-announces-four-car-lineup-for-nitro-rallycross.html" data-isvideo="0" data-hasvideosonly="0" style="">
+                            <img src="//secure-akns.subaru.com/content/media/mp_hero_880/MSL17051_w.jpg" alt="Subaru Announces Four-Car Lineup for Nitro Rallycross"/>
+                            <div class="article-gradient"> </div>
+                            
+                            <a href="/content/subaru/en/motorsports/articles/subaru-announces-four-car-lineup-for-nitro-rallycross.html" class="trk-wall-iconSerie wallIcon-RallyCross"><span class="iconText">RallyCross</span></a>
+                            
+                            <ul class="mediaIcon-Content">
+                                
+                                    
+                                <li><a href="#" class="trk-wall-iconPicture wallIcon-pictures"></a></li>
+                                    
+                            </ul>
+                            
+                            <div class="articlesContent-Description">
+                                <h3>Thu Aug 08 10:39:43 EDT 2019 </h3>
+                                <h2>Subaru Announces Four-Car Lineup for Nitro Rallycross</h2>
+                            </div>
+                        </li>
+                        
+                        <li class="" data-link="/content/subaru/en/motorsports/articles/subaru-shows-world-beating-pace-at-arx-of-canada.html" data-isvideo="0" data-hasvideosonly="0" style="">
+                            <img src="//secure-akns.subaru.com/content/media/mp_hero_880/DUE_7143_web.jpg" alt="Subaru Shows World-Beating Pace at ARX of Canada"/>
+                            <div class="article-gradient"> </div>
+                            
+                            <a href="/content/subaru/en/motorsports/articles/subaru-shows-world-beating-pace-at-arx-of-canada.html" class="trk-wall-iconSerie wallIcon-RallyCross"><span class="iconText">RallyCross</span></a>
+                            
+                            <ul class="mediaIcon-Content">
+                                
+                                    
+                                <li><a href="#" class="trk-wall-iconPicture wallIcon-pictures"></a></li>
+                                    
+                            </ul>
+                            
+                            <div class="articlesContent-Description">
+                                <h3>Mon Aug 05 10:39:43 EDT 2019 </h3>
+                                <h2>Subaru Shows World-Beating Pace at ARX of Canada</h2>
+                            </div>
+                        </li>
+                        
+                        <li class="" data-link="/content/subaru/en/motorsports/articles/subaru-and-david-higgins-take-win-at-new-england-forest-rally.html" data-isvideo="0" data-hasvideosonly="0" style="">
+                            <img src="//secure-akns.subaru.com/content/media/mp_hero_880/0LG_6969_web.jpg" alt="Subaru and David Higgins Take Win at New England Forest Rally"/>
+                            <div class="article-gradient"> </div>
+                            
+                            <a href="/content/subaru/en/motorsports/articles/subaru-and-david-higgins-take-win-at-new-england-forest-rally.html" class="trk-wall-iconSerie wallIcon-Rally"><span class="iconText">Rally</span></a>
+                            
+                            <ul class="mediaIcon-Content">
+                                
+                                    
+                                <li><a href="#" class="trk-wall-iconPicture wallIcon-pictures"></a></li>
+                                    
+                            </ul>
+                            
+                            <div class="articlesContent-Description">
+                                <h3>Mon Jul 22 10:39:43 EDT 2019 </h3>
+                                <h2>Subaru and David Higgins Take Win at New England Forest Rally</h2>
+                            </div>
+                        </li>
+                        
+                        <li class="" data-link="/content/subaru/en/motorsports/articles/subaru-takes-double-victory-at-arx-rallycross-of-gateway.html" data-isvideo="0" data-hasvideosonly="0" style="">
+                            <img src="//secure-akns.subaru.com/content/media/mp_hero_880/0LG_3243_w.jpg" alt="Subaru Takes Double Victory at ARX Rallycross of Gateway"/>
+                            <div class="article-gradient"> </div>
+                            
+                            <a href="/content/subaru/en/motorsports/articles/subaru-takes-double-victory-at-arx-rallycross-of-gateway.html" class="trk-wall-iconSerie wallIcon-RallyCross"><span class="iconText">RallyCross</span></a>
+                            
+                            <ul class="mediaIcon-Content">
+                                
+                                    
+                                <li><a href="#" class="trk-wall-iconPicture wallIcon-pictures"></a></li>
+                                    
+                            </ul>
+                            
+                            <div class="articlesContent-Description">
+                                <h3>Mon Jul 15 10:39:43 EDT 2019 </h3>
+                                <h2>Subaru Takes Double Victory at ARX Rallycross of Gateway</h2>
+                            </div>
+                        </li>
+                        
+                        <li class="" data-link="/content/subaru/en/motorsports/articles/solberg-s-take-on-the-goodwood-festival-of-speed.html" data-isvideo="0" data-hasvideosonly="0" style="">
+                            <img src="//secure-akns.subaru.com/content/media/mp_hero_880/MSL10435_w.jpg" alt="Solberg's Take on The Goodwood Festival of Speed"/>
+                            <div class="article-gradient"> </div>
+                            
+                            <a href="/content/subaru/en/motorsports/articles/solberg-s-take-on-the-goodwood-festival-of-speed.html" class="trk-wall-iconSerie wallIcon-Rally"><span class="iconText">Rally</span></a>
+                            
+                            <ul class="mediaIcon-Content">
+                                
+                                    
+                                <li><a href="#" class="trk-wall-iconPicture wallIcon-pictures"></a></li>
+                                    
+                            </ul>
+                            
+                            <div class="articlesContent-Description">
+                                <h3>Sat Jul 06 10:39:43 EDT 2019 </h3>
+                                <h2>Solberg's Take on The Goodwood Festival of Speed</h2>
+                            </div>
+                        </li>
+                        
+                        <li class="" data-link="/content/subaru/en/motorsports/articles/2019-idaho-rally-international.html" data-isvideo="0" data-hasvideosonly="0" style="">
+                            <img src="//secure-akns.subaru.com/content/media/mp_hero_880/MSL17162_w.jpg" alt="2019 Idaho Rally International"/>
+                            <div class="article-gradient"> </div>
+                            
+                            <a href="/content/subaru/en/motorsports/articles/2019-idaho-rally-international.html" class="trk-wall-iconSerie wallIcon-Rally"><span class="iconText">Rally</span></a>
+                            
+                            <ul class="mediaIcon-Content">
+                                
+                                    
+                                <li><a href="#" class="trk-wall-iconPicture wallIcon-pictures"></a></li>
+                                    
+                            </ul>
+                            
+                            <div class="articlesContent-Description">
+                                <h3>Thu Jun 27 10:39:43 EDT 2019 </h3>
+                                <h2>2019 Idaho Rally International</h2>
+                            </div>
+                        </li>
+                        
+                        <li class="" data-link="/content/subaru/en/motorsports/articles/subaru-and-scott-speed-take-rallycross-win-at-mid-ohio.html" data-isvideo="0" data-hasvideosonly="0" style="">
+                            <img src="//secure-akns.subaru.com/content/media/mp_hero_880/0LG_9952_w.jpg" alt="Subaru and Scott Speed Take Rallycross Win at Mid-Ohio"/>
+                            <div class="article-gradient"> </div>
+                            
+                            <a href="/content/subaru/en/motorsports/articles/subaru-and-scott-speed-take-rallycross-win-at-mid-ohio.html" class="trk-wall-iconSerie wallIcon-Rally"><span class="iconText">Rally</span></a>
+                            
+                            <ul class="mediaIcon-Content">
+                                
+                                    
+                                <li><a href="#" class="trk-wall-iconPicture wallIcon-pictures"></a></li>
+                                    
+                            </ul>
+                            
+                            <div class="articlesContent-Description">
+                                <h3>Mon Jun 10 10:39:43 EDT 2019 </h3>
+                                <h2>Subaru and Scott Speed Take Rallycross Win at Mid-Ohio</h2>
+                            </div>
+                        </li>
+                        
+                        <li class="" data-link="/content/subaru/en/motorsports/articles/subaru-crosstrek-desert-racer-earns-class-win-at-baja-500.html" data-isvideo="0" data-hasvideosonly="0" style="">
+                            <img src="//secure-akns.subaru.com/content/media/mp_hero_880/527_010619_19B500_GetSomePhoto_051370_web.jpg" alt="Subaru Crosstrek Desert Racer Earns Class Win at Baja 500"/>
+                            <div class="article-gradient"> </div>
+                            
+                            <a href="/content/subaru/en/motorsports/articles/subaru-crosstrek-desert-racer-earns-class-win-at-baja-500.html" class="trk-wall-iconSerie wallIcon--"><span class="iconText">-</span></a>
+                            
+                            <ul class="mediaIcon-Content">
+                                
+                                    
+                                <li><a href="#" class="trk-wall-iconPicture wallIcon-pictures"></a></li>
+                                    
+                            </ul>
+                            
+                            <div class="articlesContent-Description">
+                                <h3>Fri Jun 07 10:39:43 EDT 2019 </h3>
+                                <h2>Subaru Crosstrek Desert Racer Earns Class Win at Baja 500</h2>
+                            </div>
+                        </li>
+                        
+                        <li class="" data-link="/content/subaru/en/motorsports/articles/higgins--pastrana-top-podium-at-oregon-trail-rally.html" data-isvideo="0" data-hasvideosonly="0" style="">
+                            <img src="//secure-akns.subaru.com/content/media/mp_hero_880/MS1X0511_web.jpg" alt="Higgins, Pastrana Top Podium at Oregon Trail Rally"/>
+                            <div class="article-gradient"> </div>
+                            
+                            <a href="/content/subaru/en/motorsports/articles/higgins--pastrana-top-podium-at-oregon-trail-rally.html" class="trk-wall-iconSerie wallIcon-Rally"><span class="iconText">Rally</span></a>
+                            
+                            <ul class="mediaIcon-Content">
+                                
+                                    
+                                <li><a href="#" class="trk-wall-iconPicture wallIcon-pictures"></a></li>
+                                    
+                            </ul>
+                            
+                            <div class="articlesContent-Description">
+                                <h3>Mon Jun 03 10:39:43 EDT 2019 </h3>
+                                <h2>Higgins, Pastrana Top Podium at Oregon Trail Rally</h2>
+                            </div>
+                        </li>
+                        
+
+        </ul>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           
+</div>
+
+
+	<script>
+		var webServiceHostName = "null"
+	</script>
+
+</div>
+
+    
+  
+    
+
+
+<ul id="mSportFooter-section" class="mSportFooter-open">
+    <li class="mSportFooter-element mSportFooter-social">
+        <div class="media-share-container">
+
+
+
+<a href="#" title="hide/show footer" class="mSportFooter-arrow"></a>
+<p>Connect <span class="footer-highlight">and Share</span></p>
+<a href="#" title="Connect and Share" id="mSportFooter-share-button" class="mSportFooter-share"></a>
+<ul id="mSportFooter-media">
+    <li>
+        <a href="https://www.youtube.com/channel/UCEq8ThoiyVwd22hqQKldLjQ" title="youtube" target="_blank" class="mSportFooter-youtube trk-share-youtube"></a>
+    </li>
+    <li>
+        <a href="https://twitter.com/subarums_usa" title="twitter" target="_blank" class="mSportFooter-twitter trk-share-twitter"></a>
+    </li>
+    <li>
+        <a href="https://www.facebook.com/subarumotorsportsusa/" title="facebook" target="_blank" class="mSportFooter-facebook trk-share-facebook"></a>
+    </li>
+    <li class="mSportFooter-lastChild">
+        <a href="https://www.instagram.com/subarumotorsportsusa/" title="instagram" target="_blank" class="mSportFooter-instagram trk-share-instagram"></a>
+    </li>
+</ul>
+</div>
+
+    </li>
+    <li class="mSportFooter-element mSportFooter-container-A mSportFooter-container-small right-fma">
+       <div class="footer-FMA-A footer-fma parbase">
+					
+
+
+        
+         <div class="mSportFooter-component">
+             
+                <a class="mSportFooter-fma-content" href="https://subarugear.com/ProductList.aspx?prntdid=22114&did=27368">  
+            
+            
+                <span>Get Some&nbsp;</span>
+                <span class = "footer-highlight">Official Gear</span>
+                <div class = "footer-images">
+                    <div class="image" id="cq-textimage-jsp-/content/subaru/en/motorsports/jcr:content/footer-FMA-A">
+                        <img src="/content/dam/subaru/motorsports/styles/footer/Subaru_Motorsports_Hat_cropped.png?807568.6590545006"/>
+                        
+                            <div class="footer-hd-only"><img src="/content/dam/subaru/motorsports/styles/footer/Subaru_Motorsports_Shirt_Cropped.png?807568.6590545006"/></div>
+                        
+                        
+                            <!--<div class="footer-hd-only"><img src="/content/dam/subaru/motorsports/styles/footer/gear-glasses.png?807568.6590545006" /></div>-->
+                        
+                        <br/>
+                        
+                    </div>
+                </div>
+            </a>
+        </div>
+        
+<script type="text/javascript">
+    (function() {
+        var imageDiv = document.getElementById("cq\u002Dtextimage\u002Djsp\u002D\/content\/subaru\/en\/motorsports\/jcr:content\/footer\u002DFMA\u002DA");
+        var imageEvars = '{ imageLink: "", imageAsset: "/content/dam/subaru/motorsports/styles/footer/Subaru_Motorsports_Hat_cropped.png", imageTitle: "Subaru Image Asset\u002DSubaru_Motorsports_Hat_cropped" }';
+        var tagNodes = imageDiv.getElementsByTagName('A');
+        for (var i = 0; i < tagNodes.length; i++) {
+            var link = tagNodes.item(i); 
+            link.setAttribute('onclick', 'CQ_Analytics.record({event: "imageClick", values: ' + imageEvars + ', collect: false, options: { obj: this }, componentPath: "subaru\/components\/motorsports\/footer\/footer\u002Dfma"})');
+        }
+        
+    })();
+</script>
+
+        <div class="clear"></div>
+    
+    
+
+
+
+
+
+</div>
+
+    </li>
+    <li class="mSportFooter-element mSportFooter-container-B">
+        <div class="footer-FMA-B footer-fma parbase">
+					
+
+
+        
+         <div class="mSportFooter-component">
+             
+                <a class="mSportFooter-fma-content" href="https://www.subaru.com/build-your-own/2019/WRX.html">  
+            
+            
+                <span>Build & Price&nbsp;</span>
+                <span class = "footer-highlight">WRX STI</span>
+                <div class = "footer-images">
+                    <div class="image" id="cq-textimage-jsp-/content/subaru/en/motorsports/jcr:content/footer-FMA-B">
+                        <img src="/content/dam/subaru/motorsports/styles/footer/20TDI_WRXac189_008.png?84034.02870238674"/>
+                        
+                        
+                        <br/>
+                        
+                    </div>
+                </div>
+            </a>
+        </div>
+        
+<script type="text/javascript">
+    (function() {
+        var imageDiv = document.getElementById("cq\u002Dtextimage\u002Djsp\u002D\/content\/subaru\/en\/motorsports\/jcr:content\/footer\u002DFMA\u002DB");
+        var imageEvars = '{ imageLink: "", imageAsset: "/content/dam/subaru/motorsports/styles/footer/20TDI_WRXac189_008.png", imageTitle: "Subaru Image Asset\u002D20TDI_WRXac189_008" }';
+        var tagNodes = imageDiv.getElementsByTagName('A');
+        for (var i = 0; i < tagNodes.length; i++) {
+            var link = tagNodes.item(i); 
+            link.setAttribute('onclick', 'CQ_Analytics.record({event: "imageClick", values: ' + imageEvars + ', collect: false, options: { obj: this }, componentPath: "subaru\/components\/motorsports\/footer\/footer\u002Dfma"})');
+        }
+        
+    })();
+</script>
+
+        <div class="clear"></div>
+    
+    
+
+
+
+
+
+</div>
+
+    </li>
+</ul>
+
+<div id="share_holder"></div>
+
+    <script type="text/javascript" src="/etc/designs/subaru/js/jquery-ui-1.9.2.min.js"></script>
+<script type="text/javascript" src="/etc/designs/subaru/js/jqueryplugins.min.js"></script>
+
+    <script type="text/javascript" src="/etc/designs/subaru/js/libs.min.js"></script>
+<script type="text/javascript" src="/etc/designs/subaru/motorsports/js/backbone-app.min.js"></script>
+
+    <script type="text/javascript" src="/etc/designs/subaru/motorsports/js/clientlib.min.js"></script>
+
+  
+    <script type="text/javascript">_satellite.pageBottom();</script>
+    	
+</body>
+</html>
